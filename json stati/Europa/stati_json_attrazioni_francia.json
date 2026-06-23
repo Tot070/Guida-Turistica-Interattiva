@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Francia",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Francia.",
+  "citta": [
+    {
+      "nome": "Parigi",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Torre Eiffel",
+          "descrizione_estesa": "Museo d'Arte emblematico di Parigi. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8576,
+            "longitudine": 2.3083
+          }
+        },
+        {
+          "nome": "Museo del Louvre",
+          "descrizione_estesa": "Parco Cittadino emblematico di Parigi. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8759,
+            "longitudine": 2.2859
+          }
+        },
+        {
+          "nome": "Cattedrale di Notre-Dame",
+          "descrizione_estesa": "Quartiere Storico emblematico di Parigi. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8727,
+            "longitudine": 2.2898
+          }
+        },
+        {
+          "nome": "Arco di Trionfo",
+          "descrizione_estesa": "Palazzo Reale emblematico di Parigi. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8547,
+            "longitudine": 2.2864
+          }
+        },
+        {
+          "nome": "Avenue des Champs-Élysées",
+          "descrizione_estesa": "Punto Panoramico emblematico di Parigi. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8569,
+            "longitudine": 2.2876
+          }
+        },
+        {
+          "nome": "Montmartre",
+          "descrizione_estesa": "Mercato Tradizionale emblematico di Parigi. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8667,
+            "longitudine": 2.2866
+          }
+        },
+        {
+          "nome": "Reggia di Versailles",
+          "descrizione_estesa": "Cattedrale Monumentale emblematico di Parigi. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8666,
+            "longitudine": 2.2848
+          }
+        },
+        {
+          "nome": "Museo d'Orsay",
+          "descrizione_estesa": "Teatro dell'Opera emblematico di Parigi. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8651,
+            "longitudine": 2.2947
+          }
+        },
+        {
+          "nome": "Centro Pompidou",
+          "descrizione_estesa": "Giardino Botanico emblematico di Parigi. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8499,
+            "longitudine": 2.3018
+          }
+        },
+        {
+          "nome": "Sainte-Chapelle",
+          "descrizione_estesa": "Piazza Centrale emblematico di Parigi. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.862,
+            "longitudine": 2.3067
+          }
+        },
+        {
+          "nome": "Giardini del Lussemburgo",
+          "descrizione_estesa": "Ponte Storico emblematico di Parigi. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8483,
+            "longitudine": 2.2788
+          }
+        },
+        {
+          "nome": "Palais Garnier",
+          "descrizione_estesa": "Galleria d'Arte Contemporanea emblematico di Parigi. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.862,
+            "longitudine": 2.2904
+          }
+        },
+        {
+          "nome": "Pont Neuf",
+          "descrizione_estesa": "Biblioteca Nazionale emblematico di Parigi. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8666,
+            "longitudine": 2.3025
+          }
+        },
+        {
+          "nome": "Quartiere Latino",
+          "descrizione_estesa": "Castello Medievale emblematico di Parigi. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8686,
+            "longitudine": 2.3036
+          }
+        },
+        {
+          "nome": "Le Marais",
+          "descrizione_estesa": "Lungofiume Animato emblematico di Parigi. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8408,
+            "longitudine": 2.2793
+          }
+        },
+        {
+          "nome": "Cimitero del Père-Lachaise",
+          "descrizione_estesa": "Sito Archeologico emblematico di Parigi. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8503,
+            "longitudine": 2.2968
+          }
+        },
+        {
+          "nome": "Basílica del Sacro Cuore",
+          "descrizione_estesa": "Monumento Commemorativo emblematico di Parigi. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8562,
+            "longitudine": 2.3019
+          }
+        },
+        {
+          "nome": "Museo dell'Orangerie",
+          "descrizione_estesa": "Centro Culturale Moderno emblematico di Parigi. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8461,
+            "longitudine": 2.3058
+          }
+        },
+        {
+          "nome": "Place de la Concorde",
+          "descrizione_estesa": "Quartiere degli Artisti emblematico di Parigi. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8606,
+            "longitudine": 2.3025
+          }
+        },
+        {
+          "nome": "Les Invalides",
+          "descrizione_estesa": "Basilica Storica emblematico di Parigi. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 48.8638,
+            "longitudine": 2.2808
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Parigi (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Parigi. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 48.8632,
+            "longitudine": 2.3141
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Parigi (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Parigi. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 48.8694,
+            "longitudine": 2.3054
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Parigi (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Parigi. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 48.8605,
+            "longitudine": 2.3062
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Parigi (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Parigi. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 48.8729,
+            "longitudine": 2.308
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Parigi (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Parigi. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 48.8657,
+            "longitudine": 2.3071
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Parigi (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Parigi. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 48.8725,
+            "longitudine": 2.2817
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Parigi (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Parigi. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 48.8468,
+            "longitudine": 2.2812
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Parigi (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Parigi. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 48.8461,
+            "longitudine": 2.3143
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Parigi (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Parigi. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 48.8401,
+            "longitudine": 2.2889
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Parigi (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Parigi. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 48.8531,
+            "longitudine": 2.3096
+          }
+        },
+        {
+          "nome": "Ponte Storico di Parigi (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Parigi. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 48.8499,
+            "longitudine": 2.307
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Parigi (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Parigi. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 48.8407,
+            "longitudine": 2.2951
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Parigi (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Parigi. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 48.8606,
+            "longitudine": 2.3144
+          }
+        },
+        {
+          "nome": "Castello Medievale di Parigi (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Parigi. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 48.8551,
+            "longitudine": 2.2766
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Parigi (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Parigi. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 48.8667,
+            "longitudine": 2.3089
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Parigi (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Parigi. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 48.852,
+            "longitudine": 2.2851
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Parigi (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Parigi. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 48.8776,
+            "longitudine": 2.2838
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Parigi (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Parigi. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 48.8731,
+            "longitudine": 2.2981
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Parigi (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Parigi. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 48.8539,
+            "longitudine": 2.314
+          }
+        },
+        {
+          "nome": "Basilica Storica di Parigi (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Parigi. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 48.8764,
+            "longitudine": 2.2914
+          }
+        }
+      ]
+    }
+  ]
+}

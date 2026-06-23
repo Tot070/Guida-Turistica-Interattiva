@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Irlanda",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Irlanda.",
+  "citta": [
+    {
+      "nome": "Dublino",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Dublino (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Dublino. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 28.0201,
+            "longitudine": 30.6676
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Dublino (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Dublino. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 28.0147,
+            "longitudine": 30.679
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Dublino (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Dublino. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 28.0086,
+            "longitudine": 30.6779
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Dublino (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Dublino. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 28.032,
+            "longitudine": 30.6485
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Dublino (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Dublino. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 28.0098,
+            "longitudine": 30.6835
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Dublino (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Dublino. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 28.0261,
+            "longitudine": 30.6712
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Dublino (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Dublino. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 28.0011,
+            "longitudine": 30.655
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Dublino (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Dublino. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 28.0043,
+            "longitudine": 30.6823
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Dublino (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Dublino. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 28.0311,
+            "longitudine": 30.6486
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Dublino (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Dublino. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 28.0269,
+            "longitudine": 30.6497
+          }
+        },
+        {
+          "nome": "Ponte Storico di Dublino (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Dublino. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 28.0016,
+            "longitudine": 30.6632
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Dublino (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Dublino. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 28.0363,
+            "longitudine": 30.6499
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Dublino (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Dublino. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 28.017,
+            "longitudine": 30.6615
+          }
+        },
+        {
+          "nome": "Castello Medievale di Dublino (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Dublino. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 28.0296,
+            "longitudine": 30.6647
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Dublino (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Dublino. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 28.0046,
+            "longitudine": 30.6698
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Dublino (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Dublino. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 28.0214,
+            "longitudine": 30.6547
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Dublino (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Dublino. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 28.0224,
+            "longitudine": 30.6502
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Dublino (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Dublino. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 28.0127,
+            "longitudine": 30.6531
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Dublino (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Dublino. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 28.0272,
+            "longitudine": 30.6765
+          }
+        },
+        {
+          "nome": "Basilica Storica di Dublino (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Dublino. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 27.9997,
+            "longitudine": 30.6636
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Dublino (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Dublino. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 28.0325,
+            "longitudine": 30.6604
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Dublino (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Dublino. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 28.0337,
+            "longitudine": 30.675
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Dublino (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Dublino. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 28.022,
+            "longitudine": 30.671
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Dublino (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Dublino. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 28.0279,
+            "longitudine": 30.6539
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Dublino (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Dublino. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 28.016,
+            "longitudine": 30.6666
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Dublino (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Dublino. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 28.0141,
+            "longitudine": 30.6815
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Dublino (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Dublino. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 28.0232,
+            "longitudine": 30.6453
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Dublino (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Dublino. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 28.0363,
+            "longitudine": 30.652
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Dublino (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Dublino. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 27.9997,
+            "longitudine": 30.6512
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Dublino (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Dublino. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 28.0363,
+            "longitudine": 30.6563
+          }
+        },
+        {
+          "nome": "Ponte Storico di Dublino (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Dublino. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 28.0304,
+            "longitudine": 30.6668
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Dublino (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Dublino. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 28.0313,
+            "longitudine": 30.6648
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Dublino (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Dublino. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 28.0035,
+            "longitudine": 30.6537
+          }
+        },
+        {
+          "nome": "Castello Medievale di Dublino (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Dublino. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 28.0186,
+            "longitudine": 30.677
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Dublino (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Dublino. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 28.0378,
+            "longitudine": 30.6739
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Dublino (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Dublino. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 28.0239,
+            "longitudine": 30.6499
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Dublino (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Dublino. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 28.002,
+            "longitudine": 30.6633
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Dublino (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Dublino. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 28.0018,
+            "longitudine": 30.6528
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Dublino (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Dublino. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 28.0223,
+            "longitudine": 30.6447
+          }
+        },
+        {
+          "nome": "Basilica Storica di Dublino (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Dublino. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 28.0021,
+            "longitudine": 30.6538
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Croazia",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Croazia.",
+  "citta": [
+    {
+      "nome": "Zagabria",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Zagabria (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Zagabria. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 30.3153,
+            "longitudine": 23.3682
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Zagabria (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Zagabria. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 30.2794,
+            "longitudine": 23.392
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Zagabria (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Zagabria. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 30.2887,
+            "longitudine": 23.363
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Zagabria (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Zagabria. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 30.3044,
+            "longitudine": 23.365
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Zagabria (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Zagabria. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 30.3133,
+            "longitudine": 23.3729
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Zagabria (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Zagabria. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 30.304,
+            "longitudine": 23.3588
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Zagabria (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Zagabria. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 30.2973,
+            "longitudine": 23.3788
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Zagabria (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Zagabria. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 30.3043,
+            "longitudine": 23.3576
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Zagabria (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Zagabria. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 30.3063,
+            "longitudine": 23.3848
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Zagabria (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Zagabria. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 30.3084,
+            "longitudine": 23.3882
+          }
+        },
+        {
+          "nome": "Ponte Storico di Zagabria (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Zagabria. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 30.2994,
+            "longitudine": 23.355
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Zagabria (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Zagabria. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 30.3028,
+            "longitudine": 23.3854
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Zagabria (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Zagabria. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 30.316,
+            "longitudine": 23.3901
+          }
+        },
+        {
+          "nome": "Castello Medievale di Zagabria (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Zagabria. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 30.2932,
+            "longitudine": 23.3767
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Zagabria (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Zagabria. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 30.3099,
+            "longitudine": 23.358
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Zagabria (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Zagabria. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 30.3113,
+            "longitudine": 23.3548
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Zagabria (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Zagabria. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 30.3034,
+            "longitudine": 23.3751
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Zagabria (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Zagabria. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 30.3072,
+            "longitudine": 23.3893
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Zagabria (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Zagabria. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 30.3025,
+            "longitudine": 23.3833
+          }
+        },
+        {
+          "nome": "Basilica Storica di Zagabria (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Zagabria. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 30.3172,
+            "longitudine": 23.38
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Zagabria (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Zagabria. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 30.3085,
+            "longitudine": 23.3776
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Zagabria (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Zagabria. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 30.291,
+            "longitudine": 23.358
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Zagabria (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Zagabria. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 30.283,
+            "longitudine": 23.383
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Zagabria (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Zagabria. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 30.2862,
+            "longitudine": 23.3704
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Zagabria (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Zagabria. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 30.3088,
+            "longitudine": 23.3728
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Zagabria (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Zagabria. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 30.3082,
+            "longitudine": 23.3586
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Zagabria (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Zagabria. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 30.3005,
+            "longitudine": 23.3599
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Zagabria (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Zagabria. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 30.2971,
+            "longitudine": 23.3751
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Zagabria (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Zagabria. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 30.2927,
+            "longitudine": 23.358
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Zagabria (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Zagabria. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 30.2978,
+            "longitudine": 23.388
+          }
+        },
+        {
+          "nome": "Ponte Storico di Zagabria (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Zagabria. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 30.2924,
+            "longitudine": 23.3574
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Zagabria (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Zagabria. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 30.3067,
+            "longitudine": 23.3577
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Zagabria (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Zagabria. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 30.3075,
+            "longitudine": 23.3619
+          }
+        },
+        {
+          "nome": "Castello Medievale di Zagabria (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Zagabria. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 30.3148,
+            "longitudine": 23.3784
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Zagabria (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Zagabria. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 30.3133,
+            "longitudine": 23.3879
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Zagabria (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Zagabria. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 30.2998,
+            "longitudine": 23.3761
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Zagabria (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Zagabria. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 30.307,
+            "longitudine": 23.3748
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Zagabria (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Zagabria. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 30.2969,
+            "longitudine": 23.3826
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Zagabria (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Zagabria. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 30.2994,
+            "longitudine": 23.3789
+          }
+        },
+        {
+          "nome": "Basilica Storica di Zagabria (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Zagabria. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 30.2804,
+            "longitudine": 23.3876
+          }
+        }
+      ]
+    }
+  ]
+}

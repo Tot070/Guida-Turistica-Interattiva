@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Belgio",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Belgio.",
+  "citta": [
+    {
+      "nome": "Bruxelles",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Bruxelles (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Bruxelles. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 33.88,
+            "longitudine": 22.9339
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Bruxelles (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Bruxelles. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 33.8794,
+            "longitudine": 22.9135
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Bruxelles (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Bruxelles. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 33.8924,
+            "longitudine": 22.946
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Bruxelles (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Bruxelles. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 33.8943,
+            "longitudine": 22.9141
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Bruxelles (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Bruxelles. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 33.894,
+            "longitudine": 22.9151
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Bruxelles (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Bruxelles. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 33.8691,
+            "longitudine": 22.9376
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Bruxelles (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Bruxelles. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 33.8616,
+            "longitudine": 22.9212
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Bruxelles (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Bruxelles. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 33.86,
+            "longitudine": 22.9241
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Bruxelles (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Bruxelles. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 33.8912,
+            "longitudine": 22.9262
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Bruxelles (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Bruxelles. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 33.8853,
+            "longitudine": 22.9479
+          }
+        },
+        {
+          "nome": "Ponte Storico di Bruxelles (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Bruxelles. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 33.8728,
+            "longitudine": 22.9129
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Bruxelles (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Bruxelles. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 33.8934,
+            "longitudine": 22.9291
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Bruxelles (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Bruxelles. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 33.8717,
+            "longitudine": 22.9403
+          }
+        },
+        {
+          "nome": "Castello Medievale di Bruxelles (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Bruxelles. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 33.8593,
+            "longitudine": 22.947
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Bruxelles (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Bruxelles. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 33.8919,
+            "longitudine": 22.9199
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Bruxelles (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Bruxelles. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 33.8579,
+            "longitudine": 22.9454
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Bruxelles (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Bruxelles. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 33.8908,
+            "longitudine": 22.9333
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Bruxelles (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Bruxelles. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 33.8714,
+            "longitudine": 22.9135
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Bruxelles (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Bruxelles. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 33.879,
+            "longitudine": 22.9464
+          }
+        },
+        {
+          "nome": "Basilica Storica di Bruxelles (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Bruxelles. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 33.8617,
+            "longitudine": 22.9336
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Bruxelles (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Bruxelles. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 33.8629,
+            "longitudine": 22.9482
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Bruxelles (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Bruxelles. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 33.8644,
+            "longitudine": 22.9117
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Bruxelles (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Bruxelles. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 33.8688,
+            "longitudine": 22.9418
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Bruxelles (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Bruxelles. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 33.8904,
+            "longitudine": 22.951
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Bruxelles (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Bruxelles. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 33.8853,
+            "longitudine": 22.9144
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Bruxelles (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Bruxelles. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 33.8634,
+            "longitudine": 22.9238
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Bruxelles (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Bruxelles. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 33.8644,
+            "longitudine": 22.9397
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Bruxelles (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Bruxelles. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 33.8802,
+            "longitudine": 22.9134
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Bruxelles (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Bruxelles. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 33.8772,
+            "longitudine": 22.9313
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Bruxelles (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Bruxelles. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 33.8607,
+            "longitudine": 22.9312
+          }
+        },
+        {
+          "nome": "Ponte Storico di Bruxelles (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Bruxelles. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 33.8653,
+            "longitudine": 22.9158
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Bruxelles (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Bruxelles. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 33.8585,
+            "longitudine": 22.9356
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Bruxelles (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Bruxelles. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 33.8652,
+            "longitudine": 22.9469
+          }
+        },
+        {
+          "nome": "Castello Medievale di Bruxelles (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Bruxelles. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 33.8954,
+            "longitudine": 22.9328
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Bruxelles (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Bruxelles. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 33.8898,
+            "longitudine": 22.923
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Bruxelles (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Bruxelles. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 33.8667,
+            "longitudine": 22.9142
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Bruxelles (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Bruxelles. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 33.8731,
+            "longitudine": 22.9181
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Bruxelles (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Bruxelles. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 33.8914,
+            "longitudine": 22.9515
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Bruxelles (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Bruxelles. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 33.8668,
+            "longitudine": 22.9135
+          }
+        },
+        {
+          "nome": "Basilica Storica di Bruxelles (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Bruxelles. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 33.8592,
+            "longitudine": 22.9459
+          }
+        }
+      ]
+    }
+  ]
+}

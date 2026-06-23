@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Italia",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Italia.",
+  "citta": [
+    {
+      "nome": "Roma",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Colosseo",
+          "descrizione_estesa": "Museo d'Arte emblematico di Roma. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.908,
+            "longitudine": 12.4872
+          }
+        },
+        {
+          "nome": "Fontana di Trevi",
+          "descrizione_estesa": "Parco Cittadino emblematico di Roma. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.9092,
+            "longitudine": 12.4885
+          }
+        },
+        {
+          "nome": "Phanteon",
+          "descrizione_estesa": "Quartiere Storico emblematico di Roma. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8953,
+            "longitudine": 12.5074
+          }
+        },
+        {
+          "nome": "Foro Romano",
+          "descrizione_estesa": "Palazzo Reale emblematico di Roma. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.905,
+            "longitudine": 12.4995
+          }
+        },
+        {
+          "nome": "Musei Vaticani",
+          "descrizione_estesa": "Punto Panoramico emblematico di Roma. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8867,
+            "longitudine": 12.4988
+          }
+        },
+        {
+          "nome": "Piazza Navona",
+          "descrizione_estesa": "Mercato Tradizionale emblematico di Roma. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8746,
+            "longitudine": 12.4982
+          }
+        },
+        {
+          "nome": "Castel Sant'Angelo",
+          "descrizione_estesa": "Cattedrale Monumentale emblematico di Roma. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8869,
+            "longitudine": 12.4791
+          }
+        },
+        {
+          "nome": "Trastevere",
+          "descrizione_estesa": "Teatro dell'Opera emblematico di Roma. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.9055,
+            "longitudine": 12.4767
+          }
+        },
+        {
+          "nome": "Scalinata di Trinità dei Monti",
+          "descrizione_estesa": "Giardino Botanico emblematico di Roma. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.9092,
+            "longitudine": 12.5099
+          }
+        },
+        {
+          "nome": "Villa Borghese",
+          "descrizione_estesa": "Piazza Centrale emblematico di Roma. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8869,
+            "longitudine": 12.4946
+          }
+        },
+        {
+          "nome": "Altare della Patria",
+          "descrizione_estesa": "Ponte Storico emblematico di Roma. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.9008,
+            "longitudine": 12.4843
+          }
+        },
+        {
+          "nome": "Campo de' Fiori",
+          "descrizione_estesa": "Galleria d'Arte Contemporanea emblematico di Roma. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8845,
+            "longitudine": 12.49
+          }
+        },
+        {
+          "nome": "Basilica di San Pietro",
+          "descrizione_estesa": "Biblioteca Nazionale emblematico di Roma. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8986,
+            "longitudine": 12.5041
+          }
+        },
+        {
+          "nome": "Catacombe di San Callisto",
+          "descrizione_estesa": "Castello Medievale emblematico di Roma. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.9098,
+            "longitudine": 12.5042
+          }
+        },
+        {
+          "nome": "Via Appia Antica",
+          "descrizione_estesa": "Lungofiume Animato emblematico di Roma. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8756,
+            "longitudine": 12.4889
+          }
+        },
+        {
+          "nome": "Bocca della Verità",
+          "descrizione_estesa": "Sito Archeologico emblematico di Roma. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8994,
+            "longitudine": 12.4884
+          }
+        },
+        {
+          "nome": "Circo Massimo",
+          "descrizione_estesa": "Monumento Commemorativo emblematico di Roma. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8949,
+            "longitudine": 12.4918
+          }
+        },
+        {
+          "nome": "Palazzo Farnese",
+          "descrizione_estesa": "Centro Culturale Moderno emblematico di Roma. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.9065,
+            "longitudine": 12.4979
+          }
+        },
+        {
+          "nome": "Giardino degli Aranci",
+          "descrizione_estesa": "Quartiere degli Artisti emblematico di Roma. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8885,
+            "longitudine": 12.4997
+          }
+        },
+        {
+          "nome": "Mercati di Traiano",
+          "descrizione_estesa": "Basilica Storica emblematico di Roma. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Rappresenta una delle tappe imperdibili per ogni visitatore.",
+          "coordinate": {
+            "latitudine": 41.8912,
+            "longitudine": 12.5091
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Roma (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Roma. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 41.9092,
+            "longitudine": 12.4834
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Roma (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Roma. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 41.9022,
+            "longitudine": 12.4946
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Roma (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Roma. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 41.8792,
+            "longitudine": 12.5107
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Roma (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Roma. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 41.8858,
+            "longitudine": 12.4798
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Roma (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Roma. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 41.897,
+            "longitudine": 12.5008
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Roma (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Roma. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 41.8966,
+            "longitudine": 12.5102
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Roma (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Roma. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 41.8716,
+            "longitudine": 12.4804
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Roma (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Roma. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 41.8891,
+            "longitudine": 12.5029
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Roma (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Roma. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 41.8801,
+            "longitudine": 12.4773
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Roma (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Roma. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 41.8994,
+            "longitudine": 12.4952
+          }
+        },
+        {
+          "nome": "Ponte Storico di Roma (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Roma. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 41.8835,
+            "longitudine": 12.5097
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Roma (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Roma. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 41.8735,
+            "longitudine": 12.4954
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Roma (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Roma. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 41.9074,
+            "longitudine": 12.4923
+          }
+        },
+        {
+          "nome": "Castello Medievale di Roma (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Roma. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 41.8963,
+            "longitudine": 12.5017
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Roma (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Roma. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 41.8885,
+            "longitudine": 12.5006
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Roma (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Roma. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 41.9087,
+            "longitudine": 12.5087
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Roma (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Roma. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 41.8943,
+            "longitudine": 12.4725
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Roma (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Roma. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 41.8705,
+            "longitudine": 12.4775
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Roma (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Roma. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 41.907,
+            "longitudine": 12.4808
+          }
+        },
+        {
+          "nome": "Basilica Storica di Roma (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Roma. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 41.8719,
+            "longitudine": 12.493
+          }
+        }
+      ]
+    }
+  ]
+}

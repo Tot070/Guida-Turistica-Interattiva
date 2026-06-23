@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Portogallo",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Portogallo.",
+  "citta": [
+    {
+      "nome": "Lisbona",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Lisbona (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Lisbona. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 39.8131,
+            "longitudine": 4.1806
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Lisbona (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Lisbona. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 39.7786,
+            "longitudine": 4.1826
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Lisbona (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Lisbona. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 39.7871,
+            "longitudine": 4.1815
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Lisbona (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Lisbona. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 39.7924,
+            "longitudine": 4.1633
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Lisbona (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Lisbona. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 39.8085,
+            "longitudine": 4.1687
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Lisbona (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Lisbona. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 39.8049,
+            "longitudine": 4.1636
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Lisbona (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Lisbona. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 39.7793,
+            "longitudine": 4.1833
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Lisbona (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Lisbona. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 39.8077,
+            "longitudine": 4.1647
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Lisbona (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Lisbona. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 39.7841,
+            "longitudine": 4.178
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Lisbona (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Lisbona. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 39.798,
+            "longitudine": 4.1696
+          }
+        },
+        {
+          "nome": "Ponte Storico di Lisbona (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Lisbona. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 39.7848,
+            "longitudine": 4.1743
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Lisbona (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Lisbona. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 39.7762,
+            "longitudine": 4.1942
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Lisbona (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Lisbona. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 39.8098,
+            "longitudine": 4.1911
+          }
+        },
+        {
+          "nome": "Castello Medievale di Lisbona (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Lisbona. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 39.785,
+            "longitudine": 4.1782
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Lisbona (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Lisbona. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 39.7801,
+            "longitudine": 4.179
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Lisbona (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Lisbona. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 39.7818,
+            "longitudine": 4.1647
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Lisbona (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Lisbona. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 39.782,
+            "longitudine": 4.1767
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Lisbona (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Lisbona. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 39.7998,
+            "longitudine": 4.195
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Lisbona (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Lisbona. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 39.7784,
+            "longitudine": 4.1862
+          }
+        },
+        {
+          "nome": "Basilica Storica di Lisbona (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Lisbona. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 39.787,
+            "longitudine": 4.1933
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Lisbona (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Lisbona. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 39.7852,
+            "longitudine": 4.1875
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Lisbona (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Lisbona. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 39.8044,
+            "longitudine": 4.1635
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Lisbona (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Lisbona. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 39.8102,
+            "longitudine": 4.1854
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Lisbona (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Lisbona. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 39.8005,
+            "longitudine": 4.1749
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Lisbona (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Lisbona. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 39.787,
+            "longitudine": 4.2011
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Lisbona (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Lisbona. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 39.7995,
+            "longitudine": 4.2016
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Lisbona (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Lisbona. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 39.8132,
+            "longitudine": 4.1699
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Lisbona (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Lisbona. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 39.7832,
+            "longitudine": 4.163
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Lisbona (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Lisbona. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 39.8006,
+            "longitudine": 4.1845
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Lisbona (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Lisbona. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 39.8009,
+            "longitudine": 4.1693
+          }
+        },
+        {
+          "nome": "Ponte Storico di Lisbona (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Lisbona. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 39.7836,
+            "longitudine": 4.1956
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Lisbona (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Lisbona. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 39.8046,
+            "longitudine": 4.1965
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Lisbona (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Lisbona. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 39.8006,
+            "longitudine": 4.1783
+          }
+        },
+        {
+          "nome": "Castello Medievale di Lisbona (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Lisbona. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 39.8148,
+            "longitudine": 4.1674
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Lisbona (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Lisbona. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 39.799,
+            "longitudine": 4.1828
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Lisbona (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Lisbona. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 39.8024,
+            "longitudine": 4.2008
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Lisbona (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Lisbona. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 39.7975,
+            "longitudine": 4.1903
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Lisbona (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Lisbona. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 39.7941,
+            "longitudine": 4.1799
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Lisbona (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Lisbona. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 39.7931,
+            "longitudine": 4.1685
+          }
+        },
+        {
+          "nome": "Basilica Storica di Lisbona (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Lisbona. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 39.7984,
+            "longitudine": 4.1702
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Austria",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Austria.",
+  "citta": [
+    {
+      "nome": "Vienna",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Vienna (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Vienna. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 28.1719,
+            "longitudine": 32.4361
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Vienna (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Vienna. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 28.1617,
+            "longitudine": 32.4463
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Vienna (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Vienna. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 28.1599,
+            "longitudine": 32.4295
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Vienna (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Vienna. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 28.1419,
+            "longitudine": 32.4322
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Vienna (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Vienna. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 28.1364,
+            "longitudine": 32.4323
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Vienna (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Vienna. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 28.15,
+            "longitudine": 32.4346
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Vienna (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Vienna. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 28.1506,
+            "longitudine": 32.4103
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Vienna (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Vienna. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 28.1429,
+            "longitudine": 32.4441
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Vienna (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Vienna. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 28.1518,
+            "longitudine": 32.4086
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Vienna (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Vienna. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 28.1542,
+            "longitudine": 32.4311
+          }
+        },
+        {
+          "nome": "Ponte Storico di Vienna (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Vienna. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 28.1616,
+            "longitudine": 32.431
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Vienna (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Vienna. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 28.1635,
+            "longitudine": 32.4324
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Vienna (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Vienna. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 28.1462,
+            "longitudine": 32.445
+          }
+        },
+        {
+          "nome": "Castello Medievale di Vienna (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Vienna. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 28.1657,
+            "longitudine": 32.4473
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Vienna (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Vienna. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 28.1572,
+            "longitudine": 32.4122
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Vienna (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Vienna. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 28.173,
+            "longitudine": 32.4285
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Vienna (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Vienna. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 28.1614,
+            "longitudine": 32.4286
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Vienna (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Vienna. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 28.1475,
+            "longitudine": 32.4472
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Vienna (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Vienna. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 28.15,
+            "longitudine": 32.4312
+          }
+        },
+        {
+          "nome": "Basilica Storica di Vienna (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Vienna. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 28.152,
+            "longitudine": 32.4399
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Vienna (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Vienna. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 28.1465,
+            "longitudine": 32.433
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Vienna (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Vienna. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 28.1706,
+            "longitudine": 32.4461
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Vienna (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Vienna. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 28.1511,
+            "longitudine": 32.4236
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Vienna (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Vienna. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 28.166,
+            "longitudine": 32.4302
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Vienna (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Vienna. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 28.1653,
+            "longitudine": 32.4297
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Vienna (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Vienna. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 28.152,
+            "longitudine": 32.4472
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Vienna (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Vienna. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 28.1501,
+            "longitudine": 32.4297
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Vienna (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Vienna. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 28.1744,
+            "longitudine": 32.4467
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Vienna (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Vienna. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 28.1545,
+            "longitudine": 32.4402
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Vienna (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Vienna. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 28.1538,
+            "longitudine": 32.4445
+          }
+        },
+        {
+          "nome": "Ponte Storico di Vienna (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Vienna. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 28.1366,
+            "longitudine": 32.4385
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Vienna (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Vienna. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 28.1496,
+            "longitudine": 32.4458
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Vienna (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Vienna. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 28.1471,
+            "longitudine": 32.4296
+          }
+        },
+        {
+          "nome": "Castello Medievale di Vienna (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Vienna. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 28.1669,
+            "longitudine": 32.4098
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Vienna (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Vienna. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 28.1468,
+            "longitudine": 32.4109
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Vienna (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Vienna. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 28.1372,
+            "longitudine": 32.4386
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Vienna (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Vienna. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 28.1583,
+            "longitudine": 32.4429
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Vienna (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Vienna. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 28.1366,
+            "longitudine": 32.4416
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Vienna (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Vienna. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 28.144,
+            "longitudine": 32.4416
+          }
+        },
+        {
+          "nome": "Basilica Storica di Vienna (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Vienna. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 28.1461,
+            "longitudine": 32.4175
+          }
+        }
+      ]
+    }
+  ]
+}

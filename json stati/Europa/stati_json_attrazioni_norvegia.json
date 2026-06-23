@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Norvegia",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Norvegia.",
+  "citta": [
+    {
+      "nome": "Oslo",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Oslo (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Oslo. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 30.1395,
+            "longitudine": 36.2173
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Oslo (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Oslo. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 30.1268,
+            "longitudine": 36.2399
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Oslo (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Oslo. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 30.1635,
+            "longitudine": 36.2167
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Oslo (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Oslo. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 30.1344,
+            "longitudine": 36.2113
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Oslo (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Oslo. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 30.1341,
+            "longitudine": 36.2125
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Oslo (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Oslo. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 30.142,
+            "longitudine": 36.2282
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Oslo (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Oslo. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 30.1308,
+            "longitudine": 36.232
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Oslo (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Oslo. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 30.1567,
+            "longitudine": 36.2175
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Oslo (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Oslo. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 30.1657,
+            "longitudine": 36.2163
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Oslo (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Oslo. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 30.1306,
+            "longitudine": 36.2086
+          }
+        },
+        {
+          "nome": "Ponte Storico di Oslo (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Oslo. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 30.1386,
+            "longitudine": 36.2183
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Oslo (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Oslo. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 30.148,
+            "longitudine": 36.2429
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Oslo (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Oslo. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 30.1596,
+            "longitudine": 36.2092
+          }
+        },
+        {
+          "nome": "Castello Medievale di Oslo (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Oslo. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 30.1602,
+            "longitudine": 36.2239
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Oslo (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Oslo. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 30.1317,
+            "longitudine": 36.2467
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Oslo (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Oslo. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 30.1445,
+            "longitudine": 36.2341
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Oslo (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Oslo. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 30.153,
+            "longitudine": 36.2344
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Oslo (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Oslo. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 30.1268,
+            "longitudine": 36.2385
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Oslo (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Oslo. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 30.1488,
+            "longitudine": 36.2397
+          }
+        },
+        {
+          "nome": "Basilica Storica di Oslo (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Oslo. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 30.1338,
+            "longitudine": 36.2284
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Oslo (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Oslo. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 30.1637,
+            "longitudine": 36.2099
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Oslo (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Oslo. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 30.1545,
+            "longitudine": 36.2294
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Oslo (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Oslo. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 30.1409,
+            "longitudine": 36.2143
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Oslo (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Oslo. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 30.1569,
+            "longitudine": 36.2289
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Oslo (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Oslo. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 30.1435,
+            "longitudine": 36.2277
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Oslo (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Oslo. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 30.1545,
+            "longitudine": 36.2216
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Oslo (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Oslo. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 30.1479,
+            "longitudine": 36.2201
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Oslo (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Oslo. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 30.1316,
+            "longitudine": 36.2326
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Oslo (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Oslo. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 30.1335,
+            "longitudine": 36.24
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Oslo (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Oslo. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 30.1463,
+            "longitudine": 36.2217
+          }
+        },
+        {
+          "nome": "Ponte Storico di Oslo (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Oslo. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 30.1261,
+            "longitudine": 36.2113
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Oslo (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Oslo. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 30.1427,
+            "longitudine": 36.229
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Oslo (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Oslo. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 30.1393,
+            "longitudine": 36.2331
+          }
+        },
+        {
+          "nome": "Castello Medievale di Oslo (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Oslo. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 30.138,
+            "longitudine": 36.2115
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Oslo (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Oslo. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 30.1593,
+            "longitudine": 36.2367
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Oslo (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Oslo. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 30.1451,
+            "longitudine": 36.2413
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Oslo (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Oslo. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 30.1489,
+            "longitudine": 36.2104
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Oslo (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Oslo. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 30.1508,
+            "longitudine": 36.2194
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Oslo (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Oslo. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 30.1437,
+            "longitudine": 36.2437
+          }
+        },
+        {
+          "nome": "Basilica Storica di Oslo (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Oslo. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 30.1273,
+            "longitudine": 36.2454
+          }
+        }
+      ]
+    }
+  ]
+}

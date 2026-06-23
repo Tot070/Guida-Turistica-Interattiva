@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Turchia",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Turchia.",
+  "citta": [
+    {
+      "nome": "Istanbul",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Istanbul (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Istanbul. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 24.5909,
+            "longitudine": 17.6249
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Istanbul (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Istanbul. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 24.613,
+            "longitudine": 17.6332
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Istanbul (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Istanbul. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 24.6258,
+            "longitudine": 17.652
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Istanbul (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Istanbul. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 24.5954,
+            "longitudine": 17.6338
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Istanbul (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Istanbul. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 24.5862,
+            "longitudine": 17.6386
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Istanbul (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Istanbul. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 24.6034,
+            "longitudine": 17.6163
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Istanbul (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Istanbul. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 24.5891,
+            "longitudine": 17.635
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Istanbul (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Istanbul. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 24.6017,
+            "longitudine": 17.6378
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Istanbul (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Istanbul. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 24.5956,
+            "longitudine": 17.6398
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Istanbul (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Istanbul. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 24.5883,
+            "longitudine": 17.6392
+          }
+        },
+        {
+          "nome": "Ponte Storico di Istanbul (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Istanbul. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 24.6137,
+            "longitudine": 17.6213
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Istanbul (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Istanbul. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 24.6226,
+            "longitudine": 17.6168
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Istanbul (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Istanbul. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 24.6134,
+            "longitudine": 17.6511
+          }
+        },
+        {
+          "nome": "Castello Medievale di Istanbul (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Istanbul. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 24.5934,
+            "longitudine": 17.6213
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Istanbul (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Istanbul. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 24.612,
+            "longitudine": 17.6236
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Istanbul (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Istanbul. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 24.6167,
+            "longitudine": 17.6197
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Istanbul (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Istanbul. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 24.6103,
+            "longitudine": 17.6187
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Istanbul (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Istanbul. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 24.6063,
+            "longitudine": 17.6353
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Istanbul (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Istanbul. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 24.6136,
+            "longitudine": 17.6544
+          }
+        },
+        {
+          "nome": "Basilica Storica di Istanbul (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Istanbul. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 24.6159,
+            "longitudine": 17.6333
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Istanbul (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Istanbul. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 24.6259,
+            "longitudine": 17.6245
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Istanbul (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Istanbul. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 24.5919,
+            "longitudine": 17.6543
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Istanbul (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Istanbul. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 24.5881,
+            "longitudine": 17.654
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Istanbul (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Istanbul. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 24.6161,
+            "longitudine": 17.6522
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Istanbul (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Istanbul. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 24.6237,
+            "longitudine": 17.6217
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Istanbul (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Istanbul. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 24.5932,
+            "longitudine": 17.6229
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Istanbul (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Istanbul. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 24.6082,
+            "longitudine": 17.6239
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Istanbul (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Istanbul. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 24.5979,
+            "longitudine": 17.6243
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Istanbul (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Istanbul. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 24.5872,
+            "longitudine": 17.6403
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Istanbul (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Istanbul. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 24.6174,
+            "longitudine": 17.6269
+          }
+        },
+        {
+          "nome": "Ponte Storico di Istanbul (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Istanbul. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 24.5916,
+            "longitudine": 17.6226
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Istanbul (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Istanbul. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 24.6188,
+            "longitudine": 17.6158
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Istanbul (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Istanbul. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 24.5886,
+            "longitudine": 17.6229
+          }
+        },
+        {
+          "nome": "Castello Medievale di Istanbul (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Istanbul. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 24.5927,
+            "longitudine": 17.622
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Istanbul (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Istanbul. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 24.6205,
+            "longitudine": 17.6212
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Istanbul (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Istanbul. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 24.6083,
+            "longitudine": 17.6552
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Istanbul (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Istanbul. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 24.6075,
+            "longitudine": 17.6212
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Istanbul (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Istanbul. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 24.5951,
+            "longitudine": 17.629
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Istanbul (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Istanbul. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 24.5923,
+            "longitudine": 17.6365
+          }
+        },
+        {
+          "nome": "Basilica Storica di Istanbul (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Istanbul. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 24.5895,
+            "longitudine": 17.6319
+          }
+        }
+      ]
+    }
+  ]
+}

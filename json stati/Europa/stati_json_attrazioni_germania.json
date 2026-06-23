@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Germania",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Germania.",
+  "citta": [
+    {
+      "nome": "Berlino",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Berlino (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Berlino. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 32.9858,
+            "longitudine": 18.1676
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Berlino (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Berlino. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 32.9811,
+            "longitudine": 18.1779
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Berlino (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Berlino. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 33.0025,
+            "longitudine": 18.1876
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Berlino (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Berlino. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 33.0102,
+            "longitudine": 18.1915
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Berlino (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Berlino. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 33.0097,
+            "longitudine": 18.1927
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Berlino (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Berlino. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 32.9823,
+            "longitudine": 18.176
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Berlino (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Berlino. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 33.0046,
+            "longitudine": 18.1773
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Berlino (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Berlino. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 32.9936,
+            "longitudine": 18.1906
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Berlino (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Berlino. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 33.0008,
+            "longitudine": 18.1704
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Berlino (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Berlino. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 33.0012,
+            "longitudine": 18.189
+          }
+        },
+        {
+          "nome": "Ponte Storico di Berlino (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Berlino. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 32.995,
+            "longitudine": 18.1957
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Berlino (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Berlino. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 32.993,
+            "longitudine": 18.1652
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Berlino (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Berlino. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 33.0152,
+            "longitudine": 18.1692
+          }
+        },
+        {
+          "nome": "Castello Medievale di Berlino (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Berlino. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 33.0067,
+            "longitudine": 18.1756
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Berlino (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Berlino. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 33.0137,
+            "longitudine": 18.1701
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Berlino (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Berlino. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 32.9802,
+            "longitudine": 18.2013
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Berlino (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Berlino. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 33.0031,
+            "longitudine": 18.1718
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Berlino (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Berlino. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 32.9883,
+            "longitudine": 18.1995
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Berlino (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Berlino. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 32.9959,
+            "longitudine": 18.184
+          }
+        },
+        {
+          "nome": "Basilica Storica di Berlino (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Berlino. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 33.017,
+            "longitudine": 18.177
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Berlino (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Berlino. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 32.9828,
+            "longitudine": 18.1918
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Berlino (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Berlino. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 33.0184,
+            "longitudine": 18.1841
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Berlino (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Berlino. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 32.9966,
+            "longitudine": 18.169
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Berlino (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Berlino. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 33.0019,
+            "longitudine": 18.1664
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Berlino (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Berlino. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 32.9944,
+            "longitudine": 18.1634
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Berlino (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Berlino. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 33.0065,
+            "longitudine": 18.1827
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Berlino (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Berlino. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 32.9866,
+            "longitudine": 18.1893
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Berlino (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Berlino. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 32.9925,
+            "longitudine": 18.1882
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Berlino (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Berlino. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 33.0134,
+            "longitudine": 18.1907
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Berlino (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Berlino. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 32.9854,
+            "longitudine": 18.1998
+          }
+        },
+        {
+          "nome": "Ponte Storico di Berlino (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Berlino. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 32.9861,
+            "longitudine": 18.1633
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Berlino (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Berlino. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 32.9944,
+            "longitudine": 18.1782
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Berlino (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Berlino. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 32.9839,
+            "longitudine": 18.1944
+          }
+        },
+        {
+          "nome": "Castello Medievale di Berlino (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Berlino. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 32.9967,
+            "longitudine": 18.1879
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Berlino (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Berlino. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 32.9934,
+            "longitudine": 18.1633
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Berlino (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Berlino. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 33.0168,
+            "longitudine": 18.1936
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Berlino (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Berlino. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 33.0066,
+            "longitudine": 18.1994
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Berlino (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Berlino. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 33.0003,
+            "longitudine": 18.1779
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Berlino (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Berlino. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 33.0036,
+            "longitudine": 18.1873
+          }
+        },
+        {
+          "nome": "Basilica Storica di Berlino (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Berlino. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 32.9916,
+            "longitudine": 18.1848
+          }
+        }
+      ]
+    }
+  ]
+}

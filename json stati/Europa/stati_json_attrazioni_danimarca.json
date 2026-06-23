@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Danimarca",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Danimarca.",
+  "citta": [
+    {
+      "nome": "Copenaghen",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Copenaghen (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Copenaghen. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 46.8984,
+            "longitudine": 33.3119
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Copenaghen (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Copenaghen. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 46.9041,
+            "longitudine": 33.3249
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Copenaghen (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Copenaghen. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 46.9103,
+            "longitudine": 33.3218
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Copenaghen (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Copenaghen. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 46.9087,
+            "longitudine": 33.3353
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Copenaghen (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Copenaghen. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 46.928,
+            "longitudine": 33.3045
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Copenaghen (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Copenaghen. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 46.9235,
+            "longitudine": 33.3237
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Copenaghen (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Copenaghen. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 46.9256,
+            "longitudine": 33.3058
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Copenaghen (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Copenaghen. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 46.9037,
+            "longitudine": 33.333
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Copenaghen (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Copenaghen. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 46.9029,
+            "longitudine": 33.3417
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Copenaghen (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Copenaghen. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 46.9263,
+            "longitudine": 33.3389
+          }
+        },
+        {
+          "nome": "Ponte Storico di Copenaghen (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Copenaghen. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 46.926,
+            "longitudine": 33.3104
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Copenaghen (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Copenaghen. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 46.9239,
+            "longitudine": 33.3221
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Copenaghen (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Copenaghen. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 46.9026,
+            "longitudine": 33.3304
+          }
+        },
+        {
+          "nome": "Castello Medievale di Copenaghen (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Copenaghen. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 46.8905,
+            "longitudine": 33.3413
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Copenaghen (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Copenaghen. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 46.9065,
+            "longitudine": 33.3217
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Copenaghen (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Copenaghen. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 46.9115,
+            "longitudine": 33.319
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Copenaghen (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Copenaghen. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 46.8946,
+            "longitudine": 33.3262
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Copenaghen (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Copenaghen. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 46.8907,
+            "longitudine": 33.3153
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Copenaghen (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Copenaghen. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 46.9157,
+            "longitudine": 33.3242
+          }
+        },
+        {
+          "nome": "Basilica Storica di Copenaghen (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Copenaghen. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 46.8973,
+            "longitudine": 33.3081
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Copenaghen (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Copenaghen. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 46.8899,
+            "longitudine": 33.3376
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Copenaghen (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Copenaghen. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 46.9018,
+            "longitudine": 33.323
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Copenaghen (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Copenaghen. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 46.9188,
+            "longitudine": 33.3283
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Copenaghen (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Copenaghen. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 46.9252,
+            "longitudine": 33.3069
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Copenaghen (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Copenaghen. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 46.9232,
+            "longitudine": 33.3366
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Copenaghen (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Copenaghen. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 46.9009,
+            "longitudine": 33.3366
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Copenaghen (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Copenaghen. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 46.9165,
+            "longitudine": 33.3101
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Copenaghen (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Copenaghen. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 46.9084,
+            "longitudine": 33.3114
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Copenaghen (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Copenaghen. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 46.9217,
+            "longitudine": 33.3384
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Copenaghen (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Copenaghen. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 46.8916,
+            "longitudine": 33.3099
+          }
+        },
+        {
+          "nome": "Ponte Storico di Copenaghen (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Copenaghen. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 46.9203,
+            "longitudine": 33.3205
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Copenaghen (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Copenaghen. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 46.8997,
+            "longitudine": 33.3117
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Copenaghen (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Copenaghen. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 46.906,
+            "longitudine": 33.3404
+          }
+        },
+        {
+          "nome": "Castello Medievale di Copenaghen (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Copenaghen. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 46.9103,
+            "longitudine": 33.3352
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Copenaghen (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Copenaghen. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 46.9203,
+            "longitudine": 33.3231
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Copenaghen (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Copenaghen. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 46.8995,
+            "longitudine": 33.3162
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Copenaghen (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Copenaghen. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 46.9094,
+            "longitudine": 33.3363
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Copenaghen (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Copenaghen. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 46.9233,
+            "longitudine": 33.3182
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Copenaghen (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Copenaghen. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 46.9024,
+            "longitudine": 33.3021
+          }
+        },
+        {
+          "nome": "Basilica Storica di Copenaghen (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Copenaghen. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 46.9111,
+            "longitudine": 33.323
+          }
+        }
+      ]
+    }
+  ]
+}

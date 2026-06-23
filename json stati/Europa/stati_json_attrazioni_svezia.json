@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Svezia",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Svezia.",
+  "citta": [
+    {
+      "nome": "Stoccolma",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Stoccolma (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Stoccolma. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 43.9165,
+            "longitudine": 8.6782
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Stoccolma (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Stoccolma. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 43.9414,
+            "longitudine": 8.6815
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Stoccolma (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Stoccolma. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 43.9235,
+            "longitudine": 8.6909
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Stoccolma (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Stoccolma. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 43.9288,
+            "longitudine": 8.6737
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Stoccolma (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Stoccolma. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 43.9131,
+            "longitudine": 8.6962
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Stoccolma (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Stoccolma. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 43.9487,
+            "longitudine": 8.7042
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Stoccolma (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Stoccolma. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 43.9154,
+            "longitudine": 8.6761
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Stoccolma (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Stoccolma. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 43.9108,
+            "longitudine": 8.698
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Stoccolma (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Stoccolma. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 43.9476,
+            "longitudine": 8.6709
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Stoccolma (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Stoccolma. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 43.9162,
+            "longitudine": 8.6984
+          }
+        },
+        {
+          "nome": "Ponte Storico di Stoccolma (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Stoccolma. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 43.928,
+            "longitudine": 8.6947
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Stoccolma (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Stoccolma. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 43.9427,
+            "longitudine": 8.6796
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Stoccolma (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Stoccolma. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 43.9484,
+            "longitudine": 8.7017
+          }
+        },
+        {
+          "nome": "Castello Medievale di Stoccolma (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Stoccolma. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 43.946,
+            "longitudine": 8.7011
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Stoccolma (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Stoccolma. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 43.9098,
+            "longitudine": 8.6845
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Stoccolma (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Stoccolma. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 43.9359,
+            "longitudine": 8.6908
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Stoccolma (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Stoccolma. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 43.942,
+            "longitudine": 8.6864
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Stoccolma (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Stoccolma. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 43.9344,
+            "longitudine": 8.6964
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Stoccolma (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Stoccolma. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 43.946,
+            "longitudine": 8.6801
+          }
+        },
+        {
+          "nome": "Basilica Storica di Stoccolma (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Stoccolma. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 43.9429,
+            "longitudine": 8.6957
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Stoccolma (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Stoccolma. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 43.9259,
+            "longitudine": 8.6965
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Stoccolma (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Stoccolma. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 43.9097,
+            "longitudine": 8.6856
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Stoccolma (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Stoccolma. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 43.9232,
+            "longitudine": 8.6886
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Stoccolma (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Stoccolma. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 43.9228,
+            "longitudine": 8.7031
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Stoccolma (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Stoccolma. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 43.9381,
+            "longitudine": 8.684
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Stoccolma (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Stoccolma. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 43.9235,
+            "longitudine": 8.6751
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Stoccolma (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Stoccolma. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 43.9122,
+            "longitudine": 8.7006
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Stoccolma (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Stoccolma. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 43.9116,
+            "longitudine": 8.6763
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Stoccolma (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Stoccolma. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 43.9118,
+            "longitudine": 8.6825
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Stoccolma (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Stoccolma. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 43.9465,
+            "longitudine": 8.681
+          }
+        },
+        {
+          "nome": "Ponte Storico di Stoccolma (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Stoccolma. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 43.9375,
+            "longitudine": 8.6708
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Stoccolma (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Stoccolma. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 43.9224,
+            "longitudine": 8.693
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Stoccolma (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Stoccolma. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 43.9444,
+            "longitudine": 8.6944
+          }
+        },
+        {
+          "nome": "Castello Medievale di Stoccolma (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Stoccolma. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 43.9255,
+            "longitudine": 8.6737
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Stoccolma (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Stoccolma. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 43.9457,
+            "longitudine": 8.6806
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Stoccolma (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Stoccolma. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 43.9254,
+            "longitudine": 8.6649
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Stoccolma (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Stoccolma. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 43.9356,
+            "longitudine": 8.6859
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Stoccolma (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Stoccolma. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 43.9202,
+            "longitudine": 8.6659
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Stoccolma (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Stoccolma. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 43.9401,
+            "longitudine": 8.6956
+          }
+        },
+        {
+          "nome": "Basilica Storica di Stoccolma (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Stoccolma. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 43.9251,
+            "longitudine": 8.6959
+          }
+        }
+      ]
+    }
+  ]
+}
