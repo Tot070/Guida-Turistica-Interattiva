@@ -1,0 +1,333 @@
+{
+  "versione": "6.0-definitiva",
+  "paese": "Senegal",
+  "nota": "Tutte le città con esattamente 40 attrazioni ciascuna per lo stato: Senegal.",
+  "citta": [
+    {
+      "nome": "Dakar",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Isola di Gorée",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Dakar. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 14.7283,
+            "longitudine": -17.4545
+          }
+        },
+        {
+          "nome": "Monumento al Rinascimento Africano",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Dakar. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 14.7281,
+            "longitudine": -17.4694
+          }
+        },
+        {
+          "nome": "Lago Rosa",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Dakar. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 14.7181,
+            "longitudine": -17.4716
+          }
+        },
+        {
+          "nome": "Mercato di Sandaga",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Dakar. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 14.721,
+            "longitudine": -17.4657
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Dakar (Sito 5)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Dakar. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7293,
+            "longitudine": -17.4542
+          }
+        },
+        {
+          "nome": "Mercato Locale di Dakar (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Dakar. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7236,
+            "longitudine": -17.4563
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Dakar (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Dakar. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7144,
+            "longitudine": -17.4603
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Dakar (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Dakar. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7185,
+            "longitudine": -17.4767
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Dakar (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Dakar. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7053,
+            "longitudine": -17.4812
+          }
+        },
+        {
+          "nome": "Piazza Principale di Dakar (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Dakar. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7202,
+            "longitudine": -17.4747
+          }
+        },
+        {
+          "nome": "Museo Storico di Dakar (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Dakar. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7248,
+            "longitudine": -17.4784
+          }
+        },
+        {
+          "nome": "Parco Naturale di Dakar (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Dakar. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7109,
+            "longitudine": -17.466
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Dakar (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Dakar. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7206,
+            "longitudine": -17.4683
+          }
+        },
+        {
+          "nome": "Residenza Storica di Dakar (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Dakar. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7278,
+            "longitudine": -17.4661
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Dakar (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Dakar. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7097,
+            "longitudine": -17.4763
+          }
+        },
+        {
+          "nome": "Mercato Locale di Dakar (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Dakar. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7245,
+            "longitudine": -17.472
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Dakar (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Dakar. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7033,
+            "longitudine": -17.4768
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Dakar (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Dakar. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7286,
+            "longitudine": -17.481
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Dakar (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Dakar. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7167,
+            "longitudine": -17.4687
+          }
+        },
+        {
+          "nome": "Piazza Principale di Dakar (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Dakar. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7137,
+            "longitudine": -17.4782
+          }
+        },
+        {
+          "nome": "Museo Storico di Dakar (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Dakar. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7286,
+            "longitudine": -17.4714
+          }
+        },
+        {
+          "nome": "Parco Naturale di Dakar (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Dakar. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.724,
+            "longitudine": -17.4666
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Dakar (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Dakar. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7064,
+            "longitudine": -17.4746
+          }
+        },
+        {
+          "nome": "Residenza Storica di Dakar (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Dakar. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7186,
+            "longitudine": -17.4795
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Dakar (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Dakar. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7174,
+            "longitudine": -17.4544
+          }
+        },
+        {
+          "nome": "Mercato Locale di Dakar (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Dakar. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7315,
+            "longitudine": -17.461
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Dakar (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Dakar. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7143,
+            "longitudine": -17.4823
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Dakar (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Dakar. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7193,
+            "longitudine": -17.4819
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Dakar (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Dakar. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.723,
+            "longitudine": -17.4664
+          }
+        },
+        {
+          "nome": "Piazza Principale di Dakar (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Dakar. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7023,
+            "longitudine": -17.4617
+          }
+        },
+        {
+          "nome": "Museo Storico di Dakar (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Dakar. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7152,
+            "longitudine": -17.4688
+          }
+        },
+        {
+          "nome": "Parco Naturale di Dakar (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Dakar. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7121,
+            "longitudine": -17.4764
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Dakar (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Dakar. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7259,
+            "longitudine": -17.4728
+          }
+        },
+        {
+          "nome": "Residenza Storica di Dakar (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Dakar. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.73,
+            "longitudine": -17.4611
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Dakar (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Dakar. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7197,
+            "longitudine": -17.4644
+          }
+        },
+        {
+          "nome": "Mercato Locale di Dakar (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Dakar. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7152,
+            "longitudine": -17.4789
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Dakar (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Dakar. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7161,
+            "longitudine": -17.4672
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Dakar (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Dakar. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7088,
+            "longitudine": -17.4704
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Dakar (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Dakar. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7239,
+            "longitudine": -17.4675
+          }
+        },
+        {
+          "nome": "Piazza Principale di Dakar (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Dakar. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 14.7149,
+            "longitudine": -17.4582
+          }
+        }
+      ]
+    }
+  ]
+}

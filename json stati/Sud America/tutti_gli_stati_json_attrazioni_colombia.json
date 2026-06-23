@@ -1,0 +1,659 @@
+{
+  "versione": "6.0-definitiva",
+  "paese": "Colombia",
+  "nota": "Tutte le città con esattamente 40 attrazioni ciascuna per lo stato: Colombia.",
+  "citta": [
+    {
+      "nome": "Bogotá",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo del Oro",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Bogotá. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 4.7104,
+            "longitudine": -74.0778
+          }
+        },
+        {
+          "nome": "Monserrate",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Bogotá. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 4.7188,
+            "longitudine": -74.062
+          }
+        },
+        {
+          "nome": "La Candelaria",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Bogotá. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 4.7063,
+            "longitudine": -74.076
+          }
+        },
+        {
+          "nome": "Museo Botero",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Bogotá. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 4.7156,
+            "longitudine": -74.0801
+          }
+        },
+        {
+          "nome": "Plaza de Bolívar",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di Bogotá. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 4.6983,
+            "longitudine": -74.0674
+          }
+        },
+        {
+          "nome": "Quinta de Bolívar",
+          "descrizione_estesa": "Mercato Locale tra i più iconici ed ammirati di Bogotá. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 4.7066,
+            "longitudine": -74.0609
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Bogotá (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Bogotá. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.6988,
+            "longitudine": -74.077
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Bogotá (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Bogotá. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.72,
+            "longitudine": -74.0864
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Bogotá (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Bogotá. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7105,
+            "longitudine": -74.0635
+          }
+        },
+        {
+          "nome": "Piazza Principale di Bogotá (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Bogotá. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7219,
+            "longitudine": -74.0585
+          }
+        },
+        {
+          "nome": "Museo Storico di Bogotá (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Bogotá. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7119,
+            "longitudine": -74.0593
+          }
+        },
+        {
+          "nome": "Parco Naturale di Bogotá (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Bogotá. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7045,
+            "longitudine": -74.0614
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Bogotá (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Bogotá. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7171,
+            "longitudine": -74.0743
+          }
+        },
+        {
+          "nome": "Residenza Storica di Bogotá (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Bogotá. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7022,
+            "longitudine": -74.0737
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Bogotá (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Bogotá. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.724,
+            "longitudine": -74.0573
+          }
+        },
+        {
+          "nome": "Mercato Locale di Bogotá (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Bogotá. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7246,
+            "longitudine": -74.0728
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Bogotá (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Bogotá. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7169,
+            "longitudine": -74.067
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Bogotá (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Bogotá. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7062,
+            "longitudine": -74.0752
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Bogotá (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Bogotá. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.6983,
+            "longitudine": -74.0687
+          }
+        },
+        {
+          "nome": "Piazza Principale di Bogotá (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Bogotá. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7156,
+            "longitudine": -74.074
+          }
+        },
+        {
+          "nome": "Museo Storico di Bogotá (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Bogotá. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7073,
+            "longitudine": -74.0824
+          }
+        },
+        {
+          "nome": "Parco Naturale di Bogotá (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Bogotá. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7217,
+            "longitudine": -74.0669
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Bogotá (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Bogotá. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7033,
+            "longitudine": -74.0852
+          }
+        },
+        {
+          "nome": "Residenza Storica di Bogotá (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Bogotá. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7097,
+            "longitudine": -74.0763
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Bogotá (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Bogotá. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.723,
+            "longitudine": -74.0652
+          }
+        },
+        {
+          "nome": "Mercato Locale di Bogotá (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Bogotá. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7218,
+            "longitudine": -74.0613
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Bogotá (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Bogotá. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7099,
+            "longitudine": -74.0833
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Bogotá (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Bogotá. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7088,
+            "longitudine": -74.0793
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Bogotá (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Bogotá. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7125,
+            "longitudine": -74.0773
+          }
+        },
+        {
+          "nome": "Piazza Principale di Bogotá (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Bogotá. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7256,
+            "longitudine": -74.0628
+          }
+        },
+        {
+          "nome": "Museo Storico di Bogotá (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Bogotá. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.6987,
+            "longitudine": -74.0626
+          }
+        },
+        {
+          "nome": "Parco Naturale di Bogotá (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Bogotá. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.6975,
+            "longitudine": -74.0778
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Bogotá (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Bogotá. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7223,
+            "longitudine": -74.081
+          }
+        },
+        {
+          "nome": "Residenza Storica di Bogotá (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Bogotá. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7004,
+            "longitudine": -74.0755
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Bogotá (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Bogotá. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7128,
+            "longitudine": -74.0768
+          }
+        },
+        {
+          "nome": "Mercato Locale di Bogotá (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Bogotá. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7099,
+            "longitudine": -74.072
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Bogotá (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Bogotá. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7069,
+            "longitudine": -74.0695
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Bogotá (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Bogotá. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7152,
+            "longitudine": -74.0819
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Bogotá (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Bogotá. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7048,
+            "longitudine": -74.0861
+          }
+        },
+        {
+          "nome": "Piazza Principale di Bogotá (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Bogotá. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 4.7242,
+            "longitudine": -74.064
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Cartagena",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Castello di San Felipe de Barajas",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Cartagena. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 10.3927,
+            "longitudine": -75.4861
+          }
+        },
+        {
+          "nome": "Città Murata",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Cartagena. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 10.3835,
+            "longitudine": -75.4852
+          }
+        },
+        {
+          "nome": "Torre dell'Orologio",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Cartagena. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 10.3993,
+            "longitudine": -75.4922
+          }
+        },
+        {
+          "nome": "Quartiere Getsemaní",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Cartagena. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 10.3804,
+            "longitudine": -75.4911
+          }
+        },
+        {
+          "nome": "Convento de la Popa",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di Cartagena. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 10.3963,
+            "longitudine": -75.4818
+          }
+        },
+        {
+          "nome": "Mercato Locale di Cartagena (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Cartagena. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3972,
+            "longitudine": -75.4752
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Cartagena (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Cartagena. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3987,
+            "longitudine": -75.482
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Cartagena (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Cartagena. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.4013,
+            "longitudine": -75.4725
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Cartagena (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Cartagena. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3927,
+            "longitudine": -75.4741
+          }
+        },
+        {
+          "nome": "Piazza Principale di Cartagena (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Cartagena. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3772,
+            "longitudine": -75.4885
+          }
+        },
+        {
+          "nome": "Museo Storico di Cartagena (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Cartagena. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3788,
+            "longitudine": -75.4865
+          }
+        },
+        {
+          "nome": "Parco Naturale di Cartagena (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Cartagena. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3881,
+            "longitudine": -75.472
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Cartagena (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Cartagena. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3993,
+            "longitudine": -75.4649
+          }
+        },
+        {
+          "nome": "Residenza Storica di Cartagena (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Cartagena. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.4014,
+            "longitudine": -75.4867
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Cartagena (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Cartagena. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3835,
+            "longitudine": -75.4703
+          }
+        },
+        {
+          "nome": "Mercato Locale di Cartagena (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Cartagena. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3766,
+            "longitudine": -75.4735
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Cartagena (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Cartagena. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3906,
+            "longitudine": -75.4943
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Cartagena (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Cartagena. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3879,
+            "longitudine": -75.482
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Cartagena (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Cartagena. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3916,
+            "longitudine": -75.4826
+          }
+        },
+        {
+          "nome": "Piazza Principale di Cartagena (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Cartagena. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3919,
+            "longitudine": -75.4738
+          }
+        },
+        {
+          "nome": "Museo Storico di Cartagena (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Cartagena. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.405,
+            "longitudine": -75.4791
+          }
+        },
+        {
+          "nome": "Parco Naturale di Cartagena (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Cartagena. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.4048,
+            "longitudine": -75.4743
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Cartagena (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Cartagena. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3996,
+            "longitudine": -75.4922
+          }
+        },
+        {
+          "nome": "Residenza Storica di Cartagena (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Cartagena. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.4055,
+            "longitudine": -75.4816
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Cartagena (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Cartagena. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3908,
+            "longitudine": -75.4673
+          }
+        },
+        {
+          "nome": "Mercato Locale di Cartagena (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Cartagena. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3867,
+            "longitudine": -75.4664
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Cartagena (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Cartagena. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.4022,
+            "longitudine": -75.467
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Cartagena (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Cartagena. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3807,
+            "longitudine": -75.4781
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Cartagena (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Cartagena. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.4013,
+            "longitudine": -75.4678
+          }
+        },
+        {
+          "nome": "Piazza Principale di Cartagena (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Cartagena. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3944,
+            "longitudine": -75.4853
+          }
+        },
+        {
+          "nome": "Museo Storico di Cartagena (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Cartagena. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3913,
+            "longitudine": -75.4667
+          }
+        },
+        {
+          "nome": "Parco Naturale di Cartagena (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Cartagena. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3996,
+            "longitudine": -75.4877
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Cartagena (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Cartagena. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3763,
+            "longitudine": -75.4854
+          }
+        },
+        {
+          "nome": "Residenza Storica di Cartagena (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Cartagena. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3818,
+            "longitudine": -75.4914
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Cartagena (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Cartagena. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3936,
+            "longitudine": -75.479
+          }
+        },
+        {
+          "nome": "Mercato Locale di Cartagena (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Cartagena. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3853,
+            "longitudine": -75.4661
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Cartagena (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Cartagena. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3911,
+            "longitudine": -75.4854
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Cartagena (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Cartagena. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.4031,
+            "longitudine": -75.4784
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Cartagena (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Cartagena. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3948,
+            "longitudine": -75.4646
+          }
+        },
+        {
+          "nome": "Piazza Principale di Cartagena (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Cartagena. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 10.3848,
+            "longitudine": -75.4874
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,985 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Canada",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Canada.",
+  "citta": [
+    {
+      "nome": "Toronto",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Toronto (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Toronto. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 35.072,
+            "longitudine": 1.6135
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Toronto (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Toronto. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 35.0796,
+            "longitudine": 1.6013
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Toronto (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Toronto. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 35.0648,
+            "longitudine": 1.6094
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Toronto (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Toronto. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 35.0478,
+            "longitudine": 1.6227
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Toronto (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Toronto. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 35.0643,
+            "longitudine": 1.6236
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Toronto (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Toronto. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 35.0644,
+            "longitudine": 1.6056
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Toronto (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Toronto. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 35.0559,
+            "longitudine": 1.5996
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Toronto (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Toronto. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 35.0692,
+            "longitudine": 1.6122
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Toronto (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Toronto. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 35.0589,
+            "longitudine": 1.6345
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Toronto (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Toronto. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 35.0849,
+            "longitudine": 1.5996
+          }
+        },
+        {
+          "nome": "Ponte Storico di Toronto (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Toronto. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 35.0693,
+            "longitudine": 1.6001
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Toronto (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Toronto. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 35.0782,
+            "longitudine": 1.6095
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Toronto (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Toronto. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 35.0512,
+            "longitudine": 1.6079
+          }
+        },
+        {
+          "nome": "Castello Medievale di Toronto (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Toronto. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 35.0817,
+            "longitudine": 1.6165
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Toronto (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Toronto. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 35.0638,
+            "longitudine": 1.6229
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Toronto (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Toronto. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 35.0764,
+            "longitudine": 1.6278
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Toronto (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Toronto. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 35.0834,
+            "longitudine": 1.6349
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Toronto (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Toronto. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 35.0501,
+            "longitudine": 1.6339
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Toronto (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Toronto. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 35.0647,
+            "longitudine": 1.6325
+          }
+        },
+        {
+          "nome": "Basilica Storica di Toronto (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Toronto. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 35.066,
+            "longitudine": 1.6163
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Toronto (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Toronto. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 35.0596,
+            "longitudine": 1.6137
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Toronto (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Toronto. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 35.0727,
+            "longitudine": 1.6331
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Toronto (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Toronto. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 35.0804,
+            "longitudine": 1.6055
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Toronto (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Toronto. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 35.0584,
+            "longitudine": 1.6301
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Toronto (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Toronto. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 35.0564,
+            "longitudine": 1.6162
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Toronto (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Toronto. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 35.0615,
+            "longitudine": 1.5979
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Toronto (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Toronto. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 35.0622,
+            "longitudine": 1.6154
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Toronto (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Toronto. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 35.0727,
+            "longitudine": 1.6212
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Toronto (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Toronto. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 35.071,
+            "longitudine": 1.6367
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Toronto (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Toronto. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 35.0539,
+            "longitudine": 1.6101
+          }
+        },
+        {
+          "nome": "Ponte Storico di Toronto (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Toronto. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 35.0585,
+            "longitudine": 1.636
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Toronto (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Toronto. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 35.0619,
+            "longitudine": 1.61
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Toronto (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Toronto. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 35.0724,
+            "longitudine": 1.6024
+          }
+        },
+        {
+          "nome": "Castello Medievale di Toronto (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Toronto. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 35.0772,
+            "longitudine": 1.623
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Toronto (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Toronto. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 35.0557,
+            "longitudine": 1.616
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Toronto (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Toronto. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 35.0693,
+            "longitudine": 1.608
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Toronto (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Toronto. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 35.0791,
+            "longitudine": 1.6291
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Toronto (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Toronto. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 35.068,
+            "longitudine": 1.6332
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Toronto (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Toronto. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 35.063,
+            "longitudine": 1.6369
+          }
+        },
+        {
+          "nome": "Basilica Storica di Toronto (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Toronto. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 35.0748,
+            "longitudine": 1.6213
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Vancouver",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Vancouver (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Vancouver. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 46.1862,
+            "longitudine": 18.6381
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Vancouver (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Vancouver. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 46.1684,
+            "longitudine": 18.6557
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Vancouver (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Vancouver. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 46.1985,
+            "longitudine": 18.6302
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Vancouver (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Vancouver. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 46.1813,
+            "longitudine": 18.6512
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Vancouver (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Vancouver. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 46.163,
+            "longitudine": 18.6427
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Vancouver (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Vancouver. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 46.1765,
+            "longitudine": 18.6279
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Vancouver (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Vancouver. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 46.2014,
+            "longitudine": 18.6475
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Vancouver (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Vancouver. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 46.2001,
+            "longitudine": 18.6429
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Vancouver (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Vancouver. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 46.1735,
+            "longitudine": 18.6527
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Vancouver (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Vancouver. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 46.197,
+            "longitudine": 18.6241
+          }
+        },
+        {
+          "nome": "Ponte Storico di Vancouver (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Vancouver. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 46.1991,
+            "longitudine": 18.6361
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Vancouver (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Vancouver. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 46.1799,
+            "longitudine": 18.6531
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Vancouver (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Vancouver. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 46.1767,
+            "longitudine": 18.6357
+          }
+        },
+        {
+          "nome": "Castello Medievale di Vancouver (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Vancouver. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 46.1845,
+            "longitudine": 18.6363
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Vancouver (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Vancouver. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 46.1698,
+            "longitudine": 18.6533
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Vancouver (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Vancouver. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 46.1757,
+            "longitudine": 18.619
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Vancouver (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Vancouver. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 46.2,
+            "longitudine": 18.6273
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Vancouver (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Vancouver. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 46.1877,
+            "longitudine": 18.6291
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Vancouver (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Vancouver. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 46.1658,
+            "longitudine": 18.6546
+          }
+        },
+        {
+          "nome": "Basilica Storica di Vancouver (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Vancouver. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 46.1906,
+            "longitudine": 18.6448
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Vancouver (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Vancouver. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 46.1832,
+            "longitudine": 18.6214
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Vancouver (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Vancouver. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 46.1715,
+            "longitudine": 18.6217
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Vancouver (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Vancouver. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 46.1648,
+            "longitudine": 18.635
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Vancouver (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Vancouver. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 46.2001,
+            "longitudine": 18.6517
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Vancouver (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Vancouver. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 46.1782,
+            "longitudine": 18.6414
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Vancouver (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Vancouver. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 46.1925,
+            "longitudine": 18.6255
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Vancouver (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Vancouver. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 46.1915,
+            "longitudine": 18.6204
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Vancouver (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Vancouver. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 46.1998,
+            "longitudine": 18.6199
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Vancouver (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Vancouver. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 46.1728,
+            "longitudine": 18.6539
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Vancouver (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Vancouver. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 46.2008,
+            "longitudine": 18.6512
+          }
+        },
+        {
+          "nome": "Ponte Storico di Vancouver (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Vancouver. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 46.1939,
+            "longitudine": 18.6274
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Vancouver (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Vancouver. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 46.1649,
+            "longitudine": 18.6252
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Vancouver (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Vancouver. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 46.1996,
+            "longitudine": 18.6316
+          }
+        },
+        {
+          "nome": "Castello Medievale di Vancouver (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Vancouver. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 46.193,
+            "longitudine": 18.632
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Vancouver (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Vancouver. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 46.198,
+            "longitudine": 18.6205
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Vancouver (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Vancouver. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 46.1792,
+            "longitudine": 18.6365
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Vancouver (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Vancouver. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 46.1856,
+            "longitudine": 18.6267
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Vancouver (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Vancouver. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 46.1802,
+            "longitudine": 18.636
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Vancouver (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Vancouver. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 46.1696,
+            "longitudine": 18.6464
+          }
+        },
+        {
+          "nome": "Basilica Storica di Vancouver (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Vancouver. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 46.1755,
+            "longitudine": 18.6468
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Montreal",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Montreal (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Montreal. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 34.7147,
+            "longitudine": 31.905
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Montreal (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Montreal. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 34.7028,
+            "longitudine": 31.9306
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Montreal (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Montreal. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 34.7154,
+            "longitudine": 31.9416
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Montreal (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Montreal. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 34.7094,
+            "longitudine": 31.9213
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Montreal (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Montreal. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 34.7064,
+            "longitudine": 31.9373
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Montreal (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Montreal. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 34.6914,
+            "longitudine": 31.9026
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Montreal (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Montreal. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 34.6917,
+            "longitudine": 31.9235
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Montreal (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Montreal. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 34.7094,
+            "longitudine": 31.9354
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Montreal (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Montreal. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 34.7207,
+            "longitudine": 31.9411
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Montreal (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Montreal. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 34.7128,
+            "longitudine": 31.9099
+          }
+        },
+        {
+          "nome": "Ponte Storico di Montreal (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Montreal. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 34.6877,
+            "longitudine": 31.9146
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Montreal (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Montreal. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 34.6925,
+            "longitudine": 31.9375
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Montreal (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Montreal. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 34.6989,
+            "longitudine": 31.9252
+          }
+        },
+        {
+          "nome": "Castello Medievale di Montreal (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Montreal. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 34.7106,
+            "longitudine": 31.9036
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Montreal (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Montreal. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 34.7065,
+            "longitudine": 31.9314
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Montreal (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Montreal. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 34.7025,
+            "longitudine": 31.9155
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Montreal (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Montreal. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 34.6904,
+            "longitudine": 31.9181
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Montreal (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Montreal. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 34.7149,
+            "longitudine": 31.9285
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Montreal (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Montreal. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 34.6865,
+            "longitudine": 31.9142
+          }
+        },
+        {
+          "nome": "Basilica Storica di Montreal (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Montreal. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 34.6992,
+            "longitudine": 31.9095
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Montreal (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Montreal. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 34.718,
+            "longitudine": 31.9404
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Montreal (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Montreal. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 34.7116,
+            "longitudine": 31.9089
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Montreal (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Montreal. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 34.7084,
+            "longitudine": 31.9104
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Montreal (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Montreal. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 34.7027,
+            "longitudine": 31.913
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Montreal (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Montreal. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 34.7049,
+            "longitudine": 31.9323
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Montreal (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Montreal. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 34.7221,
+            "longitudine": 31.9157
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Montreal (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Montreal. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 34.6886,
+            "longitudine": 31.9395
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Montreal (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Montreal. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 34.6861,
+            "longitudine": 31.9335
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Montreal (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Montreal. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 34.698,
+            "longitudine": 31.9078
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Montreal (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Montreal. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 34.6958,
+            "longitudine": 31.9358
+          }
+        },
+        {
+          "nome": "Ponte Storico di Montreal (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Montreal. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 34.7188,
+            "longitudine": 31.924
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Montreal (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Montreal. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 34.7029,
+            "longitudine": 31.9331
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Montreal (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Montreal. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 34.7209,
+            "longitudine": 31.9225
+          }
+        },
+        {
+          "nome": "Castello Medievale di Montreal (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Montreal. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 34.7072,
+            "longitudine": 31.9042
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Montreal (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Montreal. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 34.7143,
+            "longitudine": 31.9134
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Montreal (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Montreal. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 34.6839,
+            "longitudine": 31.9236
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Montreal (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Montreal. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 34.6886,
+            "longitudine": 31.9163
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Montreal (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Montreal. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 34.7099,
+            "longitudine": 31.9111
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Montreal (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Montreal. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 34.707,
+            "longitudine": 31.9054
+          }
+        },
+        {
+          "nome": "Basilica Storica di Montreal (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Montreal. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 34.7218,
+            "longitudine": 31.9067
+          }
+        }
+      ]
+    }
+  ]
+}

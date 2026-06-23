@@ -1,0 +1,334 @@
+{
+  "versione": "7.0-strutturato",
+  "continente": "Africa",
+  "paese": "Egitto",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato Egitto nel continente Africa.",
+  "citta": [
+    {
+      "nome": "Il Cairo",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Piramidi di Giza",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Il Cairo. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 30.0589,
+            "longitudine": 31.2507
+          }
+        },
+        {
+          "nome": "Museo Egizio del Cairo",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Il Cairo. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 30.0435,
+            "longitudine": 31.2255
+          }
+        },
+        {
+          "nome": "Bazar Khan el-Khalili",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Il Cairo. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 30.0358,
+            "longitudine": 31.2251
+          }
+        },
+        {
+          "nome": "Cittadella di Saladino",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Il Cairo. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 30.0341,
+            "longitudine": 31.2373
+          }
+        },
+        {
+          "nome": "Moschea di Al-Azhar",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di Il Cairo. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 30.0559,
+            "longitudine": 31.2376
+          }
+        },
+        {
+          "nome": "Mercato Locale di Il Cairo (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Il Cairo. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0353,
+            "longitudine": 31.2226
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Il Cairo (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Il Cairo. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0463,
+            "longitudine": 31.2484
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Il Cairo (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Il Cairo. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0357,
+            "longitudine": 31.2267
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Il Cairo (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Il Cairo. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0372,
+            "longitudine": 31.2402
+          }
+        },
+        {
+          "nome": "Piazza Principale di Il Cairo (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Il Cairo. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0428,
+            "longitudine": 31.2284
+          }
+        },
+        {
+          "nome": "Museo Storico di Il Cairo (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Il Cairo. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.042,
+            "longitudine": 31.2247
+          }
+        },
+        {
+          "nome": "Parco Naturale di Il Cairo (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Il Cairo. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0392,
+            "longitudine": 31.2382
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Il Cairo (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Il Cairo. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0489,
+            "longitudine": 31.2498
+          }
+        },
+        {
+          "nome": "Residenza Storica di Il Cairo (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Il Cairo. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0371,
+            "longitudine": 31.2225
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Il Cairo (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Il Cairo. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0341,
+            "longitudine": 31.2498
+          }
+        },
+        {
+          "nome": "Mercato Locale di Il Cairo (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Il Cairo. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0485,
+            "longitudine": 31.2499
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Il Cairo (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Il Cairo. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0542,
+            "longitudine": 31.2438
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Il Cairo (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Il Cairo. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0393,
+            "longitudine": 31.2326
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Il Cairo (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Il Cairo. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0581,
+            "longitudine": 31.2233
+          }
+        },
+        {
+          "nome": "Piazza Principale di Il Cairo (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Il Cairo. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0537,
+            "longitudine": 31.237
+          }
+        },
+        {
+          "nome": "Museo Storico di Il Cairo (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Il Cairo. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0429,
+            "longitudine": 31.2307
+          }
+        },
+        {
+          "nome": "Parco Naturale di Il Cairo (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Il Cairo. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0315,
+            "longitudine": 31.2258
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Il Cairo (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Il Cairo. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0508,
+            "longitudine": 31.2368
+          }
+        },
+        {
+          "nome": "Residenza Storica di Il Cairo (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Il Cairo. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0514,
+            "longitudine": 31.2293
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Il Cairo (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Il Cairo. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0309,
+            "longitudine": 31.2215
+          }
+        },
+        {
+          "nome": "Mercato Locale di Il Cairo (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Il Cairo. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0332,
+            "longitudine": 31.2248
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Il Cairo (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Il Cairo. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.032,
+            "longitudine": 31.2472
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Il Cairo (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Il Cairo. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0479,
+            "longitudine": 31.2422
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Il Cairo (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Il Cairo. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0351,
+            "longitudine": 31.2476
+          }
+        },
+        {
+          "nome": "Piazza Principale di Il Cairo (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Il Cairo. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0364,
+            "longitudine": 31.2314
+          }
+        },
+        {
+          "nome": "Museo Storico di Il Cairo (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Il Cairo. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0458,
+            "longitudine": 31.2245
+          }
+        },
+        {
+          "nome": "Parco Naturale di Il Cairo (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Il Cairo. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0475,
+            "longitudine": 31.2293
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Il Cairo (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Il Cairo. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0371,
+            "longitudine": 31.2322
+          }
+        },
+        {
+          "nome": "Residenza Storica di Il Cairo (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Il Cairo. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0566,
+            "longitudine": 31.2415
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Il Cairo (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Il Cairo. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.056,
+            "longitudine": 31.241
+          }
+        },
+        {
+          "nome": "Mercato Locale di Il Cairo (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Il Cairo. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0341,
+            "longitudine": 31.2315
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Il Cairo (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Il Cairo. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0417,
+            "longitudine": 31.241
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Il Cairo (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Il Cairo. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0306,
+            "longitudine": 31.2246
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Il Cairo (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Il Cairo. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0345,
+            "longitudine": 31.238
+          }
+        },
+        {
+          "nome": "Piazza Principale di Il Cairo (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Il Cairo. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 30.0532,
+            "longitudine": 31.2224
+          }
+        }
+      ]
+    }
+  ]
+}

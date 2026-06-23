@@ -1,0 +1,333 @@
+{
+  "versione": "6.0-definitiva",
+  "paese": "Nigeria",
+  "nota": "Tutte le città con esattamente 40 attrazioni ciascuna per lo stato: Nigeria.",
+  "citta": [
+    {
+      "nome": "Lagos",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Nike Art Gallery",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Lagos. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 6.5215,
+            "longitudine": 3.3753
+          }
+        },
+        {
+          "nome": "Lekki Conservation Centre",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Lagos. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 6.5321,
+            "longitudine": 3.3694
+          }
+        },
+        {
+          "nome": "Freedom Park Lagos",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Lagos. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 6.5147,
+            "longitudine": 3.3838
+          }
+        },
+        {
+          "nome": "National Museum Lagos",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Lagos. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 6.5245,
+            "longitudine": 3.3872
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Lagos (Sito 5)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Lagos. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5252,
+            "longitudine": 3.3749
+          }
+        },
+        {
+          "nome": "Mercato Locale di Lagos (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Lagos. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5311,
+            "longitudine": 3.3715
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Lagos (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Lagos. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5207,
+            "longitudine": 3.3777
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Lagos (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Lagos. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5357,
+            "longitudine": 3.3747
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Lagos (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Lagos. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5172,
+            "longitudine": 3.3795
+          }
+        },
+        {
+          "nome": "Piazza Principale di Lagos (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Lagos. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5141,
+            "longitudine": 3.3771
+          }
+        },
+        {
+          "nome": "Museo Storico di Lagos (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Lagos. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5166,
+            "longitudine": 3.3741
+          }
+        },
+        {
+          "nome": "Parco Naturale di Lagos (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Lagos. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5128,
+            "longitudine": 3.3695
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Lagos (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Lagos. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5127,
+            "longitudine": 3.3941
+          }
+        },
+        {
+          "nome": "Residenza Storica di Lagos (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Lagos. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5285,
+            "longitudine": 3.3934
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Lagos (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Lagos. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5293,
+            "longitudine": 3.394
+          }
+        },
+        {
+          "nome": "Mercato Locale di Lagos (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Lagos. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5316,
+            "longitudine": 3.3682
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Lagos (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Lagos. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5386,
+            "longitudine": 3.384
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Lagos (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Lagos. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5347,
+            "longitudine": 3.3788
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Lagos (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Lagos. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5334,
+            "longitudine": 3.3891
+          }
+        },
+        {
+          "nome": "Piazza Principale di Lagos (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Lagos. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5364,
+            "longitudine": 3.3796
+          }
+        },
+        {
+          "nome": "Museo Storico di Lagos (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Lagos. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5144,
+            "longitudine": 3.389
+          }
+        },
+        {
+          "nome": "Parco Naturale di Lagos (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Lagos. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5233,
+            "longitudine": 3.3788
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Lagos (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Lagos. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5272,
+            "longitudine": 3.3664
+          }
+        },
+        {
+          "nome": "Residenza Storica di Lagos (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Lagos. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5254,
+            "longitudine": 3.3675
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Lagos (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Lagos. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.525,
+            "longitudine": 3.3751
+          }
+        },
+        {
+          "nome": "Mercato Locale di Lagos (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Lagos. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.526,
+            "longitudine": 3.3789
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Lagos (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Lagos. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5218,
+            "longitudine": 3.3785
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Lagos (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Lagos. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5376,
+            "longitudine": 3.3738
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Lagos (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Lagos. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5191,
+            "longitudine": 3.389
+          }
+        },
+        {
+          "nome": "Piazza Principale di Lagos (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Lagos. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.522,
+            "longitudine": 3.3722
+          }
+        },
+        {
+          "nome": "Museo Storico di Lagos (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Lagos. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5266,
+            "longitudine": 3.3731
+          }
+        },
+        {
+          "nome": "Parco Naturale di Lagos (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Lagos. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5155,
+            "longitudine": 3.3823
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Lagos (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Lagos. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5183,
+            "longitudine": 3.3735
+          }
+        },
+        {
+          "nome": "Residenza Storica di Lagos (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Lagos. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5326,
+            "longitudine": 3.3776
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Lagos (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Lagos. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5345,
+            "longitudine": 3.3893
+          }
+        },
+        {
+          "nome": "Mercato Locale di Lagos (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Lagos. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5241,
+            "longitudine": 3.3733
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Lagos (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Lagos. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5119,
+            "longitudine": 3.3749
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Lagos (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Lagos. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5384,
+            "longitudine": 3.3894
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Lagos (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Lagos. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5333,
+            "longitudine": 3.3719
+          }
+        },
+        {
+          "nome": "Piazza Principale di Lagos (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Lagos. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 6.5224,
+            "longitudine": 3.3662
+          }
+        }
+      ]
+    }
+  ]
+}

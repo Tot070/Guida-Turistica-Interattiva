@@ -1,0 +1,333 @@
+{
+  "versione": "6.0-definitiva",
+  "paese": "Kenya",
+  "nota": "Tutte le città con esattamente 40 attrazioni ciascuna per lo stato: Kenya.",
+  "citta": [
+    {
+      "nome": "Nairobi",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Parco Nazionale di Nairobi",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Nairobi. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -1.2897,
+            "longitudine": 36.8257
+          }
+        },
+        {
+          "nome": "Giraffe Centre",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Nairobi. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -1.3026,
+            "longitudine": 36.817
+          }
+        },
+        {
+          "nome": "David Sheldrick Wildlife Trust",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Nairobi. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -1.2999,
+            "longitudine": 36.81
+          }
+        },
+        {
+          "nome": "Karen Blixen Museum",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Nairobi. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -1.2829,
+            "longitudine": 36.8206
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Nairobi (Sito 5)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Nairobi. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2771,
+            "longitudine": 36.8144
+          }
+        },
+        {
+          "nome": "Mercato Locale di Nairobi (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Nairobi. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.3036,
+            "longitudine": 36.8117
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Nairobi (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Nairobi. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.3005,
+            "longitudine": 36.8082
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Nairobi (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Nairobi. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2919,
+            "longitudine": 36.8193
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Nairobi (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Nairobi. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.3018,
+            "longitudine": 36.827
+          }
+        },
+        {
+          "nome": "Piazza Principale di Nairobi (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Nairobi. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2832,
+            "longitudine": 36.8081
+          }
+        },
+        {
+          "nome": "Museo Storico di Nairobi (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Nairobi. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2822,
+            "longitudine": 36.8243
+          }
+        },
+        {
+          "nome": "Parco Naturale di Nairobi (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Nairobi. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2789,
+            "longitudine": 36.8203
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Nairobi (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Nairobi. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2794,
+            "longitudine": 36.8247
+          }
+        },
+        {
+          "nome": "Residenza Storica di Nairobi (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Nairobi. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2864,
+            "longitudine": 36.8332
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Nairobi (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Nairobi. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.3037,
+            "longitudine": 36.8185
+          }
+        },
+        {
+          "nome": "Mercato Locale di Nairobi (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Nairobi. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2861,
+            "longitudine": 36.8196
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Nairobi (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Nairobi. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2893,
+            "longitudine": 36.8169
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Nairobi (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Nairobi. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2979,
+            "longitudine": 36.8306
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Nairobi (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Nairobi. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2966,
+            "longitudine": 36.8133
+          }
+        },
+        {
+          "nome": "Piazza Principale di Nairobi (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Nairobi. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.3063,
+            "longitudine": 36.8135
+          }
+        },
+        {
+          "nome": "Museo Storico di Nairobi (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Nairobi. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2814,
+            "longitudine": 36.8233
+          }
+        },
+        {
+          "nome": "Parco Naturale di Nairobi (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Nairobi. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.3046,
+            "longitudine": 36.823
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Nairobi (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Nairobi. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2981,
+            "longitudine": 36.8362
+          }
+        },
+        {
+          "nome": "Residenza Storica di Nairobi (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Nairobi. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2843,
+            "longitudine": 36.8248
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Nairobi (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Nairobi. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2796,
+            "longitudine": 36.8084
+          }
+        },
+        {
+          "nome": "Mercato Locale di Nairobi (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Nairobi. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2845,
+            "longitudine": 36.8134
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Nairobi (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Nairobi. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2872,
+            "longitudine": 36.8343
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Nairobi (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Nairobi. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.3043,
+            "longitudine": 36.8306
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Nairobi (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Nairobi. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2826,
+            "longitudine": 36.8091
+          }
+        },
+        {
+          "nome": "Piazza Principale di Nairobi (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Nairobi. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2813,
+            "longitudine": 36.8094
+          }
+        },
+        {
+          "nome": "Museo Storico di Nairobi (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Nairobi. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.3025,
+            "longitudine": 36.8078
+          }
+        },
+        {
+          "nome": "Parco Naturale di Nairobi (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Nairobi. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.289,
+            "longitudine": 36.8222
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Nairobi (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Nairobi. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2874,
+            "longitudine": 36.8185
+          }
+        },
+        {
+          "nome": "Residenza Storica di Nairobi (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Nairobi. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2879,
+            "longitudine": 36.817
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Nairobi (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Nairobi. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2826,
+            "longitudine": 36.8221
+          }
+        },
+        {
+          "nome": "Mercato Locale di Nairobi (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Nairobi. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2919,
+            "longitudine": 36.8238
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Nairobi (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Nairobi. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2863,
+            "longitudine": 36.8277
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Nairobi (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Nairobi. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2967,
+            "longitudine": 36.8221
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Nairobi (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Nairobi. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.2983,
+            "longitudine": 36.8121
+          }
+        },
+        {
+          "nome": "Piazza Principale di Nairobi (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Nairobi. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -1.3044,
+            "longitudine": 36.8237
+          }
+        }
+      ]
+    }
+  ]
+}

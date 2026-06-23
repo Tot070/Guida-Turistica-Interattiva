@@ -1,0 +1,659 @@
+{
+  "versione": "5.0-paese",
+  "paese": "EAU",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: EAU.",
+  "citta": [
+    {
+      "nome": "Dubai",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Dubai (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Dubai. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 34.9249,
+            "longitudine": 26.9238
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Dubai (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Dubai. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 34.9241,
+            "longitudine": 26.9216
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Dubai (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Dubai. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 34.9179,
+            "longitudine": 26.9337
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Dubai (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Dubai. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 34.9262,
+            "longitudine": 26.9251
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Dubai (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Dubai. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 34.9166,
+            "longitudine": 26.955
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Dubai (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Dubai. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 34.9215,
+            "longitudine": 26.9568
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Dubai (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Dubai. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 34.9396,
+            "longitudine": 26.9461
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Dubai (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Dubai. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 34.943,
+            "longitudine": 26.9196
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Dubai (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Dubai. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 34.9431,
+            "longitudine": 26.9488
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Dubai (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Dubai. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 34.9092,
+            "longitudine": 26.9529
+          }
+        },
+        {
+          "nome": "Ponte Storico di Dubai (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Dubai. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 34.934,
+            "longitudine": 26.9547
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Dubai (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Dubai. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 34.9297,
+            "longitudine": 26.9263
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Dubai (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Dubai. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 34.9294,
+            "longitudine": 26.9426
+          }
+        },
+        {
+          "nome": "Castello Medievale di Dubai (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Dubai. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 34.9186,
+            "longitudine": 26.9305
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Dubai (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Dubai. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 34.9276,
+            "longitudine": 26.941
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Dubai (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Dubai. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 34.9108,
+            "longitudine": 26.9553
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Dubai (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Dubai. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 34.9266,
+            "longitudine": 26.9339
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Dubai (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Dubai. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 34.9121,
+            "longitudine": 26.9437
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Dubai (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Dubai. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 34.9219,
+            "longitudine": 26.9581
+          }
+        },
+        {
+          "nome": "Basilica Storica di Dubai (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Dubai. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 34.9138,
+            "longitudine": 26.9364
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Dubai (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Dubai. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 34.9105,
+            "longitudine": 26.931
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Dubai (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Dubai. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 34.9173,
+            "longitudine": 26.9243
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Dubai (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Dubai. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 34.9368,
+            "longitudine": 26.9373
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Dubai (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Dubai. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 34.9265,
+            "longitudine": 26.9568
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Dubai (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Dubai. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 34.9379,
+            "longitudine": 26.9222
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Dubai (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Dubai. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 34.9193,
+            "longitudine": 26.9449
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Dubai (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Dubai. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 34.9184,
+            "longitudine": 26.9477
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Dubai (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Dubai. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 34.9269,
+            "longitudine": 26.9567
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Dubai (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Dubai. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 34.9277,
+            "longitudine": 26.9209
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Dubai (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Dubai. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 34.9421,
+            "longitudine": 26.9417
+          }
+        },
+        {
+          "nome": "Ponte Storico di Dubai (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Dubai. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 34.9428,
+            "longitudine": 26.9585
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Dubai (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Dubai. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 34.9326,
+            "longitudine": 26.9582
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Dubai (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Dubai. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 34.9312,
+            "longitudine": 26.9275
+          }
+        },
+        {
+          "nome": "Castello Medievale di Dubai (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Dubai. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 34.9282,
+            "longitudine": 26.9462
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Dubai (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Dubai. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 34.9426,
+            "longitudine": 26.9319
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Dubai (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Dubai. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 34.9364,
+            "longitudine": 26.955
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Dubai (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Dubai. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 34.9102,
+            "longitudine": 26.9472
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Dubai (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Dubai. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 34.9374,
+            "longitudine": 26.9209
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Dubai (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Dubai. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 34.9079,
+            "longitudine": 26.919
+          }
+        },
+        {
+          "nome": "Basilica Storica di Dubai (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Dubai. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 34.924,
+            "longitudine": 26.9277
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Abu Dhabi",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Abu Dhabi (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Abu Dhabi. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 36.4973,
+            "longitudine": 39.1702
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Abu Dhabi (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Abu Dhabi. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 36.5285,
+            "longitudine": 39.1811
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Abu Dhabi (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Abu Dhabi. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 36.5239,
+            "longitudine": 39.15
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Abu Dhabi (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Abu Dhabi. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 36.4958,
+            "longitudine": 39.1713
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Abu Dhabi (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Abu Dhabi. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 36.502,
+            "longitudine": 39.1875
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Abu Dhabi (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Abu Dhabi. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 36.5178,
+            "longitudine": 39.1751
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Abu Dhabi (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Abu Dhabi. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 36.4935,
+            "longitudine": 39.1853
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Abu Dhabi (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Abu Dhabi. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 36.5005,
+            "longitudine": 39.1869
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Abu Dhabi (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Abu Dhabi. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 36.5324,
+            "longitudine": 39.1804
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Abu Dhabi (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Abu Dhabi. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 36.5277,
+            "longitudine": 39.1794
+          }
+        },
+        {
+          "nome": "Ponte Storico di Abu Dhabi (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Abu Dhabi. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 36.5272,
+            "longitudine": 39.1503
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Abu Dhabi (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Abu Dhabi. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 36.4957,
+            "longitudine": 39.1791
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Abu Dhabi (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Abu Dhabi. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 36.5318,
+            "longitudine": 39.1749
+          }
+        },
+        {
+          "nome": "Castello Medievale di Abu Dhabi (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Abu Dhabi. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 36.5081,
+            "longitudine": 39.1552
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Abu Dhabi (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Abu Dhabi. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 36.4989,
+            "longitudine": 39.188
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Abu Dhabi (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Abu Dhabi. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 36.5156,
+            "longitudine": 39.1865
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Abu Dhabi (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Abu Dhabi. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 36.4955,
+            "longitudine": 39.1552
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Abu Dhabi (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Abu Dhabi. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 36.4962,
+            "longitudine": 39.175
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Abu Dhabi (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Abu Dhabi. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 36.5114,
+            "longitudine": 39.1849
+          }
+        },
+        {
+          "nome": "Basilica Storica di Abu Dhabi (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Abu Dhabi. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 36.5074,
+            "longitudine": 39.1587
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Abu Dhabi (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Abu Dhabi. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 36.5163,
+            "longitudine": 39.1645
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Abu Dhabi (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Abu Dhabi. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 36.5066,
+            "longitudine": 39.1548
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Abu Dhabi (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Abu Dhabi. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 36.5053,
+            "longitudine": 39.1631
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Abu Dhabi (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Abu Dhabi. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 36.5267,
+            "longitudine": 39.1526
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Abu Dhabi (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Abu Dhabi. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 36.5204,
+            "longitudine": 39.1643
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Abu Dhabi (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Abu Dhabi. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 36.5275,
+            "longitudine": 39.1555
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Abu Dhabi (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Abu Dhabi. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 36.5182,
+            "longitudine": 39.1714
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Abu Dhabi (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Abu Dhabi. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 36.5067,
+            "longitudine": 39.1853
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Abu Dhabi (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Abu Dhabi. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 36.5175,
+            "longitudine": 39.1503
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Abu Dhabi (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Abu Dhabi. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 36.4932,
+            "longitudine": 39.1689
+          }
+        },
+        {
+          "nome": "Ponte Storico di Abu Dhabi (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Abu Dhabi. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 36.5078,
+            "longitudine": 39.1783
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Abu Dhabi (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Abu Dhabi. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 36.4962,
+            "longitudine": 39.1694
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Abu Dhabi (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Abu Dhabi. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 36.4983,
+            "longitudine": 39.154
+          }
+        },
+        {
+          "nome": "Castello Medievale di Abu Dhabi (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Abu Dhabi. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 36.5034,
+            "longitudine": 39.1875
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Abu Dhabi (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Abu Dhabi. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 36.5062,
+            "longitudine": 39.1512
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Abu Dhabi (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Abu Dhabi. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 36.5042,
+            "longitudine": 39.151
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Abu Dhabi (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Abu Dhabi. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 36.5292,
+            "longitudine": 39.1801
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Abu Dhabi (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Abu Dhabi. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 36.5061,
+            "longitudine": 39.1812
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Abu Dhabi (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Abu Dhabi. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 36.5102,
+            "longitudine": 39.1505
+          }
+        },
+        {
+          "nome": "Basilica Storica di Abu Dhabi (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Abu Dhabi. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 36.5211,
+            "longitudine": 39.1643
+          }
+        }
+      ]
+    }
+  ]
+}

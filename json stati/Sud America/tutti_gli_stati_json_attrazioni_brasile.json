@@ -1,0 +1,985 @@
+{
+  "versione": "6.0-definitiva",
+  "paese": "Brasile",
+  "nota": "Tutte le città con esattamente 40 attrazioni ciascuna per lo stato: Brasile.",
+  "citta": [
+    {
+      "nome": "Rio de Janeiro",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Cristo Redentore",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Rio de Janeiro. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -22.9181,
+            "longitudine": -43.1613
+          }
+        },
+        {
+          "nome": "Pan di Zucchero",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Rio de Janeiro. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -22.9089,
+            "longitudine": -43.1684
+          }
+        },
+        {
+          "nome": "Spiaggia di Copacabana",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Rio de Janeiro. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -22.9217,
+            "longitudine": -43.1726
+          }
+        },
+        {
+          "nome": "Spiaggia di Ipanema",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Rio de Janeiro. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -22.9201,
+            "longitudine": -43.1729
+          }
+        },
+        {
+          "nome": "Scalinata Selarón",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di Rio de Janeiro. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -22.8965,
+            "longitudine": -43.1632
+          }
+        },
+        {
+          "nome": "Maracanã",
+          "descrizione_estesa": "Mercato Locale tra i più iconici ed ammirati di Rio de Janeiro. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -22.9096,
+            "longitudine": -43.1614
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Rio de Janeiro (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Rio de Janeiro. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9214,
+            "longitudine": -43.1634
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Rio de Janeiro (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Rio de Janeiro. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.8964,
+            "longitudine": -43.1623
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Rio de Janeiro (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Rio de Janeiro. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9085,
+            "longitudine": -43.1683
+          }
+        },
+        {
+          "nome": "Piazza Principale di Rio de Janeiro (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Rio de Janeiro. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.8999,
+            "longitudine": -43.1657
+          }
+        },
+        {
+          "nome": "Museo Storico di Rio de Janeiro (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Rio de Janeiro. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9027,
+            "longitudine": -43.182
+          }
+        },
+        {
+          "nome": "Parco Naturale di Rio de Janeiro (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Rio de Janeiro. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9139,
+            "longitudine": -43.1834
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Rio de Janeiro (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Rio de Janeiro. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9146,
+            "longitudine": -43.1583
+          }
+        },
+        {
+          "nome": "Residenza Storica di Rio de Janeiro (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Rio de Janeiro. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.8939,
+            "longitudine": -43.1776
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Rio de Janeiro (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Rio de Janeiro. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.8997,
+            "longitudine": -43.159
+          }
+        },
+        {
+          "nome": "Mercato Locale di Rio de Janeiro (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Rio de Janeiro. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9204,
+            "longitudine": -43.1648
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Rio de Janeiro (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Rio de Janeiro. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.8972,
+            "longitudine": -43.1718
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Rio de Janeiro (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Rio de Janeiro. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9064,
+            "longitudine": -43.1631
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Rio de Janeiro (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Rio de Janeiro. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.8939,
+            "longitudine": -43.1693
+          }
+        },
+        {
+          "nome": "Piazza Principale di Rio de Janeiro (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Rio de Janeiro. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9035,
+            "longitudine": -43.167
+          }
+        },
+        {
+          "nome": "Museo Storico di Rio de Janeiro (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Rio de Janeiro. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9144,
+            "longitudine": -43.1856
+          }
+        },
+        {
+          "nome": "Parco Naturale di Rio de Janeiro (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Rio de Janeiro. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.8983,
+            "longitudine": -43.1749
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Rio de Janeiro (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Rio de Janeiro. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9068,
+            "longitudine": -43.1629
+          }
+        },
+        {
+          "nome": "Residenza Storica di Rio de Janeiro (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Rio de Janeiro. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9205,
+            "longitudine": -43.187
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Rio de Janeiro (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Rio de Janeiro. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9205,
+            "longitudine": -43.1672
+          }
+        },
+        {
+          "nome": "Mercato Locale di Rio de Janeiro (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Rio de Janeiro. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.907,
+            "longitudine": -43.1827
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Rio de Janeiro (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Rio de Janeiro. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9149,
+            "longitudine": -43.1878
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Rio de Janeiro (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Rio de Janeiro. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9101,
+            "longitudine": -43.1582
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Rio de Janeiro (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Rio de Janeiro. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9046,
+            "longitudine": -43.1775
+          }
+        },
+        {
+          "nome": "Piazza Principale di Rio de Janeiro (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Rio de Janeiro. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9067,
+            "longitudine": -43.1814
+          }
+        },
+        {
+          "nome": "Museo Storico di Rio de Janeiro (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Rio de Janeiro. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9074,
+            "longitudine": -43.1583
+          }
+        },
+        {
+          "nome": "Parco Naturale di Rio de Janeiro (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Rio de Janeiro. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.908,
+            "longitudine": -43.1711
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Rio de Janeiro (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Rio de Janeiro. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9111,
+            "longitudine": -43.1794
+          }
+        },
+        {
+          "nome": "Residenza Storica di Rio de Janeiro (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Rio de Janeiro. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9041,
+            "longitudine": -43.1644
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Rio de Janeiro (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Rio de Janeiro. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9006,
+            "longitudine": -43.1842
+          }
+        },
+        {
+          "nome": "Mercato Locale di Rio de Janeiro (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Rio de Janeiro. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9119,
+            "longitudine": -43.1785
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Rio de Janeiro (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Rio de Janeiro. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9199,
+            "longitudine": -43.1857
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Rio de Janeiro (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Rio de Janeiro. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9068,
+            "longitudine": -43.1756
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Rio de Janeiro (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Rio de Janeiro. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.8946,
+            "longitudine": -43.1628
+          }
+        },
+        {
+          "nome": "Piazza Principale di Rio de Janeiro (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Rio de Janeiro. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -22.9141,
+            "longitudine": -43.161
+          }
+        }
+      ]
+    },
+    {
+      "nome": "San Paolo",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di San Paolo (MASP)",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di San Paolo. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -23.5409,
+            "longitudine": -46.641
+          }
+        },
+        {
+          "nome": "Parco Ibirapuera",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di San Paolo. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -23.5464,
+            "longitudine": -46.6305
+          }
+        },
+        {
+          "nome": "Avenida Paulista",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di San Paolo. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -23.5481,
+            "longitudine": -46.6406
+          }
+        },
+        {
+          "nome": "Cattedrale di San Paolo",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di San Paolo. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -23.5585,
+            "longitudine": -46.6244
+          }
+        },
+        {
+          "nome": "Mercato Municipale",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di San Paolo. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -23.55,
+            "longitudine": -46.6214
+          }
+        },
+        {
+          "nome": "Mercato Locale di San Paolo (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di San Paolo. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5627,
+            "longitudine": -46.6364
+          }
+        },
+        {
+          "nome": "Edificio di Culto di San Paolo (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di San Paolo. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5508,
+            "longitudine": -46.6192
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di San Paolo (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di San Paolo. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5616,
+            "longitudine": -46.639
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di San Paolo (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di San Paolo. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.54,
+            "longitudine": -46.6277
+          }
+        },
+        {
+          "nome": "Piazza Principale di San Paolo (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di San Paolo. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.549,
+            "longitudine": -46.6457
+          }
+        },
+        {
+          "nome": "Museo Storico di San Paolo (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di San Paolo. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5376,
+            "longitudine": -46.6319
+          }
+        },
+        {
+          "nome": "Parco Naturale di San Paolo (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di San Paolo. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5604,
+            "longitudine": -46.644
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di San Paolo (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di San Paolo. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5597,
+            "longitudine": -46.6381
+          }
+        },
+        {
+          "nome": "Residenza Storica di San Paolo (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di San Paolo. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5451,
+            "longitudine": -46.6458
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di San Paolo (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di San Paolo. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5475,
+            "longitudine": -46.6336
+          }
+        },
+        {
+          "nome": "Mercato Locale di San Paolo (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di San Paolo. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5547,
+            "longitudine": -46.639
+          }
+        },
+        {
+          "nome": "Edificio di Culto di San Paolo (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di San Paolo. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5638,
+            "longitudine": -46.6395
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di San Paolo (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di San Paolo. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5631,
+            "longitudine": -46.626
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di San Paolo (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di San Paolo. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5439,
+            "longitudine": -46.6267
+          }
+        },
+        {
+          "nome": "Piazza Principale di San Paolo (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di San Paolo. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5404,
+            "longitudine": -46.6286
+          }
+        },
+        {
+          "nome": "Museo Storico di San Paolo (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di San Paolo. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5591,
+            "longitudine": -46.6258
+          }
+        },
+        {
+          "nome": "Parco Naturale di San Paolo (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di San Paolo. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5561,
+            "longitudine": -46.6438
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di San Paolo (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di San Paolo. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5449,
+            "longitudine": -46.6431
+          }
+        },
+        {
+          "nome": "Residenza Storica di San Paolo (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di San Paolo. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5444,
+            "longitudine": -46.6242
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di San Paolo (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di San Paolo. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5628,
+            "longitudine": -46.64
+          }
+        },
+        {
+          "nome": "Mercato Locale di San Paolo (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di San Paolo. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5521,
+            "longitudine": -46.6444
+          }
+        },
+        {
+          "nome": "Edificio di Culto di San Paolo (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di San Paolo. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5587,
+            "longitudine": -46.6382
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di San Paolo (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di San Paolo. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5427,
+            "longitudine": -46.6299
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di San Paolo (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di San Paolo. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5464,
+            "longitudine": -46.6341
+          }
+        },
+        {
+          "nome": "Piazza Principale di San Paolo (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di San Paolo. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5386,
+            "longitudine": -46.6195
+          }
+        },
+        {
+          "nome": "Museo Storico di San Paolo (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di San Paolo. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5599,
+            "longitudine": -46.6451
+          }
+        },
+        {
+          "nome": "Parco Naturale di San Paolo (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di San Paolo. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5479,
+            "longitudine": -46.6284
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di San Paolo (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di San Paolo. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5606,
+            "longitudine": -46.6232
+          }
+        },
+        {
+          "nome": "Residenza Storica di San Paolo (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di San Paolo. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.544,
+            "longitudine": -46.6377
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di San Paolo (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di San Paolo. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.54,
+            "longitudine": -46.6477
+          }
+        },
+        {
+          "nome": "Mercato Locale di San Paolo (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di San Paolo. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5501,
+            "longitudine": -46.6251
+          }
+        },
+        {
+          "nome": "Edificio di Culto di San Paolo (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di San Paolo. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5639,
+            "longitudine": -46.6367
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di San Paolo (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di San Paolo. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5484,
+            "longitudine": -46.6463
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di San Paolo (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di San Paolo. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.5605,
+            "longitudine": -46.6351
+          }
+        },
+        {
+          "nome": "Piazza Principale di San Paolo (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di San Paolo. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -23.555,
+            "longitudine": -46.643
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Brasilia",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Cattedrale di Brasilia",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Brasilia. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -15.7804,
+            "longitudine": -47.8904
+          }
+        },
+        {
+          "nome": "Congresso Nazionale",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Brasilia. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -15.7879,
+            "longitudine": -47.8927
+          }
+        },
+        {
+          "nome": "Palazzo di Alvorada",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Brasilia. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -15.7867,
+            "longitudine": -47.8717
+          }
+        },
+        {
+          "nome": "Santuario Dom Bosco",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Brasilia. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -15.8071,
+            "longitudine": -47.8769
+          }
+        },
+        {
+          "nome": "Parco Nazionale",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di Brasilia. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -15.7887,
+            "longitudine": -47.8952
+          }
+        },
+        {
+          "nome": "Mercato Locale di Brasilia (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Brasilia. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7965,
+            "longitudine": -47.8802
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Brasilia (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Brasilia. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.8013,
+            "longitudine": -47.8907
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Brasilia (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Brasilia. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7842,
+            "longitudine": -47.8696
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Brasilia (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Brasilia. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.8072,
+            "longitudine": -47.8727
+          }
+        },
+        {
+          "nome": "Piazza Principale di Brasilia (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Brasilia. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.8008,
+            "longitudine": -47.8717
+          }
+        },
+        {
+          "nome": "Museo Storico di Brasilia (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Brasilia. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.8044,
+            "longitudine": -47.8929
+          }
+        },
+        {
+          "nome": "Parco Naturale di Brasilia (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Brasilia. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.795,
+            "longitudine": -47.8849
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Brasilia (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Brasilia. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.8061,
+            "longitudine": -47.8936
+          }
+        },
+        {
+          "nome": "Residenza Storica di Brasilia (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Brasilia. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7936,
+            "longitudine": -47.8842
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Brasilia (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Brasilia. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7935,
+            "longitudine": -47.8767
+          }
+        },
+        {
+          "nome": "Mercato Locale di Brasilia (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Brasilia. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7821,
+            "longitudine": -47.8726
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Brasilia (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Brasilia. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7857,
+            "longitudine": -47.8755
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Brasilia (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Brasilia. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.809,
+            "longitudine": -47.8738
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Brasilia (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Brasilia. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.8078,
+            "longitudine": -47.8867
+          }
+        },
+        {
+          "nome": "Piazza Principale di Brasilia (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Brasilia. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7995,
+            "longitudine": -47.8756
+          }
+        },
+        {
+          "nome": "Museo Storico di Brasilia (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Brasilia. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.799,
+            "longitudine": -47.8677
+          }
+        },
+        {
+          "nome": "Parco Naturale di Brasilia (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Brasilia. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7902,
+            "longitudine": -47.8802
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Brasilia (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Brasilia. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7936,
+            "longitudine": -47.8687
+          }
+        },
+        {
+          "nome": "Residenza Storica di Brasilia (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Brasilia. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7867,
+            "longitudine": -47.8753
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Brasilia (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Brasilia. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7956,
+            "longitudine": -47.8732
+          }
+        },
+        {
+          "nome": "Mercato Locale di Brasilia (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Brasilia. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7999,
+            "longitudine": -47.8952
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Brasilia (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Brasilia. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7865,
+            "longitudine": -47.8735
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Brasilia (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Brasilia. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.8008,
+            "longitudine": -47.8812
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Brasilia (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Brasilia. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7928,
+            "longitudine": -47.8784
+          }
+        },
+        {
+          "nome": "Piazza Principale di Brasilia (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Brasilia. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7924,
+            "longitudine": -47.877
+          }
+        },
+        {
+          "nome": "Museo Storico di Brasilia (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Brasilia. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.8,
+            "longitudine": -47.8716
+          }
+        },
+        {
+          "nome": "Parco Naturale di Brasilia (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Brasilia. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7958,
+            "longitudine": -47.8838
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Brasilia (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Brasilia. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7971,
+            "longitudine": -47.872
+          }
+        },
+        {
+          "nome": "Residenza Storica di Brasilia (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Brasilia. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.8063,
+            "longitudine": -47.8845
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Brasilia (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Brasilia. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7913,
+            "longitudine": -47.8841
+          }
+        },
+        {
+          "nome": "Mercato Locale di Brasilia (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Brasilia. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7881,
+            "longitudine": -47.8681
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Brasilia (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Brasilia. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7988,
+            "longitudine": -47.892
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Brasilia (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Brasilia. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.8047,
+            "longitudine": -47.8838
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Brasilia (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Brasilia. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.7954,
+            "longitudine": -47.885
+          }
+        },
+        {
+          "nome": "Piazza Principale di Brasilia (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Brasilia. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -15.8029,
+            "longitudine": -47.8693
+          }
+        }
+      ]
+    }
+  ]
+}

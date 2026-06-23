@@ -1,0 +1,985 @@
+{
+  "versione": "5.0-paese",
+  "paese": "India",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: India.",
+  "citta": [
+    {
+      "nome": "Delhi",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Delhi (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Delhi. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 48.0804,
+            "longitudine": 0.6739
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Delhi (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Delhi. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 48.0844,
+            "longitudine": 0.6713
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Delhi (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Delhi. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 48.1045,
+            "longitudine": 0.663
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Delhi (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Delhi. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 48.0957,
+            "longitudine": 0.6879
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Delhi (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Delhi. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 48.0808,
+            "longitudine": 0.6975
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Delhi (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Delhi. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 48.1065,
+            "longitudine": 0.6685
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Delhi (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Delhi. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 48.0846,
+            "longitudine": 0.6903
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Delhi (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Delhi. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 48.0892,
+            "longitudine": 0.6682
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Delhi (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Delhi. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 48.0777,
+            "longitudine": 0.6928
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Delhi (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Delhi. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 48.0982,
+            "longitudine": 0.6965
+          }
+        },
+        {
+          "nome": "Ponte Storico di Delhi (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Delhi. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 48.0926,
+            "longitudine": 0.6883
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Delhi (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Delhi. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 48.0889,
+            "longitudine": 0.6734
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Delhi (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Delhi. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 48.1165,
+            "longitudine": 0.682
+          }
+        },
+        {
+          "nome": "Castello Medievale di Delhi (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Delhi. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 48.0866,
+            "longitudine": 0.6827
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Delhi (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Delhi. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 48.0991,
+            "longitudine": 0.6635
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Delhi (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Delhi. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 48.1044,
+            "longitudine": 0.6682
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Delhi (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Delhi. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 48.0808,
+            "longitudine": 0.6663
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Delhi (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Delhi. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 48.0827,
+            "longitudine": 0.6852
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Delhi (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Delhi. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 48.0971,
+            "longitudine": 0.6996
+          }
+        },
+        {
+          "nome": "Basilica Storica di Delhi (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Delhi. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 48.1054,
+            "longitudine": 0.692
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Delhi (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Delhi. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 48.1079,
+            "longitudine": 0.6626
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Delhi (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Delhi. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 48.1008,
+            "longitudine": 0.6918
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Delhi (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Delhi. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 48.0957,
+            "longitudine": 0.6954
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Delhi (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Delhi. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 48.1021,
+            "longitudine": 0.6719
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Delhi (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Delhi. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 48.1133,
+            "longitudine": 0.6652
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Delhi (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Delhi. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 48.0785,
+            "longitudine": 0.6856
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Delhi (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Delhi. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 48.1011,
+            "longitudine": 0.6719
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Delhi (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Delhi. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 48.0829,
+            "longitudine": 0.6765
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Delhi (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Delhi. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 48.0999,
+            "longitudine": 0.6988
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Delhi (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Delhi. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 48.1093,
+            "longitudine": 0.6742
+          }
+        },
+        {
+          "nome": "Ponte Storico di Delhi (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Delhi. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 48.1035,
+            "longitudine": 0.6757
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Delhi (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Delhi. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 48.0808,
+            "longitudine": 0.6798
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Delhi (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Delhi. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 48.0868,
+            "longitudine": 0.6767
+          }
+        },
+        {
+          "nome": "Castello Medievale di Delhi (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Delhi. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 48.1047,
+            "longitudine": 0.669
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Delhi (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Delhi. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 48.1127,
+            "longitudine": 0.6885
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Delhi (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Delhi. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 48.0789,
+            "longitudine": 0.6888
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Delhi (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Delhi. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 48.1095,
+            "longitudine": 0.6744
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Delhi (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Delhi. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 48.1096,
+            "longitudine": 0.6998
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Delhi (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Delhi. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 48.0797,
+            "longitudine": 0.6957
+          }
+        },
+        {
+          "nome": "Basilica Storica di Delhi (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Delhi. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 48.1087,
+            "longitudine": 0.6795
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Mumbai",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Mumbai (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Mumbai. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 25.2065,
+            "longitudine": 10.7671
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Mumbai (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Mumbai. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 25.2172,
+            "longitudine": 10.7728
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Mumbai (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Mumbai. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 25.197,
+            "longitudine": 10.7639
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Mumbai (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Mumbai. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 25.1854,
+            "longitudine": 10.7516
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Mumbai (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Mumbai. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 25.1911,
+            "longitudine": 10.771
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Mumbai (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Mumbai. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 25.2065,
+            "longitudine": 10.7726
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Mumbai (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Mumbai. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 25.1958,
+            "longitudine": 10.7736
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Mumbai (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Mumbai. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 25.2166,
+            "longitudine": 10.7705
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Mumbai (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Mumbai. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 25.2106,
+            "longitudine": 10.7598
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Mumbai (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Mumbai. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 25.1952,
+            "longitudine": 10.7369
+          }
+        },
+        {
+          "nome": "Ponte Storico di Mumbai (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Mumbai. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 25.2189,
+            "longitudine": 10.7369
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Mumbai (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Mumbai. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 25.185,
+            "longitudine": 10.7436
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Mumbai (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Mumbai. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 25.2103,
+            "longitudine": 10.7684
+          }
+        },
+        {
+          "nome": "Castello Medievale di Mumbai (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Mumbai. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 25.2209,
+            "longitudine": 10.7559
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Mumbai (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Mumbai. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 25.2042,
+            "longitudine": 10.7352
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Mumbai (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Mumbai. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 25.1942,
+            "longitudine": 10.7541
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Mumbai (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Mumbai. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 25.2057,
+            "longitudine": 10.749
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Mumbai (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Mumbai. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 25.2111,
+            "longitudine": 10.7658
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Mumbai (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Mumbai. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 25.2141,
+            "longitudine": 10.7398
+          }
+        },
+        {
+          "nome": "Basilica Storica di Mumbai (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Mumbai. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 25.1931,
+            "longitudine": 10.7401
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Mumbai (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Mumbai. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 25.2033,
+            "longitudine": 10.7415
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Mumbai (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Mumbai. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 25.2026,
+            "longitudine": 10.7344
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Mumbai (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Mumbai. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 25.2173,
+            "longitudine": 10.7627
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Mumbai (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Mumbai. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 25.2121,
+            "longitudine": 10.7622
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Mumbai (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Mumbai. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 25.1852,
+            "longitudine": 10.7453
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Mumbai (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Mumbai. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 25.1819,
+            "longitudine": 10.7608
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Mumbai (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Mumbai. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 25.1822,
+            "longitudine": 10.7462
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Mumbai (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Mumbai. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 25.2184,
+            "longitudine": 10.7643
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Mumbai (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Mumbai. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 25.2022,
+            "longitudine": 10.7703
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Mumbai (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Mumbai. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 25.2074,
+            "longitudine": 10.7529
+          }
+        },
+        {
+          "nome": "Ponte Storico di Mumbai (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Mumbai. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 25.2071,
+            "longitudine": 10.7735
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Mumbai (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Mumbai. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 25.1888,
+            "longitudine": 10.7367
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Mumbai (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Mumbai. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 25.185,
+            "longitudine": 10.7494
+          }
+        },
+        {
+          "nome": "Castello Medievale di Mumbai (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Mumbai. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 25.2206,
+            "longitudine": 10.7604
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Mumbai (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Mumbai. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 25.2162,
+            "longitudine": 10.7493
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Mumbai (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Mumbai. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 25.1932,
+            "longitudine": 10.7565
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Mumbai (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Mumbai. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 25.1981,
+            "longitudine": 10.763
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Mumbai (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Mumbai. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 25.204,
+            "longitudine": 10.7737
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Mumbai (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Mumbai. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 25.1862,
+            "longitudine": 10.7561
+          }
+        },
+        {
+          "nome": "Basilica Storica di Mumbai (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Mumbai. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 25.2118,
+            "longitudine": 10.7629
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Agra",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Agra (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Agra. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 33.3163,
+            "longitudine": 35.82
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Agra (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Agra. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 33.3222,
+            "longitudine": 35.8455
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Agra (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Agra. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 33.3067,
+            "longitudine": 35.8455
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Agra (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Agra. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 33.3022,
+            "longitudine": 35.8196
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Agra (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Agra. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 33.2984,
+            "longitudine": 35.8486
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Agra (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Agra. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 33.3161,
+            "longitudine": 35.8296
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Agra (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Agra. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 33.2919,
+            "longitudine": 35.8163
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Agra (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Agra. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 33.3045,
+            "longitudine": 35.8366
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Agra (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Agra. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 33.3086,
+            "longitudine": 35.8211
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Agra (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Agra. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 33.3082,
+            "longitudine": 35.8283
+          }
+        },
+        {
+          "nome": "Ponte Storico di Agra (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Agra. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 33.3036,
+            "longitudine": 35.849
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Agra (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Agra. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 33.3101,
+            "longitudine": 35.8536
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Agra (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Agra. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 33.2987,
+            "longitudine": 35.8307
+          }
+        },
+        {
+          "nome": "Castello Medievale di Agra (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Agra. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 33.3066,
+            "longitudine": 35.8258
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Agra (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Agra. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 33.2989,
+            "longitudine": 35.8188
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Agra (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Agra. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 33.2866,
+            "longitudine": 35.8162
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Agra (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Agra. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 33.2944,
+            "longitudine": 35.8264
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Agra (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Agra. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 33.3023,
+            "longitudine": 35.8463
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Agra (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Agra. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 33.3063,
+            "longitudine": 35.8337
+          }
+        },
+        {
+          "nome": "Basilica Storica di Agra (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Agra. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 33.321,
+            "longitudine": 35.8167
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Agra (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Agra. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 33.2876,
+            "longitudine": 35.8305
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Agra (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Agra. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 33.2986,
+            "longitudine": 35.8375
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Agra (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Agra. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 33.3056,
+            "longitudine": 35.8312
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Agra (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Agra. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 33.3013,
+            "longitudine": 35.8438
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Agra (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Agra. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 33.322,
+            "longitudine": 35.8229
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Agra (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Agra. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 33.2927,
+            "longitudine": 35.8364
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Agra (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Agra. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 33.2949,
+            "longitudine": 35.8486
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Agra (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Agra. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 33.3202,
+            "longitudine": 35.8472
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Agra (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Agra. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 33.2927,
+            "longitudine": 35.8189
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Agra (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Agra. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 33.3024,
+            "longitudine": 35.8199
+          }
+        },
+        {
+          "nome": "Ponte Storico di Agra (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Agra. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 33.2932,
+            "longitudine": 35.8542
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Agra (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Agra. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 33.2935,
+            "longitudine": 35.8331
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Agra (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Agra. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 33.3005,
+            "longitudine": 35.8197
+          }
+        },
+        {
+          "nome": "Castello Medievale di Agra (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Agra. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 33.2897,
+            "longitudine": 35.8445
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Agra (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Agra. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 33.299,
+            "longitudine": 35.8538
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Agra (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Agra. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 33.3118,
+            "longitudine": 35.8339
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Agra (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Agra. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 33.3149,
+            "longitudine": 35.8303
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Agra (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Agra. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 33.3171,
+            "longitudine": 35.8544
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Agra (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Agra. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 33.3124,
+            "longitudine": 35.8426
+          }
+        },
+        {
+          "nome": "Basilica Storica di Agra (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Agra. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 33.2978,
+            "longitudine": 35.8523
+          }
+        }
+      ]
+    }
+  ]
+}

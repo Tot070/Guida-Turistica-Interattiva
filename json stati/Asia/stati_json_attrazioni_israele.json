@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Israele",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Israele.",
+  "citta": [
+    {
+      "nome": "Gerusalemme",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Gerusalemme (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Gerusalemme. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 26.588,
+            "longitudine": 31.7007
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Gerusalemme (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Gerusalemme. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 26.5795,
+            "longitudine": 31.6995
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Gerusalemme (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Gerusalemme. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 26.5737,
+            "longitudine": 31.701
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Gerusalemme (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Gerusalemme. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 26.5627,
+            "longitudine": 31.7144
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Gerusalemme (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Gerusalemme. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 26.5587,
+            "longitudine": 31.7302
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Gerusalemme (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Gerusalemme. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 26.5789,
+            "longitudine": 31.7185
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Gerusalemme (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Gerusalemme. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 26.5832,
+            "longitudine": 31.7164
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Gerusalemme (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Gerusalemme. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 26.5713,
+            "longitudine": 31.7174
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Gerusalemme (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Gerusalemme. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 26.5885,
+            "longitudine": 31.7018
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Gerusalemme (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Gerusalemme. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 26.5621,
+            "longitudine": 31.6968
+          }
+        },
+        {
+          "nome": "Ponte Storico di Gerusalemme (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Gerusalemme. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 26.5746,
+            "longitudine": 31.6963
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Gerusalemme (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Gerusalemme. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 26.5576,
+            "longitudine": 31.696
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Gerusalemme (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Gerusalemme. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 26.5521,
+            "longitudine": 31.7254
+          }
+        },
+        {
+          "nome": "Castello Medievale di Gerusalemme (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Gerusalemme. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 26.5569,
+            "longitudine": 31.7292
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Gerusalemme (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Gerusalemme. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 26.5823,
+            "longitudine": 31.7219
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Gerusalemme (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Gerusalemme. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 26.5547,
+            "longitudine": 31.6962
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Gerusalemme (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Gerusalemme. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 26.578,
+            "longitudine": 31.7186
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Gerusalemme (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Gerusalemme. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 26.5776,
+            "longitudine": 31.7222
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Gerusalemme (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Gerusalemme. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 26.5622,
+            "longitudine": 31.7145
+          }
+        },
+        {
+          "nome": "Basilica Storica di Gerusalemme (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Gerusalemme. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 26.5565,
+            "longitudine": 31.712
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Gerusalemme (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Gerusalemme. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 26.5742,
+            "longitudine": 31.7126
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Gerusalemme (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Gerusalemme. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 26.5918,
+            "longitudine": 31.7244
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Gerusalemme (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Gerusalemme. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 26.5905,
+            "longitudine": 31.7156
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Gerusalemme (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Gerusalemme. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 26.556,
+            "longitudine": 31.7317
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Gerusalemme (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Gerusalemme. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 26.592,
+            "longitudine": 31.6983
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Gerusalemme (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Gerusalemme. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 26.5816,
+            "longitudine": 31.732
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Gerusalemme (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Gerusalemme. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 26.5724,
+            "longitudine": 31.7118
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Gerusalemme (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Gerusalemme. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 26.5875,
+            "longitudine": 31.7271
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Gerusalemme (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Gerusalemme. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 26.5892,
+            "longitudine": 31.7167
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Gerusalemme (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Gerusalemme. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 26.5704,
+            "longitudine": 31.6988
+          }
+        },
+        {
+          "nome": "Ponte Storico di Gerusalemme (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Gerusalemme. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 26.5907,
+            "longitudine": 31.7024
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Gerusalemme (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Gerusalemme. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 26.5534,
+            "longitudine": 31.7016
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Gerusalemme (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Gerusalemme. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 26.5849,
+            "longitudine": 31.7313
+          }
+        },
+        {
+          "nome": "Castello Medievale di Gerusalemme (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Gerusalemme. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 26.5657,
+            "longitudine": 31.6958
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Gerusalemme (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Gerusalemme. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 26.5745,
+            "longitudine": 31.7085
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Gerusalemme (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Gerusalemme. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 26.575,
+            "longitudine": 31.6991
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Gerusalemme (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Gerusalemme. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 26.5919,
+            "longitudine": 31.6996
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Gerusalemme (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Gerusalemme. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 26.5616,
+            "longitudine": 31.6961
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Gerusalemme (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Gerusalemme. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 26.592,
+            "longitudine": 31.7065
+          }
+        },
+        {
+          "nome": "Basilica Storica di Gerusalemme (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Gerusalemme. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 26.5905,
+            "longitudine": 31.7086
+          }
+        }
+      ]
+    }
+  ]
+}

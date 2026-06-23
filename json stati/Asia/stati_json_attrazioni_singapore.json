@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Singapore",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Singapore.",
+  "citta": [
+    {
+      "nome": "Singapore",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Singapore (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Singapore. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 20.1518,
+            "longitudine": 14.9068
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Singapore (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Singapore. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 20.1619,
+            "longitudine": 14.8948
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Singapore (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Singapore. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 20.1391,
+            "longitudine": 14.8944
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Singapore (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Singapore. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 20.1524,
+            "longitudine": 14.9168
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Singapore (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Singapore. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 20.1727,
+            "longitudine": 14.9137
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Singapore (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Singapore. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 20.1459,
+            "longitudine": 14.8933
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Singapore (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Singapore. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 20.1676,
+            "longitudine": 14.8823
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Singapore (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Singapore. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 20.1718,
+            "longitudine": 14.9019
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Singapore (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Singapore. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 20.149,
+            "longitudine": 14.8932
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Singapore (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Singapore. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 20.1515,
+            "longitudine": 14.9155
+          }
+        },
+        {
+          "nome": "Ponte Storico di Singapore (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Singapore. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 20.1751,
+            "longitudine": 14.8893
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Singapore (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Singapore. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 20.1511,
+            "longitudine": 14.9085
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Singapore (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Singapore. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 20.177,
+            "longitudine": 14.8926
+          }
+        },
+        {
+          "nome": "Castello Medievale di Singapore (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Singapore. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 20.1561,
+            "longitudine": 14.9032
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Singapore (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Singapore. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 20.1687,
+            "longitudine": 14.885
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Singapore (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Singapore. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 20.1433,
+            "longitudine": 14.8913
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Singapore (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Singapore. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 20.1483,
+            "longitudine": 14.8976
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Singapore (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Singapore. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 20.1666,
+            "longitudine": 14.9183
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Singapore (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Singapore. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 20.1614,
+            "longitudine": 14.9029
+          }
+        },
+        {
+          "nome": "Basilica Storica di Singapore (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Singapore. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 20.16,
+            "longitudine": 14.9177
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Singapore (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Singapore. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 20.1518,
+            "longitudine": 14.9164
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Singapore (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Singapore. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 20.1488,
+            "longitudine": 14.8826
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Singapore (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Singapore. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 20.1714,
+            "longitudine": 14.9175
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Singapore (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Singapore. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 20.1475,
+            "longitudine": 14.9171
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Singapore (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Singapore. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 20.1733,
+            "longitudine": 14.8913
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Singapore (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Singapore. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 20.1705,
+            "longitudine": 14.8903
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Singapore (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Singapore. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 20.1496,
+            "longitudine": 14.9014
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Singapore (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Singapore. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 20.1657,
+            "longitudine": 14.9112
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Singapore (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Singapore. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 20.1583,
+            "longitudine": 14.9086
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Singapore (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Singapore. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 20.1714,
+            "longitudine": 14.8828
+          }
+        },
+        {
+          "nome": "Ponte Storico di Singapore (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Singapore. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 20.1574,
+            "longitudine": 14.9137
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Singapore (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Singapore. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 20.1385,
+            "longitudine": 14.9027
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Singapore (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Singapore. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 20.1536,
+            "longitudine": 14.9148
+          }
+        },
+        {
+          "nome": "Castello Medievale di Singapore (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Singapore. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 20.178,
+            "longitudine": 14.9127
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Singapore (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Singapore. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 20.1431,
+            "longitudine": 14.8896
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Singapore (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Singapore. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 20.1621,
+            "longitudine": 14.8924
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Singapore (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Singapore. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 20.1503,
+            "longitudine": 14.8955
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Singapore (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Singapore. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 20.1485,
+            "longitudine": 14.896
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Singapore (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Singapore. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 20.1631,
+            "longitudine": 14.92
+          }
+        },
+        {
+          "nome": "Basilica Storica di Singapore (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Singapore. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 20.1723,
+            "longitudine": 14.8906
+          }
+        }
+      ]
+    }
+  ]
+}

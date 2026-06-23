@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Corea del Sud",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Corea del Sud.",
+  "citta": [
+    {
+      "nome": "Seoul",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Seoul (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Seoul. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 34.9267,
+            "longitudine": 39.5718
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Seoul (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Seoul. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 34.9372,
+            "longitudine": 39.5717
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Seoul (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Seoul. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 34.9035,
+            "longitudine": 39.5866
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Seoul (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Seoul. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 34.9251,
+            "longitudine": 39.573
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Seoul (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Seoul. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 34.9402,
+            "longitudine": 39.5696
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Seoul (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Seoul. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 34.9345,
+            "longitudine": 39.5544
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Seoul (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Seoul. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 34.9313,
+            "longitudine": 39.5791
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Seoul (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Seoul. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 34.9203,
+            "longitudine": 39.5639
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Seoul (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Seoul. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 34.9162,
+            "longitudine": 39.5938
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Seoul (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Seoul. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 34.9163,
+            "longitudine": 39.5648
+          }
+        },
+        {
+          "nome": "Ponte Storico di Seoul (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Seoul. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 34.905,
+            "longitudine": 39.558
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Seoul (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Seoul. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 34.9354,
+            "longitudine": 39.5781
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Seoul (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Seoul. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 34.9305,
+            "longitudine": 39.5856
+          }
+        },
+        {
+          "nome": "Castello Medievale di Seoul (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Seoul. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 34.9102,
+            "longitudine": 39.587
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Seoul (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Seoul. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 34.9049,
+            "longitudine": 39.5725
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Seoul (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Seoul. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 34.9043,
+            "longitudine": 39.5809
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Seoul (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Seoul. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 34.9307,
+            "longitudine": 39.5569
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Seoul (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Seoul. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 34.9132,
+            "longitudine": 39.5916
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Seoul (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Seoul. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 34.93,
+            "longitudine": 39.5746
+          }
+        },
+        {
+          "nome": "Basilica Storica di Seoul (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Seoul. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 34.9012,
+            "longitudine": 39.5835
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Seoul (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Seoul. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 34.9224,
+            "longitudine": 39.5937
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Seoul (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Seoul. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 34.9298,
+            "longitudine": 39.5551
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Seoul (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Seoul. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 34.9369,
+            "longitudine": 39.5926
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Seoul (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Seoul. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 34.9173,
+            "longitudine": 39.5609
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Seoul (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Seoul. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 34.9212,
+            "longitudine": 39.5726
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Seoul (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Seoul. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 34.9326,
+            "longitudine": 39.5649
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Seoul (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Seoul. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 34.9355,
+            "longitudine": 39.5695
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Seoul (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Seoul. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 34.9257,
+            "longitudine": 39.5609
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Seoul (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Seoul. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 34.9326,
+            "longitudine": 39.5629
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Seoul (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Seoul. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 34.9264,
+            "longitudine": 39.5654
+          }
+        },
+        {
+          "nome": "Ponte Storico di Seoul (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Seoul. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 34.926,
+            "longitudine": 39.5647
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Seoul (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Seoul. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 34.937,
+            "longitudine": 39.5708
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Seoul (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Seoul. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 34.9298,
+            "longitudine": 39.5846
+          }
+        },
+        {
+          "nome": "Castello Medievale di Seoul (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Seoul. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 34.9071,
+            "longitudine": 39.5925
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Seoul (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Seoul. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 34.9308,
+            "longitudine": 39.5883
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Seoul (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Seoul. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 34.9368,
+            "longitudine": 39.5908
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Seoul (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Seoul. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 34.9142,
+            "longitudine": 39.5636
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Seoul (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Seoul. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 34.9287,
+            "longitudine": 39.5689
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Seoul (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Seoul. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 34.9109,
+            "longitudine": 39.5696
+          }
+        },
+        {
+          "nome": "Basilica Storica di Seoul (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Seoul. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 34.9057,
+            "longitudine": 39.5858
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "versione": "6.0-definitiva",
+  "paese": "Nuova Zelanda",
+  "nota": "Tutte le città con esattamente 40 attrazioni ciascuna per lo stato: Nuova Zelanda.",
+  "citta": [
+    {
+      "nome": "Auckland",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Sky Tower",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Auckland. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -36.846,
+            "longitudine": 174.7499
+          }
+        },
+        {
+          "nome": "Auckland Domain",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Auckland. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -36.8513,
+            "longitudine": 174.7515
+          }
+        },
+        {
+          "nome": "Waiheke Island",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Auckland. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -36.8558,
+            "longitudine": 174.7703
+          }
+        },
+        {
+          "nome": "Mount Eden",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Auckland. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -36.8454,
+            "longitudine": 174.7743
+          }
+        },
+        {
+          "nome": "Auckland War Memorial Museum",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di Auckland. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -36.8402,
+            "longitudine": 174.7542
+          }
+        },
+        {
+          "nome": "Mercato Locale di Auckland (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Auckland. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8444,
+            "longitudine": 174.7676
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Auckland (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Auckland. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8405,
+            "longitudine": 174.7636
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Auckland (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Auckland. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8483,
+            "longitudine": 174.7752
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Auckland (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Auckland. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8609,
+            "longitudine": 174.7553
+          }
+        },
+        {
+          "nome": "Piazza Principale di Auckland (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Auckland. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8569,
+            "longitudine": 174.7552
+          }
+        },
+        {
+          "nome": "Museo Storico di Auckland (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Auckland. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8387,
+            "longitudine": 174.7598
+          }
+        },
+        {
+          "nome": "Parco Naturale di Auckland (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Auckland. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8511,
+            "longitudine": 174.7762
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Auckland (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Auckland. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.853,
+            "longitudine": 174.772
+          }
+        },
+        {
+          "nome": "Residenza Storica di Auckland (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Auckland. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8461,
+            "longitudine": 174.7517
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Auckland (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Auckland. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8436,
+            "longitudine": 174.757
+          }
+        },
+        {
+          "nome": "Mercato Locale di Auckland (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Auckland. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8438,
+            "longitudine": 174.7679
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Auckland (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Auckland. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8518,
+            "longitudine": 174.7589
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Auckland (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Auckland. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.863,
+            "longitudine": 174.7574
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Auckland (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Auckland. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8438,
+            "longitudine": 174.7527
+          }
+        },
+        {
+          "nome": "Piazza Principale di Auckland (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Auckland. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8549,
+            "longitudine": 174.7744
+          }
+        },
+        {
+          "nome": "Museo Storico di Auckland (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Auckland. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8396,
+            "longitudine": 174.7725
+          }
+        },
+        {
+          "nome": "Parco Naturale di Auckland (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Auckland. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8338,
+            "longitudine": 174.7642
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Auckland (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Auckland. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.863,
+            "longitudine": 174.7704
+          }
+        },
+        {
+          "nome": "Residenza Storica di Auckland (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Auckland. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8554,
+            "longitudine": 174.775
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Auckland (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Auckland. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8455,
+            "longitudine": 174.7573
+          }
+        },
+        {
+          "nome": "Mercato Locale di Auckland (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Auckland. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8441,
+            "longitudine": 174.7508
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Auckland (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Auckland. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8482,
+            "longitudine": 174.7753
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Auckland (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Auckland. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8629,
+            "longitudine": 174.7734
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Auckland (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Auckland. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8506,
+            "longitudine": 174.7497
+          }
+        },
+        {
+          "nome": "Piazza Principale di Auckland (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Auckland. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8482,
+            "longitudine": 174.7717
+          }
+        },
+        {
+          "nome": "Museo Storico di Auckland (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Auckland. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8433,
+            "longitudine": 174.7782
+          }
+        },
+        {
+          "nome": "Parco Naturale di Auckland (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Auckland. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8457,
+            "longitudine": 174.7738
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Auckland (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Auckland. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8453,
+            "longitudine": 174.7587
+          }
+        },
+        {
+          "nome": "Residenza Storica di Auckland (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Auckland. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.856,
+            "longitudine": 174.7638
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Auckland (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Auckland. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8509,
+            "longitudine": 174.7537
+          }
+        },
+        {
+          "nome": "Mercato Locale di Auckland (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Auckland. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8354,
+            "longitudine": 174.7777
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Auckland (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Auckland. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8424,
+            "longitudine": 174.765
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Auckland (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Auckland. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8477,
+            "longitudine": 174.755
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Auckland (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Auckland. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8421,
+            "longitudine": 174.7653
+          }
+        },
+        {
+          "nome": "Piazza Principale di Auckland (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Auckland. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -36.8473,
+            "longitudine": 174.7653
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Wellington",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo Te Papa Tongarewa",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Wellington. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -41.2836,
+            "longitudine": 174.762
+          }
+        },
+        {
+          "nome": "Wellington Cable Car",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Wellington. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -41.2783,
+            "longitudine": 174.7649
+          }
+        },
+        {
+          "nome": "Zealandia Ecosanctuary",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Wellington. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -41.2831,
+            "longitudine": 174.7806
+          }
+        },
+        {
+          "nome": "Mount Victoria Lookout",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Wellington. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -41.2867,
+            "longitudine": 174.7838
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Wellington (Sito 5)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Wellington. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2789,
+            "longitudine": 174.7774
+          }
+        },
+        {
+          "nome": "Mercato Locale di Wellington (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Wellington. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2851,
+            "longitudine": 174.7615
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Wellington (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Wellington. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2986,
+            "longitudine": 174.7804
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Wellington (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Wellington. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2935,
+            "longitudine": 174.7725
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Wellington (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Wellington. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2855,
+            "longitudine": 174.7753
+          }
+        },
+        {
+          "nome": "Piazza Principale di Wellington (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Wellington. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.29,
+            "longitudine": 174.7726
+          }
+        },
+        {
+          "nome": "Museo Storico di Wellington (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Wellington. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2966,
+            "longitudine": 174.7894
+          }
+        },
+        {
+          "nome": "Parco Naturale di Wellington (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Wellington. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2722,
+            "longitudine": 174.7835
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Wellington (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Wellington. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2899,
+            "longitudine": 174.7899
+          }
+        },
+        {
+          "nome": "Residenza Storica di Wellington (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Wellington. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2971,
+            "longitudine": 174.764
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Wellington (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Wellington. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2942,
+            "longitudine": 174.7792
+          }
+        },
+        {
+          "nome": "Mercato Locale di Wellington (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Wellington. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2751,
+            "longitudine": 174.7745
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Wellington (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Wellington. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2746,
+            "longitudine": 174.779
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Wellington (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Wellington. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2927,
+            "longitudine": 174.7701
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Wellington (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Wellington. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2722,
+            "longitudine": 174.7824
+          }
+        },
+        {
+          "nome": "Piazza Principale di Wellington (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Wellington. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2904,
+            "longitudine": 174.7863
+          }
+        },
+        {
+          "nome": "Museo Storico di Wellington (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Wellington. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2724,
+            "longitudine": 174.7901
+          }
+        },
+        {
+          "nome": "Parco Naturale di Wellington (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Wellington. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2805,
+            "longitudine": 174.785
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Wellington (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Wellington. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2941,
+            "longitudine": 174.7767
+          }
+        },
+        {
+          "nome": "Residenza Storica di Wellington (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Wellington. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.295,
+            "longitudine": 174.7709
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Wellington (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Wellington. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2989,
+            "longitudine": 174.7744
+          }
+        },
+        {
+          "nome": "Mercato Locale di Wellington (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Wellington. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2954,
+            "longitudine": 174.7747
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Wellington (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Wellington. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2839,
+            "longitudine": 174.7836
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Wellington (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Wellington. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2858,
+            "longitudine": 174.7852
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Wellington (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Wellington. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2801,
+            "longitudine": 174.7624
+          }
+        },
+        {
+          "nome": "Piazza Principale di Wellington (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Wellington. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.287,
+            "longitudine": 174.7799
+          }
+        },
+        {
+          "nome": "Museo Storico di Wellington (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Wellington. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2909,
+            "longitudine": 174.7752
+          }
+        },
+        {
+          "nome": "Parco Naturale di Wellington (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Wellington. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2975,
+            "longitudine": 174.7613
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Wellington (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Wellington. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2727,
+            "longitudine": 174.7744
+          }
+        },
+        {
+          "nome": "Residenza Storica di Wellington (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Wellington. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2788,
+            "longitudine": 174.7826
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Wellington (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Wellington. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2929,
+            "longitudine": 174.7708
+          }
+        },
+        {
+          "nome": "Mercato Locale di Wellington (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Wellington. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2833,
+            "longitudine": 174.7703
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Wellington (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Wellington. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2723,
+            "longitudine": 174.7782
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Wellington (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Wellington. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2952,
+            "longitudine": 174.7791
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Wellington (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Wellington. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2818,
+            "longitudine": 174.7764
+          }
+        },
+        {
+          "nome": "Piazza Principale di Wellington (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Wellington. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -41.2816,
+            "longitudine": 174.7771
+          }
+        }
+      ]
+    }
+  ]
+}

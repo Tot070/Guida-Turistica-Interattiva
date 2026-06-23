@@ -1,0 +1,2289 @@
+{
+  "versione": "5.0-paese",
+  "paese": "USA",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: USA.",
+  "citta": [
+    {
+      "nome": "New York",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di New York (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di New York. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 29.0123,
+            "longitudine": 3.5445
+          }
+        },
+        {
+          "nome": "Parco Cittadino di New York (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di New York. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 29.0232,
+            "longitudine": 3.5538
+          }
+        },
+        {
+          "nome": "Quartiere Storico di New York (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di New York. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 29.0372,
+            "longitudine": 3.5467
+          }
+        },
+        {
+          "nome": "Palazzo Reale di New York (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di New York. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 29.0109,
+            "longitudine": 3.5579
+          }
+        },
+        {
+          "nome": "Punto Panoramico di New York (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di New York. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 29.035,
+            "longitudine": 3.5657
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di New York (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di New York. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 29.0308,
+            "longitudine": 3.5555
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di New York (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di New York. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 29.0144,
+            "longitudine": 3.5455
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di New York (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di New York. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 29.0435,
+            "longitudine": 3.5566
+          }
+        },
+        {
+          "nome": "Giardino Botanico di New York (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di New York. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 29.0326,
+            "longitudine": 3.5605
+          }
+        },
+        {
+          "nome": "Piazza Centrale di New York (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di New York. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 29.0299,
+            "longitudine": 3.5462
+          }
+        },
+        {
+          "nome": "Ponte Storico di New York (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di New York. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 29.0453,
+            "longitudine": 3.564
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di New York (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di New York. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 29.0102,
+            "longitudine": 3.5413
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di New York (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di New York. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 29.0112,
+            "longitudine": 3.5434
+          }
+        },
+        {
+          "nome": "Castello Medievale di New York (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di New York. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 29.0443,
+            "longitudine": 3.5322
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di New York (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di New York. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 29.0441,
+            "longitudine": 3.5519
+          }
+        },
+        {
+          "nome": "Sito Archeologico di New York (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di New York. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 29.0185,
+            "longitudine": 3.5673
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di New York (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di New York. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 29.0105,
+            "longitudine": 3.5412
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di New York (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di New York. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 29.0315,
+            "longitudine": 3.5333
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di New York (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di New York. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 29.0378,
+            "longitudine": 3.5462
+          }
+        },
+        {
+          "nome": "Basilica Storica di New York (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di New York. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 29.0223,
+            "longitudine": 3.5477
+          }
+        },
+        {
+          "nome": "Museo d'Arte di New York (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di New York. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 29.0088,
+            "longitudine": 3.5508
+          }
+        },
+        {
+          "nome": "Parco Cittadino di New York (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di New York. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 29.0405,
+            "longitudine": 3.5414
+          }
+        },
+        {
+          "nome": "Quartiere Storico di New York (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di New York. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 29.0241,
+            "longitudine": 3.5335
+          }
+        },
+        {
+          "nome": "Palazzo Reale di New York (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di New York. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 29.032,
+            "longitudine": 3.5399
+          }
+        },
+        {
+          "nome": "Punto Panoramico di New York (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di New York. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 29.0465,
+            "longitudine": 3.5297
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di New York (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di New York. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 29.0323,
+            "longitudine": 3.5368
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di New York (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di New York. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 29.0418,
+            "longitudine": 3.5417
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di New York (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di New York. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 29.0107,
+            "longitudine": 3.5479
+          }
+        },
+        {
+          "nome": "Giardino Botanico di New York (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di New York. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 29.0293,
+            "longitudine": 3.5539
+          }
+        },
+        {
+          "nome": "Piazza Centrale di New York (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di New York. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 29.0165,
+            "longitudine": 3.5578
+          }
+        },
+        {
+          "nome": "Ponte Storico di New York (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di New York. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 29.0162,
+            "longitudine": 3.538
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di New York (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di New York. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 29.0349,
+            "longitudine": 3.563
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di New York (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di New York. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 29.0246,
+            "longitudine": 3.5318
+          }
+        },
+        {
+          "nome": "Castello Medievale di New York (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di New York. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 29.0436,
+            "longitudine": 3.5386
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di New York (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di New York. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 29.0463,
+            "longitudine": 3.5618
+          }
+        },
+        {
+          "nome": "Sito Archeologico di New York (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di New York. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 29.042,
+            "longitudine": 3.5479
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di New York (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di New York. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 29.0145,
+            "longitudine": 3.5637
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di New York (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di New York. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 29.011,
+            "longitudine": 3.533
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di New York (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di New York. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 29.0334,
+            "longitudine": 3.5537
+          }
+        },
+        {
+          "nome": "Basilica Storica di New York (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di New York. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 29.0221,
+            "longitudine": 3.543
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Washington",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Washington (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Washington. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 47.2397,
+            "longitudine": 10.4259
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Washington (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Washington. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 47.2271,
+            "longitudine": 10.4087
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Washington (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Washington. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 47.2229,
+            "longitudine": 10.3938
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Washington (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Washington. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 47.2235,
+            "longitudine": 10.3987
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Washington (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Washington. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 47.2385,
+            "longitudine": 10.4057
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Washington (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Washington. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 47.2289,
+            "longitudine": 10.3954
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Washington (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Washington. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 47.2235,
+            "longitudine": 10.3905
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Washington (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Washington. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 47.2051,
+            "longitudine": 10.4239
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Washington (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Washington. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 47.2401,
+            "longitudine": 10.391
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Washington (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Washington. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 47.2376,
+            "longitudine": 10.4125
+          }
+        },
+        {
+          "nome": "Ponte Storico di Washington (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Washington. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 47.2099,
+            "longitudine": 10.398
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Washington (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Washington. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 47.2398,
+            "longitudine": 10.4152
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Washington (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Washington. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 47.2259,
+            "longitudine": 10.3927
+          }
+        },
+        {
+          "nome": "Castello Medievale di Washington (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Washington. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 47.2024,
+            "longitudine": 10.3962
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Washington (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Washington. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 47.2152,
+            "longitudine": 10.4091
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Washington (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Washington. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 47.2215,
+            "longitudine": 10.4013
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Washington (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Washington. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 47.2287,
+            "longitudine": 10.4264
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Washington (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Washington. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 47.2232,
+            "longitudine": 10.4115
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Washington (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Washington. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 47.2048,
+            "longitudine": 10.4186
+          }
+        },
+        {
+          "nome": "Basilica Storica di Washington (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Washington. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 47.2031,
+            "longitudine": 10.3924
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Washington (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Washington. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 47.2395,
+            "longitudine": 10.3917
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Washington (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Washington. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 47.24,
+            "longitudine": 10.4246
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Washington (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Washington. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 47.227,
+            "longitudine": 10.3952
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Washington (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Washington. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 47.215,
+            "longitudine": 10.4023
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Washington (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Washington. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 47.2344,
+            "longitudine": 10.4119
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Washington (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Washington. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 47.2168,
+            "longitudine": 10.3969
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Washington (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Washington. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 47.2252,
+            "longitudine": 10.4178
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Washington (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Washington. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 47.2392,
+            "longitudine": 10.4233
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Washington (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Washington. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 47.2363,
+            "longitudine": 10.419
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Washington (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Washington. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 47.2048,
+            "longitudine": 10.4247
+          }
+        },
+        {
+          "nome": "Ponte Storico di Washington (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Washington. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 47.2336,
+            "longitudine": 10.3973
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Washington (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Washington. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 47.2229,
+            "longitudine": 10.4085
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Washington (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Washington. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 47.2386,
+            "longitudine": 10.4246
+          }
+        },
+        {
+          "nome": "Castello Medievale di Washington (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Washington. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 47.2214,
+            "longitudine": 10.4002
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Washington (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Washington. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 47.2342,
+            "longitudine": 10.4145
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Washington (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Washington. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 47.2076,
+            "longitudine": 10.3948
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Washington (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Washington. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 47.2067,
+            "longitudine": 10.4219
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Washington (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Washington. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 47.2373,
+            "longitudine": 10.4253
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Washington (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Washington. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 47.2256,
+            "longitudine": 10.4021
+          }
+        },
+        {
+          "nome": "Basilica Storica di Washington (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Washington. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 47.2133,
+            "longitudine": 10.4113
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Los Angeles",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Los Angeles (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Los Angeles. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 36.3457,
+            "longitudine": 37.5656
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Los Angeles (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Los Angeles. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 36.3545,
+            "longitudine": 37.5733
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Los Angeles (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Los Angeles. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 36.3618,
+            "longitudine": 37.5713
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Los Angeles (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Los Angeles. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 36.361,
+            "longitudine": 37.5602
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Los Angeles (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Los Angeles. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 36.3656,
+            "longitudine": 37.5513
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Los Angeles (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Los Angeles. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 36.3708,
+            "longitudine": 37.5587
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Los Angeles (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Los Angeles. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 36.3575,
+            "longitudine": 37.5545
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Los Angeles (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Los Angeles. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 36.3612,
+            "longitudine": 37.5558
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Los Angeles (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Los Angeles. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 36.347,
+            "longitudine": 37.5743
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Los Angeles (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Los Angeles. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 36.3695,
+            "longitudine": 37.5599
+          }
+        },
+        {
+          "nome": "Ponte Storico di Los Angeles (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Los Angeles. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 36.359,
+            "longitudine": 37.5635
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Los Angeles (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Los Angeles. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 36.3556,
+            "longitudine": 37.5711
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Los Angeles (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Los Angeles. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 36.3722,
+            "longitudine": 37.5499
+          }
+        },
+        {
+          "nome": "Castello Medievale di Los Angeles (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Los Angeles. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 36.3743,
+            "longitudine": 37.5559
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Los Angeles (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Los Angeles. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 36.3723,
+            "longitudine": 37.5407
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Los Angeles (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Los Angeles. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 36.3771,
+            "longitudine": 37.5454
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Los Angeles (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Los Angeles. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 36.3747,
+            "longitudine": 37.5608
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Los Angeles (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Los Angeles. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 36.3536,
+            "longitudine": 37.5479
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Los Angeles (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Los Angeles. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 36.3421,
+            "longitudine": 37.5392
+          }
+        },
+        {
+          "nome": "Basilica Storica di Los Angeles (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Los Angeles. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 36.373,
+            "longitudine": 37.5566
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Los Angeles (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Los Angeles. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 36.3771,
+            "longitudine": 37.5728
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Los Angeles (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Los Angeles. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 36.3548,
+            "longitudine": 37.5487
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Los Angeles (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Los Angeles. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 36.3489,
+            "longitudine": 37.5645
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Los Angeles (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Los Angeles. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 36.3719,
+            "longitudine": 37.537
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Los Angeles (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Los Angeles. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 36.3451,
+            "longitudine": 37.559
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Los Angeles (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Los Angeles. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 36.3513,
+            "longitudine": 37.5663
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Los Angeles (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Los Angeles. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 36.3742,
+            "longitudine": 37.5496
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Los Angeles (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Los Angeles. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 36.3606,
+            "longitudine": 37.5551
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Los Angeles (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Los Angeles. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 36.3683,
+            "longitudine": 37.5589
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Los Angeles (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Los Angeles. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 36.3638,
+            "longitudine": 37.5547
+          }
+        },
+        {
+          "nome": "Ponte Storico di Los Angeles (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Los Angeles. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 36.3728,
+            "longitudine": 37.5375
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Los Angeles (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Los Angeles. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 36.3657,
+            "longitudine": 37.5407
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Los Angeles (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Los Angeles. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 36.354,
+            "longitudine": 37.5429
+          }
+        },
+        {
+          "nome": "Castello Medievale di Los Angeles (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Los Angeles. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 36.3662,
+            "longitudine": 37.5615
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Los Angeles (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Los Angeles. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 36.3617,
+            "longitudine": 37.5394
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Los Angeles (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Los Angeles. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 36.3555,
+            "longitudine": 37.5443
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Los Angeles (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Los Angeles. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 36.3411,
+            "longitudine": 37.5406
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Los Angeles (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Los Angeles. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 36.379,
+            "longitudine": 37.5605
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Los Angeles (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Los Angeles. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 36.3658,
+            "longitudine": 37.5378
+          }
+        },
+        {
+          "nome": "Basilica Storica di Los Angeles (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Los Angeles. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 36.3493,
+            "longitudine": 37.5503
+          }
+        }
+      ]
+    },
+    {
+      "nome": "San Francisco",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di San Francisco (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di San Francisco. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 38.0649,
+            "longitudine": 16.6591
+          }
+        },
+        {
+          "nome": "Parco Cittadino di San Francisco (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di San Francisco. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 38.0783,
+            "longitudine": 16.6879
+          }
+        },
+        {
+          "nome": "Quartiere Storico di San Francisco (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di San Francisco. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 38.0598,
+            "longitudine": 16.667
+          }
+        },
+        {
+          "nome": "Palazzo Reale di San Francisco (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di San Francisco. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 38.0889,
+            "longitudine": 16.6874
+          }
+        },
+        {
+          "nome": "Punto Panoramico di San Francisco (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di San Francisco. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 38.0554,
+            "longitudine": 16.6654
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di San Francisco (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di San Francisco. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 38.062,
+            "longitudine": 16.6648
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di San Francisco (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di San Francisco. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 38.0614,
+            "longitudine": 16.6631
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di San Francisco (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di San Francisco. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 38.0555,
+            "longitudine": 16.6615
+          }
+        },
+        {
+          "nome": "Giardino Botanico di San Francisco (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di San Francisco. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 38.0651,
+            "longitudine": 16.688
+          }
+        },
+        {
+          "nome": "Piazza Centrale di San Francisco (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di San Francisco. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 38.0765,
+            "longitudine": 16.6674
+          }
+        },
+        {
+          "nome": "Ponte Storico di San Francisco (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di San Francisco. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 38.0595,
+            "longitudine": 16.6891
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di San Francisco (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di San Francisco. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 38.0741,
+            "longitudine": 16.6647
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di San Francisco (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di San Francisco. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 38.0901,
+            "longitudine": 16.6591
+          }
+        },
+        {
+          "nome": "Castello Medievale di San Francisco (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di San Francisco. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 38.0616,
+            "longitudine": 16.6721
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di San Francisco (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di San Francisco. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 38.0596,
+            "longitudine": 16.687
+          }
+        },
+        {
+          "nome": "Sito Archeologico di San Francisco (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di San Francisco. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 38.0871,
+            "longitudine": 16.6571
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di San Francisco (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di San Francisco. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 38.0823,
+            "longitudine": 16.6864
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di San Francisco (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di San Francisco. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 38.0548,
+            "longitudine": 16.662
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di San Francisco (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di San Francisco. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 38.087,
+            "longitudine": 16.6949
+          }
+        },
+        {
+          "nome": "Basilica Storica di San Francisco (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di San Francisco. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 38.0681,
+            "longitudine": 16.6925
+          }
+        },
+        {
+          "nome": "Museo d'Arte di San Francisco (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di San Francisco. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 38.0648,
+            "longitudine": 16.6785
+          }
+        },
+        {
+          "nome": "Parco Cittadino di San Francisco (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di San Francisco. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 38.0536,
+            "longitudine": 16.6835
+          }
+        },
+        {
+          "nome": "Quartiere Storico di San Francisco (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di San Francisco. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 38.0555,
+            "longitudine": 16.6855
+          }
+        },
+        {
+          "nome": "Palazzo Reale di San Francisco (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di San Francisco. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 38.068,
+            "longitudine": 16.6615
+          }
+        },
+        {
+          "nome": "Punto Panoramico di San Francisco (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di San Francisco. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 38.0711,
+            "longitudine": 16.6701
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di San Francisco (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di San Francisco. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 38.0663,
+            "longitudine": 16.6788
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di San Francisco (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di San Francisco. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 38.0645,
+            "longitudine": 16.6807
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di San Francisco (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di San Francisco. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 38.0651,
+            "longitudine": 16.6673
+          }
+        },
+        {
+          "nome": "Giardino Botanico di San Francisco (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di San Francisco. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 38.0753,
+            "longitudine": 16.6845
+          }
+        },
+        {
+          "nome": "Piazza Centrale di San Francisco (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di San Francisco. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 38.0908,
+            "longitudine": 16.6597
+          }
+        },
+        {
+          "nome": "Ponte Storico di San Francisco (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di San Francisco. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 38.0651,
+            "longitudine": 16.6881
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di San Francisco (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di San Francisco. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 38.0727,
+            "longitudine": 16.6757
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di San Francisco (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di San Francisco. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 38.0571,
+            "longitudine": 16.662
+          }
+        },
+        {
+          "nome": "Castello Medievale di San Francisco (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di San Francisco. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 38.0643,
+            "longitudine": 16.6858
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di San Francisco (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di San Francisco. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 38.0727,
+            "longitudine": 16.6585
+          }
+        },
+        {
+          "nome": "Sito Archeologico di San Francisco (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di San Francisco. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 38.0686,
+            "longitudine": 16.6887
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di San Francisco (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di San Francisco. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 38.0858,
+            "longitudine": 16.69
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di San Francisco (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di San Francisco. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 38.0732,
+            "longitudine": 16.6754
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di San Francisco (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di San Francisco. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 38.0603,
+            "longitudine": 16.6668
+          }
+        },
+        {
+          "nome": "Basilica Storica di San Francisco (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di San Francisco. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 38.0681,
+            "longitudine": 16.6788
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Las Vegas",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Las Vegas (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Las Vegas. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 47.594,
+            "longitudine": 34.9899
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Las Vegas (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Las Vegas. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 47.5954,
+            "longitudine": 34.972
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Las Vegas (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Las Vegas. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 47.6326,
+            "longitudine": 34.9734
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Las Vegas (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Las Vegas. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 47.63,
+            "longitudine": 34.9777
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Las Vegas (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Las Vegas. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 47.6163,
+            "longitudine": 34.9858
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Las Vegas (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Las Vegas. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 47.6215,
+            "longitudine": 35.0036
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Las Vegas (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Las Vegas. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 47.6268,
+            "longitudine": 34.9697
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Las Vegas (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Las Vegas. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 47.6037,
+            "longitudine": 34.9772
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Las Vegas (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Las Vegas. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 47.6115,
+            "longitudine": 34.9859
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Las Vegas (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Las Vegas. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 47.6076,
+            "longitudine": 34.9958
+          }
+        },
+        {
+          "nome": "Ponte Storico di Las Vegas (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Las Vegas. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 47.6065,
+            "longitudine": 34.9781
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Las Vegas (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Las Vegas. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 47.6203,
+            "longitudine": 34.9798
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Las Vegas (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Las Vegas. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 47.5969,
+            "longitudine": 34.9662
+          }
+        },
+        {
+          "nome": "Castello Medievale di Las Vegas (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Las Vegas. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 47.6116,
+            "longitudine": 34.9711
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Las Vegas (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Las Vegas. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 47.6288,
+            "longitudine": 34.9818
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Las Vegas (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Las Vegas. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 47.6248,
+            "longitudine": 34.9665
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Las Vegas (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Las Vegas. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 47.6015,
+            "longitudine": 34.9921
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Las Vegas (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Las Vegas. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 47.6255,
+            "longitudine": 34.9838
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Las Vegas (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Las Vegas. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 47.6256,
+            "longitudine": 34.9968
+          }
+        },
+        {
+          "nome": "Basilica Storica di Las Vegas (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Las Vegas. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 47.6253,
+            "longitudine": 34.9763
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Las Vegas (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Las Vegas. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 47.6259,
+            "longitudine": 34.9675
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Las Vegas (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Las Vegas. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 47.6059,
+            "longitudine": 34.9942
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Las Vegas (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Las Vegas. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 47.6118,
+            "longitudine": 35.0012
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Las Vegas (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Las Vegas. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 47.5952,
+            "longitudine": 34.972
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Las Vegas (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Las Vegas. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 47.5957,
+            "longitudine": 34.9809
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Las Vegas (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Las Vegas. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 47.6234,
+            "longitudine": 35.0041
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Las Vegas (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Las Vegas. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 47.5962,
+            "longitudine": 34.9713
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Las Vegas (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Las Vegas. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 47.6116,
+            "longitudine": 34.9757
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Las Vegas (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Las Vegas. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 47.6182,
+            "longitudine": 34.9743
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Las Vegas (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Las Vegas. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 47.5965,
+            "longitudine": 34.9793
+          }
+        },
+        {
+          "nome": "Ponte Storico di Las Vegas (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Las Vegas. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 47.6003,
+            "longitudine": 34.9778
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Las Vegas (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Las Vegas. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 47.612,
+            "longitudine": 34.9684
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Las Vegas (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Las Vegas. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 47.6262,
+            "longitudine": 34.9809
+          }
+        },
+        {
+          "nome": "Castello Medievale di Las Vegas (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Las Vegas. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 47.616,
+            "longitudine": 34.978
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Las Vegas (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Las Vegas. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 47.6084,
+            "longitudine": 34.9805
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Las Vegas (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Las Vegas. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 47.6116,
+            "longitudine": 34.9728
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Las Vegas (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Las Vegas. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 47.6335,
+            "longitudine": 34.9871
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Las Vegas (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Las Vegas. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 47.607,
+            "longitudine": 35.0021
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Las Vegas (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Las Vegas. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 47.6233,
+            "longitudine": 34.9995
+          }
+        },
+        {
+          "nome": "Basilica Storica di Las Vegas (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Las Vegas. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 47.5971,
+            "longitudine": 34.9954
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Chicago",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Chicago (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Chicago. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 42.9655,
+            "longitudine": 19.8315
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Chicago (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Chicago. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 42.9601,
+            "longitudine": 19.8306
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Chicago (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Chicago. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 42.9663,
+            "longitudine": 19.8105
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Chicago (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Chicago. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 42.941,
+            "longitudine": 19.8376
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Chicago (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Chicago. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 42.9286,
+            "longitudine": 19.8142
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Chicago (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Chicago. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 42.9585,
+            "longitudine": 19.8049
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Chicago (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Chicago. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 42.945,
+            "longitudine": 19.8123
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Chicago (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Chicago. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 42.9599,
+            "longitudine": 19.8078
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Chicago (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Chicago. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 42.9379,
+            "longitudine": 19.8032
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Chicago (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Chicago. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 42.9545,
+            "longitudine": 19.8172
+          }
+        },
+        {
+          "nome": "Ponte Storico di Chicago (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Chicago. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 42.9637,
+            "longitudine": 19.8086
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Chicago (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Chicago. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 42.9654,
+            "longitudine": 19.8215
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Chicago (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Chicago. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 42.9367,
+            "longitudine": 19.8071
+          }
+        },
+        {
+          "nome": "Castello Medievale di Chicago (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Chicago. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 42.9544,
+            "longitudine": 19.8015
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Chicago (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Chicago. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 42.9402,
+            "longitudine": 19.8069
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Chicago (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Chicago. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 42.9401,
+            "longitudine": 19.8346
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Chicago (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Chicago. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 42.9484,
+            "longitudine": 19.8392
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Chicago (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Chicago. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 42.951,
+            "longitudine": 19.8231
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Chicago (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Chicago. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 42.9545,
+            "longitudine": 19.8234
+          }
+        },
+        {
+          "nome": "Basilica Storica di Chicago (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Chicago. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 42.9365,
+            "longitudine": 19.8267
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Chicago (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Chicago. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 42.9322,
+            "longitudine": 19.8288
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Chicago (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Chicago. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 42.9511,
+            "longitudine": 19.8207
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Chicago (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Chicago. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 42.9605,
+            "longitudine": 19.8166
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Chicago (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Chicago. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 42.9524,
+            "longitudine": 19.8049
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Chicago (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Chicago. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 42.9589,
+            "longitudine": 19.82
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Chicago (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Chicago. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 42.9289,
+            "longitudine": 19.8356
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Chicago (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Chicago. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 42.9311,
+            "longitudine": 19.8148
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Chicago (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Chicago. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 42.9442,
+            "longitudine": 19.8013
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Chicago (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Chicago. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 42.9473,
+            "longitudine": 19.8044
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Chicago (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Chicago. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 42.9381,
+            "longitudine": 19.7996
+          }
+        },
+        {
+          "nome": "Ponte Storico di Chicago (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Chicago. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 42.9417,
+            "longitudine": 19.817
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Chicago (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Chicago. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 42.9464,
+            "longitudine": 19.8061
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Chicago (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Chicago. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 42.9388,
+            "longitudine": 19.8242
+          }
+        },
+        {
+          "nome": "Castello Medievale di Chicago (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Chicago. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 42.9439,
+            "longitudine": 19.8084
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Chicago (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Chicago. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 42.9491,
+            "longitudine": 19.8204
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Chicago (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Chicago. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 42.956,
+            "longitudine": 19.8364
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Chicago (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Chicago. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 42.9664,
+            "longitudine": 19.8066
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Chicago (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Chicago. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 42.9316,
+            "longitudine": 19.8143
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Chicago (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Chicago. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 42.9412,
+            "longitudine": 19.8327
+          }
+        },
+        {
+          "nome": "Basilica Storica di Chicago (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Chicago. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 42.9653,
+            "longitudine": 19.8355
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Miami",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Miami (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Miami. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 38.0407,
+            "longitudine": 1.6931
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Miami (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Miami. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 38.0244,
+            "longitudine": 1.6777
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Miami (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Miami. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 38.0315,
+            "longitudine": 1.6767
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Miami (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Miami. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 38.0127,
+            "longitudine": 1.681
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Miami (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Miami. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 38.0388,
+            "longitudine": 1.6679
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Miami (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Miami. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 38.0057,
+            "longitudine": 1.6692
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Miami (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Miami. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 38.0424,
+            "longitudine": 1.6985
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Miami (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Miami. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 38.0161,
+            "longitudine": 1.6756
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Miami (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Miami. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 38.0334,
+            "longitudine": 1.6835
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Miami (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Miami. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 38.036,
+            "longitudine": 1.6979
+          }
+        },
+        {
+          "nome": "Ponte Storico di Miami (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Miami. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 38.0148,
+            "longitudine": 1.6942
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Miami (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Miami. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 38.0432,
+            "longitudine": 1.683
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Miami (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Miami. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 38.0404,
+            "longitudine": 1.6716
+          }
+        },
+        {
+          "nome": "Castello Medievale di Miami (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Miami. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 38.0425,
+            "longitudine": 1.6687
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Miami (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Miami. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 38.0331,
+            "longitudine": 1.6972
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Miami (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Miami. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 38.0264,
+            "longitudine": 1.6634
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Miami (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Miami. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 38.0134,
+            "longitudine": 1.6905
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Miami (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Miami. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 38.0382,
+            "longitudine": 1.6652
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Miami (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Miami. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 38.0183,
+            "longitudine": 1.6881
+          }
+        },
+        {
+          "nome": "Basilica Storica di Miami (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Miami. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 38.0438,
+            "longitudine": 1.6907
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Miami (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Miami. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 38.0096,
+            "longitudine": 1.6752
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Miami (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Miami. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 38.0329,
+            "longitudine": 1.6832
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Miami (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Miami. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 38.0356,
+            "longitudine": 1.6785
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Miami (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Miami. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 38.0381,
+            "longitudine": 1.6761
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Miami (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Miami. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 38.0138,
+            "longitudine": 1.6846
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Miami (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Miami. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 38.0081,
+            "longitudine": 1.6969
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Miami (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Miami. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 38.031,
+            "longitudine": 1.6638
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Miami (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Miami. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 38.0176,
+            "longitudine": 1.665
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Miami (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Miami. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 38.0267,
+            "longitudine": 1.6683
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Miami (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Miami. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 38.0109,
+            "longitudine": 1.6687
+          }
+        },
+        {
+          "nome": "Ponte Storico di Miami (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Miami. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 38.033,
+            "longitudine": 1.6755
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Miami (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Miami. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 38.0333,
+            "longitudine": 1.6902
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Miami (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Miami. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 38.0132,
+            "longitudine": 1.6675
+          }
+        },
+        {
+          "nome": "Castello Medievale di Miami (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Miami. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 38.0128,
+            "longitudine": 1.6734
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Miami (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Miami. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 38.0347,
+            "longitudine": 1.6718
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Miami (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Miami. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 38.0417,
+            "longitudine": 1.6697
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Miami (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Miami. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 38.0336,
+            "longitudine": 1.6994
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Miami (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Miami. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 38.0352,
+            "longitudine": 1.6971
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Miami (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Miami. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 38.0409,
+            "longitudine": 1.6994
+          }
+        },
+        {
+          "nome": "Basilica Storica di Miami (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Miami. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 38.0207,
+            "longitudine": 1.6948
+          }
+        }
+      ]
+    }
+  ]
+}

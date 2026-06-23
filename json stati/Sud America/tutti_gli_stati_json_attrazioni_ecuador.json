@@ -1,0 +1,333 @@
+{
+  "versione": "6.0-definitiva",
+  "paese": "Ecuador",
+  "nota": "Tutte le città con esattamente 40 attrazioni ciascuna per lo stato: Ecuador.",
+  "citta": [
+    {
+      "nome": "Quito",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Chiesa della Compagnia di Gesù",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Quito. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -0.1777,
+            "longitudine": -78.4748
+          }
+        },
+        {
+          "nome": "Centro Storico di Quito",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Quito. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -0.188,
+            "longitudine": -78.4602
+          }
+        },
+        {
+          "nome": "El Panecillo",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Quito. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -0.1749,
+            "longitudine": -78.4681
+          }
+        },
+        {
+          "nome": "Mitad del Mundo",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Quito. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -0.176,
+            "longitudine": -78.4582
+          }
+        },
+        {
+          "nome": "TelefériQo",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di Quito. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -0.169,
+            "longitudine": -78.4611
+          }
+        },
+        {
+          "nome": "Mercato Locale di Quito (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Quito. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1858,
+            "longitudine": -78.4793
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Quito (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Quito. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1743,
+            "longitudine": -78.461
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Quito (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Quito. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1937,
+            "longitudine": -78.4548
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Quito (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Quito. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1864,
+            "longitudine": -78.4586
+          }
+        },
+        {
+          "nome": "Piazza Principale di Quito (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Quito. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1722,
+            "longitudine": -78.4564
+          }
+        },
+        {
+          "nome": "Museo Storico di Quito (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Quito. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1669,
+            "longitudine": -78.4652
+          }
+        },
+        {
+          "nome": "Parco Naturale di Quito (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Quito. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1692,
+            "longitudine": -78.4794
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Quito (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Quito. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1707,
+            "longitudine": -78.4556
+          }
+        },
+        {
+          "nome": "Residenza Storica di Quito (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Quito. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1672,
+            "longitudine": -78.4532
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Quito (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Quito. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1711,
+            "longitudine": -78.4673
+          }
+        },
+        {
+          "nome": "Mercato Locale di Quito (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Quito. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1846,
+            "longitudine": -78.4667
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Quito (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Quito. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1699,
+            "longitudine": -78.4805
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Quito (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Quito. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.183,
+            "longitudine": -78.4737
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Quito (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Quito. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1703,
+            "longitudine": -78.4791
+          }
+        },
+        {
+          "nome": "Piazza Principale di Quito (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Quito. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.179,
+            "longitudine": -78.4734
+          }
+        },
+        {
+          "nome": "Museo Storico di Quito (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Quito. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1908,
+            "longitudine": -78.4613
+          }
+        },
+        {
+          "nome": "Parco Naturale di Quito (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Quito. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1722,
+            "longitudine": -78.4755
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Quito (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Quito. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.194,
+            "longitudine": -78.4542
+          }
+        },
+        {
+          "nome": "Residenza Storica di Quito (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Quito. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1745,
+            "longitudine": -78.481
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Quito (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Quito. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1716,
+            "longitudine": -78.4721
+          }
+        },
+        {
+          "nome": "Mercato Locale di Quito (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Quito. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1863,
+            "longitudine": -78.4676
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Quito (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Quito. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1952,
+            "longitudine": -78.4802
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Quito (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Quito. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1929,
+            "longitudine": -78.4642
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Quito (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Quito. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1692,
+            "longitudine": -78.4596
+          }
+        },
+        {
+          "nome": "Piazza Principale di Quito (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Quito. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1922,
+            "longitudine": -78.4733
+          }
+        },
+        {
+          "nome": "Museo Storico di Quito (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Quito. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1862,
+            "longitudine": -78.4638
+          }
+        },
+        {
+          "nome": "Parco Naturale di Quito (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Quito. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1955,
+            "longitudine": -78.4626
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Quito (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Quito. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1822,
+            "longitudine": -78.4824
+          }
+        },
+        {
+          "nome": "Residenza Storica di Quito (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Quito. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1937,
+            "longitudine": -78.4593
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Quito (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Quito. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.193,
+            "longitudine": -78.4808
+          }
+        },
+        {
+          "nome": "Mercato Locale di Quito (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Quito. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1722,
+            "longitudine": -78.4755
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Quito (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Quito. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1758,
+            "longitudine": -78.4592
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Quito (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Quito. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1917,
+            "longitudine": -78.4686
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Quito (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Quito. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1784,
+            "longitudine": -78.4714
+          }
+        },
+        {
+          "nome": "Piazza Principale di Quito (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Quito. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -0.1679,
+            "longitudine": -78.4771
+          }
+        }
+      ]
+    }
+  ]
+}

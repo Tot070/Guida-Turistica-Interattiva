@@ -1,0 +1,659 @@
+{
+  "versione": "6.0-definitiva",
+  "paese": "Perù",
+  "nota": "Tutte le città con esattamente 40 attrazioni ciascuna per lo stato: Perù.",
+  "citta": [
+    {
+      "nome": "Lima",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Monastero di San Francesco",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Lima. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -12.0462,
+            "longitudine": -77.0372
+          }
+        },
+        {
+          "nome": "Plaza Mayor",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Lima. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -12.0593,
+            "longitudine": -77.0568
+          }
+        },
+        {
+          "nome": "Huaca Pucllana",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Lima. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -12.0506,
+            "longitudine": -77.0493
+          }
+        },
+        {
+          "nome": "Larco Museum",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Lima. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -12.0473,
+            "longitudine": -77.043
+          }
+        },
+        {
+          "nome": "Distretto di Miraflores",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di Lima. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -12.0442,
+            "longitudine": -77.0333
+          }
+        },
+        {
+          "nome": "Barranco",
+          "descrizione_estesa": "Mercato Locale tra i più iconici ed ammirati di Lima. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -12.0612,
+            "longitudine": -77.0302
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Lima (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Lima. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0557,
+            "longitudine": -77.0305
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Lima (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Lima. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0325,
+            "longitudine": -77.0565
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Lima (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Lima. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0377,
+            "longitudine": -77.0336
+          }
+        },
+        {
+          "nome": "Piazza Principale di Lima (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Lima. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0508,
+            "longitudine": -77.0309
+          }
+        },
+        {
+          "nome": "Museo Storico di Lima (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Lima. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0488,
+            "longitudine": -77.0286
+          }
+        },
+        {
+          "nome": "Parco Naturale di Lima (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Lima. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0334,
+            "longitudine": -77.0281
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Lima (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Lima. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0318,
+            "longitudine": -77.0463
+          }
+        },
+        {
+          "nome": "Residenza Storica di Lima (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Lima. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0388,
+            "longitudine": -77.0389
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Lima (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Lima. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0538,
+            "longitudine": -77.0361
+          }
+        },
+        {
+          "nome": "Mercato Locale di Lima (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Lima. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0482,
+            "longitudine": -77.0499
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Lima (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Lima. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0422,
+            "longitudine": -77.0461
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Lima (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Lima. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.033,
+            "longitudine": -77.057
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Lima (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Lima. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0521,
+            "longitudine": -77.0478
+          }
+        },
+        {
+          "nome": "Piazza Principale di Lima (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Lima. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.039,
+            "longitudine": -77.0515
+          }
+        },
+        {
+          "nome": "Museo Storico di Lima (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Lima. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0334,
+            "longitudine": -77.0573
+          }
+        },
+        {
+          "nome": "Parco Naturale di Lima (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Lima. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0375,
+            "longitudine": -77.0301
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Lima (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Lima. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0411,
+            "longitudine": -77.0549
+          }
+        },
+        {
+          "nome": "Residenza Storica di Lima (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Lima. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0467,
+            "longitudine": -77.05
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Lima (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Lima. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0479,
+            "longitudine": -77.0312
+          }
+        },
+        {
+          "nome": "Mercato Locale di Lima (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Lima. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0317,
+            "longitudine": -77.0366
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Lima (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Lima. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0479,
+            "longitudine": -77.0351
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Lima (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Lima. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0415,
+            "longitudine": -77.0541
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Lima (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Lima. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0434,
+            "longitudine": -77.0302
+          }
+        },
+        {
+          "nome": "Piazza Principale di Lima (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Lima. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.04,
+            "longitudine": -77.0493
+          }
+        },
+        {
+          "nome": "Museo Storico di Lima (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Lima. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0579,
+            "longitudine": -77.0321
+          }
+        },
+        {
+          "nome": "Parco Naturale di Lima (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Lima. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0496,
+            "longitudine": -77.0399
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Lima (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Lima. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0354,
+            "longitudine": -77.0478
+          }
+        },
+        {
+          "nome": "Residenza Storica di Lima (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Lima. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0314,
+            "longitudine": -77.0323
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Lima (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Lima. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0523,
+            "longitudine": -77.0306
+          }
+        },
+        {
+          "nome": "Mercato Locale di Lima (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Lima. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0328,
+            "longitudine": -77.0558
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Lima (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Lima. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.035,
+            "longitudine": -77.0395
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Lima (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Lima. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0333,
+            "longitudine": -77.0326
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Lima (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Lima. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0373,
+            "longitudine": -77.0577
+          }
+        },
+        {
+          "nome": "Piazza Principale di Lima (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Lima. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -12.0547,
+            "longitudine": -77.0348
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Cusco",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Sacsayhuamán",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Cusco. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -13.5242,
+            "longitudine": -71.9817
+          }
+        },
+        {
+          "nome": "Plaza de Armas",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Cusco. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -13.5413,
+            "longitudine": -71.9621
+          }
+        },
+        {
+          "nome": "Qorikancha",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Cusco. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -13.5226,
+            "longitudine": -71.9546
+          }
+        },
+        {
+          "nome": "San Pedro Market",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Cusco. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -13.5468,
+            "longitudine": -71.963
+          }
+        },
+        {
+          "nome": "Quartiere di San Blas",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di Cusco. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -13.5447,
+            "longitudine": -71.9784
+          }
+        },
+        {
+          "nome": "Tambomachay",
+          "descrizione_estesa": "Mercato Locale tra i più iconici ed ammirati di Cusco. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -13.5181,
+            "longitudine": -71.978
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Cusco (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Cusco. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5353,
+            "longitudine": -71.9628
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Cusco (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Cusco. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5462,
+            "longitudine": -71.9689
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Cusco (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Cusco. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5351,
+            "longitudine": -71.9815
+          }
+        },
+        {
+          "nome": "Piazza Principale di Cusco (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Cusco. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5341,
+            "longitudine": -71.977
+          }
+        },
+        {
+          "nome": "Museo Storico di Cusco (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Cusco. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5466,
+            "longitudine": -71.9692
+          }
+        },
+        {
+          "nome": "Parco Naturale di Cusco (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Cusco. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5378,
+            "longitudine": -71.9694
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Cusco (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Cusco. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5318,
+            "longitudine": -71.9778
+          }
+        },
+        {
+          "nome": "Residenza Storica di Cusco (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Cusco. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5272,
+            "longitudine": -71.9559
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Cusco (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Cusco. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5285,
+            "longitudine": -71.9803
+          }
+        },
+        {
+          "nome": "Mercato Locale di Cusco (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Cusco. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5179,
+            "longitudine": -71.9617
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Cusco (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Cusco. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5346,
+            "longitudine": -71.9776
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Cusco (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Cusco. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5224,
+            "longitudine": -71.9686
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Cusco (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Cusco. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.522,
+            "longitudine": -71.9753
+          }
+        },
+        {
+          "nome": "Piazza Principale di Cusco (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Cusco. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5332,
+            "longitudine": -71.9821
+          }
+        },
+        {
+          "nome": "Museo Storico di Cusco (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Cusco. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5268,
+            "longitudine": -71.9815
+          }
+        },
+        {
+          "nome": "Parco Naturale di Cusco (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Cusco. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5433,
+            "longitudine": -71.9617
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Cusco (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Cusco. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5234,
+            "longitudine": -71.9602
+          }
+        },
+        {
+          "nome": "Residenza Storica di Cusco (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Cusco. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5305,
+            "longitudine": -71.9565
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Cusco (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Cusco. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5318,
+            "longitudine": -71.9677
+          }
+        },
+        {
+          "nome": "Mercato Locale di Cusco (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Cusco. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5426,
+            "longitudine": -71.9634
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Cusco (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Cusco. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5332,
+            "longitudine": -71.9546
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Cusco (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Cusco. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5464,
+            "longitudine": -71.9669
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Cusco (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Cusco. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5422,
+            "longitudine": -71.9715
+          }
+        },
+        {
+          "nome": "Piazza Principale di Cusco (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Cusco. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.541,
+            "longitudine": -71.9606
+          }
+        },
+        {
+          "nome": "Museo Storico di Cusco (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Cusco. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5243,
+            "longitudine": -71.9545
+          }
+        },
+        {
+          "nome": "Parco Naturale di Cusco (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Cusco. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5244,
+            "longitudine": -71.9569
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Cusco (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Cusco. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5362,
+            "longitudine": -71.9695
+          }
+        },
+        {
+          "nome": "Residenza Storica di Cusco (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Cusco. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.539,
+            "longitudine": -71.9717
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Cusco (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Cusco. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.525,
+            "longitudine": -71.9822
+          }
+        },
+        {
+          "nome": "Mercato Locale di Cusco (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Cusco. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5184,
+            "longitudine": -71.9696
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Cusco (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Cusco. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5378,
+            "longitudine": -71.9747
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Cusco (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Cusco. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.5302,
+            "longitudine": -71.9639
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Cusco (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Cusco. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.519,
+            "longitudine": -71.9571
+          }
+        },
+        {
+          "nome": "Piazza Principale di Cusco (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Cusco. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -13.542,
+            "longitudine": -71.967
+          }
+        }
+      ]
+    }
+  ]
+}

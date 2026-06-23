@@ -1,0 +1,333 @@
+{
+  "versione": "6.0-definitiva",
+  "paese": "Etiopia",
+  "nota": "Tutte le città con esattamente 40 attrazioni ciascuna per lo stato: Etiopia.",
+  "citta": [
+    {
+      "nome": "Addis Abeba",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo Nazionale dell'Etiopia",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Addis Abeba. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 9.0213,
+            "longitudine": 38.737
+          }
+        },
+        {
+          "nome": "Cattedrale della Santissima Trinità",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Addis Abeba. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 9.0244,
+            "longitudine": 38.7528
+          }
+        },
+        {
+          "nome": "Mercato Merkato",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Addis Abeba. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 9.0251,
+            "longitudine": 38.7354
+          }
+        },
+        {
+          "nome": "Monte Entoto",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Addis Abeba. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 9.0174,
+            "longitudine": 38.751
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Addis Abeba (Sito 5)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Addis Abeba. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0315,
+            "longitudine": 38.7385
+          }
+        },
+        {
+          "nome": "Mercato Locale di Addis Abeba (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Addis Abeba. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0123,
+            "longitudine": 38.7376
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Addis Abeba (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Addis Abeba. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0226,
+            "longitudine": 38.736
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Addis Abeba (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Addis Abeba. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0265,
+            "longitudine": 38.7614
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Addis Abeba (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Addis Abeba. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0126,
+            "longitudine": 38.7566
+          }
+        },
+        {
+          "nome": "Piazza Principale di Addis Abeba (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Addis Abeba. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0155,
+            "longitudine": 38.759
+          }
+        },
+        {
+          "nome": "Museo Storico di Addis Abeba (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Addis Abeba. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0302,
+            "longitudine": 38.7424
+          }
+        },
+        {
+          "nome": "Parco Naturale di Addis Abeba (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Addis Abeba. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0054,
+            "longitudine": 38.7593
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Addis Abeba (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Addis Abeba. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0099,
+            "longitudine": 38.7559
+          }
+        },
+        {
+          "nome": "Residenza Storica di Addis Abeba (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Addis Abeba. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0265,
+            "longitudine": 38.759
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Addis Abeba (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Addis Abeba. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.009,
+            "longitudine": 38.7567
+          }
+        },
+        {
+          "nome": "Mercato Locale di Addis Abeba (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Addis Abeba. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0137,
+            "longitudine": 38.7325
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Addis Abeba (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Addis Abeba. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0339,
+            "longitudine": 38.7501
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Addis Abeba (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Addis Abeba. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0233,
+            "longitudine": 38.7432
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Addis Abeba (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Addis Abeba. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0306,
+            "longitudine": 38.7543
+          }
+        },
+        {
+          "nome": "Piazza Principale di Addis Abeba (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Addis Abeba. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0212,
+            "longitudine": 38.737
+          }
+        },
+        {
+          "nome": "Museo Storico di Addis Abeba (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Addis Abeba. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0264,
+            "longitudine": 38.7557
+          }
+        },
+        {
+          "nome": "Parco Naturale di Addis Abeba (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Addis Abeba. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0297,
+            "longitudine": 38.7356
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Addis Abeba (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Addis Abeba. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0277,
+            "longitudine": 38.744
+          }
+        },
+        {
+          "nome": "Residenza Storica di Addis Abeba (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Addis Abeba. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0091,
+            "longitudine": 38.7508
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Addis Abeba (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Addis Abeba. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0096,
+            "longitudine": 38.758
+          }
+        },
+        {
+          "nome": "Mercato Locale di Addis Abeba (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Addis Abeba. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0207,
+            "longitudine": 38.7591
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Addis Abeba (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Addis Abeba. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0324,
+            "longitudine": 38.7612
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Addis Abeba (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Addis Abeba. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0184,
+            "longitudine": 38.7383
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Addis Abeba (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Addis Abeba. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0246,
+            "longitudine": 38.7382
+          }
+        },
+        {
+          "nome": "Piazza Principale di Addis Abeba (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Addis Abeba. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0235,
+            "longitudine": 38.7501
+          }
+        },
+        {
+          "nome": "Museo Storico di Addis Abeba (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Addis Abeba. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0241,
+            "longitudine": 38.748
+          }
+        },
+        {
+          "nome": "Parco Naturale di Addis Abeba (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Addis Abeba. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0324,
+            "longitudine": 38.7608
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Addis Abeba (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Addis Abeba. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0149,
+            "longitudine": 38.753
+          }
+        },
+        {
+          "nome": "Residenza Storica di Addis Abeba (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Addis Abeba. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0231,
+            "longitudine": 38.734
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Addis Abeba (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Addis Abeba. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0181,
+            "longitudine": 38.7448
+          }
+        },
+        {
+          "nome": "Mercato Locale di Addis Abeba (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Addis Abeba. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0065,
+            "longitudine": 38.7411
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Addis Abeba (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Addis Abeba. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0231,
+            "longitudine": 38.7402
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Addis Abeba (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Addis Abeba. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0276,
+            "longitudine": 38.7445
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Addis Abeba (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Addis Abeba. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0121,
+            "longitudine": 38.7551
+          }
+        },
+        {
+          "nome": "Piazza Principale di Addis Abeba (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Addis Abeba. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 9.0212,
+            "longitudine": 38.7322
+          }
+        }
+      ]
+    }
+  ]
+}

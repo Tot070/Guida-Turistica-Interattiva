@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Rep. Dominicana",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Rep. Dominicana.",
+  "citta": [
+    {
+      "nome": "Santo Domingo",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Santo Domingo (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Santo Domingo. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 32.7099,
+            "longitudine": 7.4667
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Santo Domingo (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Santo Domingo. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 32.697,
+            "longitudine": 7.4716
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Santo Domingo (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Santo Domingo. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 32.7155,
+            "longitudine": 7.4756
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Santo Domingo (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Santo Domingo. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 32.7255,
+            "longitudine": 7.4774
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Santo Domingo (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Santo Domingo. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 32.7216,
+            "longitudine": 7.4494
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Santo Domingo (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Santo Domingo. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 32.728,
+            "longitudine": 7.4768
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Santo Domingo (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Santo Domingo. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 32.711,
+            "longitudine": 7.4619
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Santo Domingo (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Santo Domingo. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 32.7239,
+            "longitudine": 7.4492
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Santo Domingo (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Santo Domingo. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 32.7327,
+            "longitudine": 7.4656
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Santo Domingo (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Santo Domingo. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 32.6979,
+            "longitudine": 7.4677
+          }
+        },
+        {
+          "nome": "Ponte Storico di Santo Domingo (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Santo Domingo. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 32.6955,
+            "longitudine": 7.4578
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Santo Domingo (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Santo Domingo. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 32.7171,
+            "longitudine": 7.4493
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Santo Domingo (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Santo Domingo. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 32.7165,
+            "longitudine": 7.4525
+          }
+        },
+        {
+          "nome": "Castello Medievale di Santo Domingo (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Santo Domingo. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 32.7002,
+            "longitudine": 7.4499
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Santo Domingo (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Santo Domingo. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 32.6999,
+            "longitudine": 7.4467
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Santo Domingo (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Santo Domingo. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 32.7204,
+            "longitudine": 7.4673
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Santo Domingo (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Santo Domingo. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 32.7081,
+            "longitudine": 7.4404
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Santo Domingo (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Santo Domingo. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 32.6986,
+            "longitudine": 7.4481
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Santo Domingo (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Santo Domingo. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 32.7265,
+            "longitudine": 7.4433
+          }
+        },
+        {
+          "nome": "Basilica Storica di Santo Domingo (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Santo Domingo. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 32.7261,
+            "longitudine": 7.4766
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Santo Domingo (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Santo Domingo. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 32.7011,
+            "longitudine": 7.4615
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Santo Domingo (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Santo Domingo. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 32.7095,
+            "longitudine": 7.4783
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Santo Domingo (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Santo Domingo. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 32.719,
+            "longitudine": 7.4491
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Santo Domingo (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Santo Domingo. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 32.7239,
+            "longitudine": 7.4677
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Santo Domingo (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Santo Domingo. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 32.7308,
+            "longitudine": 7.4791
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Santo Domingo (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Santo Domingo. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 32.6942,
+            "longitudine": 7.4556
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Santo Domingo (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Santo Domingo. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 32.7175,
+            "longitudine": 7.4618
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Santo Domingo (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Santo Domingo. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 32.7044,
+            "longitudine": 7.4704
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Santo Domingo (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Santo Domingo. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 32.7178,
+            "longitudine": 7.4674
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Santo Domingo (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Santo Domingo. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 32.7242,
+            "longitudine": 7.4712
+          }
+        },
+        {
+          "nome": "Ponte Storico di Santo Domingo (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Santo Domingo. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 32.7271,
+            "longitudine": 7.446
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Santo Domingo (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Santo Domingo. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 32.7108,
+            "longitudine": 7.4558
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Santo Domingo (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Santo Domingo. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 32.7192,
+            "longitudine": 7.4488
+          }
+        },
+        {
+          "nome": "Castello Medievale di Santo Domingo (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Santo Domingo. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 32.7157,
+            "longitudine": 7.4777
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Santo Domingo (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Santo Domingo. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 32.7116,
+            "longitudine": 7.4619
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Santo Domingo (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Santo Domingo. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 32.7226,
+            "longitudine": 7.4747
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Santo Domingo (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Santo Domingo. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 32.7087,
+            "longitudine": 7.4643
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Santo Domingo (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Santo Domingo. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 32.717,
+            "longitudine": 7.4629
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Santo Domingo (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Santo Domingo. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 32.718,
+            "longitudine": 7.4695
+          }
+        },
+        {
+          "nome": "Basilica Storica di Santo Domingo (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Santo Domingo. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 32.7035,
+            "longitudine": 7.4513
+          }
+        }
+      ]
+    }
+  ]
+}

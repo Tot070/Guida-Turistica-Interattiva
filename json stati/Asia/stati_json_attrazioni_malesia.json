@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Malesia",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Malesia.",
+  "citta": [
+    {
+      "nome": "Kuala Lumpur",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Kuala Lumpur (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Kuala Lumpur. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 25.4376,
+            "longitudine": 22.5828
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Kuala Lumpur (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Kuala Lumpur. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 25.4112,
+            "longitudine": 22.6133
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Kuala Lumpur (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Kuala Lumpur. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 25.4045,
+            "longitudine": 22.6171
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Kuala Lumpur (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Kuala Lumpur. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 25.4262,
+            "longitudine": 22.5868
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Kuala Lumpur (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Kuala Lumpur. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 25.4367,
+            "longitudine": 22.6088
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Kuala Lumpur (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Kuala Lumpur. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 25.4118,
+            "longitudine": 22.5885
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Kuala Lumpur (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Kuala Lumpur. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 25.412,
+            "longitudine": 22.6006
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Kuala Lumpur (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Kuala Lumpur. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 25.4318,
+            "longitudine": 22.6141
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Kuala Lumpur (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Kuala Lumpur. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 25.4156,
+            "longitudine": 22.579
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Kuala Lumpur (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Kuala Lumpur. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 25.4362,
+            "longitudine": 22.584
+          }
+        },
+        {
+          "nome": "Ponte Storico di Kuala Lumpur (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Kuala Lumpur. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 25.4176,
+            "longitudine": 22.5886
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Kuala Lumpur (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Kuala Lumpur. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 25.4054,
+            "longitudine": 22.6018
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Kuala Lumpur (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Kuala Lumpur. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 25.4225,
+            "longitudine": 22.5777
+          }
+        },
+        {
+          "nome": "Castello Medievale di Kuala Lumpur (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Kuala Lumpur. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 25.4367,
+            "longitudine": 22.5955
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Kuala Lumpur (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Kuala Lumpur. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 25.4165,
+            "longitudine": 22.5886
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Kuala Lumpur (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Kuala Lumpur. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 25.4075,
+            "longitudine": 22.6027
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Kuala Lumpur (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Kuala Lumpur. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 25.4423,
+            "longitudine": 22.6138
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Kuala Lumpur (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Kuala Lumpur. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 25.442,
+            "longitudine": 22.6017
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Kuala Lumpur (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Kuala Lumpur. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 25.4224,
+            "longitudine": 22.5791
+          }
+        },
+        {
+          "nome": "Basilica Storica di Kuala Lumpur (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Kuala Lumpur. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 25.4054,
+            "longitudine": 22.5785
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Kuala Lumpur (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Kuala Lumpur. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 25.432,
+            "longitudine": 22.5994
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Kuala Lumpur (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Kuala Lumpur. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 25.4345,
+            "longitudine": 22.6114
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Kuala Lumpur (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Kuala Lumpur. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 25.4328,
+            "longitudine": 22.5813
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Kuala Lumpur (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Kuala Lumpur. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 25.4384,
+            "longitudine": 22.6071
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Kuala Lumpur (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Kuala Lumpur. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 25.438,
+            "longitudine": 22.6046
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Kuala Lumpur (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Kuala Lumpur. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 25.4114,
+            "longitudine": 22.6121
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Kuala Lumpur (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Kuala Lumpur. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 25.4432,
+            "longitudine": 22.6048
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Kuala Lumpur (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Kuala Lumpur. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 25.4287,
+            "longitudine": 22.6071
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Kuala Lumpur (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Kuala Lumpur. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 25.4217,
+            "longitudine": 22.6003
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Kuala Lumpur (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Kuala Lumpur. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 25.4431,
+            "longitudine": 22.5977
+          }
+        },
+        {
+          "nome": "Ponte Storico di Kuala Lumpur (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Kuala Lumpur. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 25.4085,
+            "longitudine": 22.5778
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Kuala Lumpur (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Kuala Lumpur. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 25.4218,
+            "longitudine": 22.6039
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Kuala Lumpur (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Kuala Lumpur. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 25.441,
+            "longitudine": 22.5862
+          }
+        },
+        {
+          "nome": "Castello Medievale di Kuala Lumpur (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Kuala Lumpur. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 25.4384,
+            "longitudine": 22.6023
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Kuala Lumpur (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Kuala Lumpur. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 25.4407,
+            "longitudine": 22.6118
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Kuala Lumpur (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Kuala Lumpur. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 25.4137,
+            "longitudine": 22.5957
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Kuala Lumpur (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Kuala Lumpur. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 25.4337,
+            "longitudine": 22.6081
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Kuala Lumpur (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Kuala Lumpur. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 25.4395,
+            "longitudine": 22.5834
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Kuala Lumpur (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Kuala Lumpur. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 25.4177,
+            "longitudine": 22.6124
+          }
+        },
+        {
+          "nome": "Basilica Storica di Kuala Lumpur (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Kuala Lumpur. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 25.4121,
+            "longitudine": 22.606
+          }
+        }
+      ]
+    }
+  ]
+}

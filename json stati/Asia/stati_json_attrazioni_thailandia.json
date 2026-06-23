@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Thailandia",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Thailandia.",
+  "citta": [
+    {
+      "nome": "Bangkok",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Bangkok (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Bangkok. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 24.0532,
+            "longitudine": 31.7295
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Bangkok (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Bangkok. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 24.0469,
+            "longitudine": 31.7553
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Bangkok (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Bangkok. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 24.0287,
+            "longitudine": 31.7529
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Bangkok (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Bangkok. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 24.0456,
+            "longitudine": 31.7533
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Bangkok (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Bangkok. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 24.0497,
+            "longitudine": 31.7251
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Bangkok (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Bangkok. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 24.0431,
+            "longitudine": 31.7496
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Bangkok (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Bangkok. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 24.0562,
+            "longitudine": 31.7512
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Bangkok (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Bangkok. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 24.0654,
+            "longitudine": 31.7537
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Bangkok (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Bangkok. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 24.0682,
+            "longitudine": 31.7449
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Bangkok (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Bangkok. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 24.0425,
+            "longitudine": 31.7497
+          }
+        },
+        {
+          "nome": "Ponte Storico di Bangkok (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Bangkok. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 24.0482,
+            "longitudine": 31.7493
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Bangkok (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Bangkok. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 24.0638,
+            "longitudine": 31.7497
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Bangkok (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Bangkok. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 24.0423,
+            "longitudine": 31.7262
+          }
+        },
+        {
+          "nome": "Castello Medievale di Bangkok (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Bangkok. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 24.0374,
+            "longitudine": 31.763
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Bangkok (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Bangkok. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 24.0611,
+            "longitudine": 31.7385
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Bangkok (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Bangkok. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 24.0366,
+            "longitudine": 31.7444
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Bangkok (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Bangkok. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 24.0641,
+            "longitudine": 31.7347
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Bangkok (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Bangkok. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 24.038,
+            "longitudine": 31.7542
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Bangkok (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Bangkok. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 24.0562,
+            "longitudine": 31.7365
+          }
+        },
+        {
+          "nome": "Basilica Storica di Bangkok (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Bangkok. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 24.0304,
+            "longitudine": 31.7452
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Bangkok (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Bangkok. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 24.0615,
+            "longitudine": 31.7619
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Bangkok (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Bangkok. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 24.057,
+            "longitudine": 31.7423
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Bangkok (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Bangkok. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 24.0486,
+            "longitudine": 31.7313
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Bangkok (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Bangkok. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 24.042,
+            "longitudine": 31.7238
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Bangkok (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Bangkok. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 24.0577,
+            "longitudine": 31.7611
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Bangkok (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Bangkok. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 24.0352,
+            "longitudine": 31.724
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Bangkok (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Bangkok. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 24.0472,
+            "longitudine": 31.7622
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Bangkok (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Bangkok. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 24.0616,
+            "longitudine": 31.7557
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Bangkok (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Bangkok. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 24.0597,
+            "longitudine": 31.7237
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Bangkok (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Bangkok. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 24.0304,
+            "longitudine": 31.7564
+          }
+        },
+        {
+          "nome": "Ponte Storico di Bangkok (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Bangkok. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 24.0339,
+            "longitudine": 31.7543
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Bangkok (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Bangkok. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 24.0637,
+            "longitudine": 31.7529
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Bangkok (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Bangkok. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 24.059,
+            "longitudine": 31.7353
+          }
+        },
+        {
+          "nome": "Castello Medievale di Bangkok (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Bangkok. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 24.057,
+            "longitudine": 31.7552
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Bangkok (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Bangkok. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 24.0624,
+            "longitudine": 31.7319
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Bangkok (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Bangkok. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 24.0332,
+            "longitudine": 31.7407
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Bangkok (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Bangkok. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 24.0392,
+            "longitudine": 31.7423
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Bangkok (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Bangkok. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 24.0496,
+            "longitudine": 31.7534
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Bangkok (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Bangkok. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 24.0525,
+            "longitudine": 31.7297
+          }
+        },
+        {
+          "nome": "Basilica Storica di Bangkok (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Bangkok. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 24.0393,
+            "longitudine": 31.7549
+          }
+        }
+      ]
+    }
+  ]
+}

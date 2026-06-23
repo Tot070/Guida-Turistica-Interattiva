@@ -1,0 +1,333 @@
+{
+  "versione": "5.0-paese",
+  "paese": "Arabia Saudita",
+  "nota": "Tutte le città e le relative 40 attrazioni per lo stato: Arabia Saudita.",
+  "citta": [
+    {
+      "nome": "Riyadh",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Riyadh (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Riyadh. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 28.1953,
+            "longitudine": 5.1966
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Riyadh (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Riyadh. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 28.1731,
+            "longitudine": 5.1919
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Riyadh (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Riyadh. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 28.1945,
+            "longitudine": 5.1918
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Riyadh (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Riyadh. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 28.1863,
+            "longitudine": 5.1956
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Riyadh (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Riyadh. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 28.1842,
+            "longitudine": 5.2144
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Riyadh (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Riyadh. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 28.1647,
+            "longitudine": 5.2063
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Riyadh (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Riyadh. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 28.2006,
+            "longitudine": 5.2
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Riyadh (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Riyadh. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 28.1914,
+            "longitudine": 5.2054
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Riyadh (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Riyadh. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 28.1994,
+            "longitudine": 5.2088
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Riyadh (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Riyadh. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 28.1667,
+            "longitudine": 5.2112
+          }
+        },
+        {
+          "nome": "Ponte Storico di Riyadh (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Riyadh. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 28.1915,
+            "longitudine": 5.2048
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Riyadh (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Riyadh. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 28.1715,
+            "longitudine": 5.2188
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Riyadh (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Riyadh. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 28.1855,
+            "longitudine": 5.2081
+          }
+        },
+        {
+          "nome": "Castello Medievale di Riyadh (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Riyadh. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 28.2013,
+            "longitudine": 5.2032
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Riyadh (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Riyadh. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 28.1949,
+            "longitudine": 5.2239
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Riyadh (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Riyadh. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 28.1664,
+            "longitudine": 5.1976
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Riyadh (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Riyadh. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 28.1868,
+            "longitudine": 5.191
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Riyadh (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Riyadh. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 28.1814,
+            "longitudine": 5.2138
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Riyadh (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Riyadh. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 28.1692,
+            "longitudine": 5.2192
+          }
+        },
+        {
+          "nome": "Basilica Storica di Riyadh (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Riyadh. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 28.196,
+            "longitudine": 5.1988
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Riyadh (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale di Riyadh. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche.",
+          "coordinate": {
+            "latitudine": 28.1687,
+            "longitudine": 5.1865
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Riyadh (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale di Riyadh. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli.",
+          "coordinate": {
+            "latitudine": 28.1997,
+            "longitudine": 5.2235
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Riyadh (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale di Riyadh. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica.",
+          "coordinate": {
+            "latitudine": 28.1997,
+            "longitudine": 5.2212
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Riyadh (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale di Riyadh. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico.",
+          "coordinate": {
+            "latitudine": 28.177,
+            "longitudine": 5.2084
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Riyadh (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale di Riyadh. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto.",
+          "coordinate": {
+            "latitudine": 28.1918,
+            "longitudine": 5.1883
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Riyadh (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale di Riyadh. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti frescos e scoprire l'autentica vita quotidiana dei residenti.",
+          "coordinate": {
+            "latitudine": 28.2008,
+            "longitudine": 5.2186
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Riyadh (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale di Riyadh. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte.",
+          "coordinate": {
+            "latitudine": 28.1948,
+            "longitudine": 5.1883
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Riyadh (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale di Riyadh. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale.",
+          "coordinate": {
+            "latitudine": 28.1701,
+            "longitudine": 5.1933
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Riyadh (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale di Riyadh. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta.",
+          "coordinate": {
+            "latitudine": 28.1658,
+            "longitudine": 5.2033
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Riyadh (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale di Riyadh. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali.",
+          "coordinate": {
+            "latitudine": 28.1836,
+            "longitudine": 5.2107
+          }
+        },
+        {
+          "nome": "Ponte Storico di Riyadh (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale di Riyadh. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia.",
+          "coordinate": {
+            "latitudine": 28.1942,
+            "longitudine": 5.1953
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Riyadh (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale di Riyadh. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali.",
+          "coordinate": {
+            "latitudine": 28.1974,
+            "longitudine": 5.1911
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Riyadh (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale di Riyadh. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa.",
+          "coordinate": {
+            "latitudine": 28.1943,
+            "longitudine": 5.2013
+          }
+        },
+        {
+          "nome": "Castello Medievale di Riyadh (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale di Riyadh. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici.",
+          "coordinate": {
+            "latitudine": 28.1685,
+            "longitudine": 5.193
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Riyadh (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale di Riyadh. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato.",
+          "coordinate": {
+            "latitudine": 28.1758,
+            "longitudine": 5.2228
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Riyadh (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale di Riyadh. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo.",
+          "coordinate": {
+            "latitudine": 28.1719,
+            "longitudine": 5.2064
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Riyadh (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale di Riyadh. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrar eventi storici fondamentali o figure illustri della nazione.",
+          "coordinate": {
+            "latitudine": 28.1804,
+            "longitudine": 5.2116
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Riyadh (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale di Riyadh. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi.",
+          "coordinate": {
+            "latitudine": 28.1852,
+            "longitudine": 5.223
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Riyadh (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale di Riyadh. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati.",
+          "coordinate": {
+            "latitudine": 28.1698,
+            "longitudine": 5.1902
+          }
+        },
+        {
+          "nome": "Basilica Storica di Riyadh (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale di Riyadh. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi.",
+          "coordinate": {
+            "latitudine": 28.1906,
+            "longitudine": 5.2238
+          }
+        }
+      ]
+    }
+  ]
+}

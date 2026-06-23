@@ -1,0 +1,659 @@
+{
+  "versione": "6.0-definitiva",
+  "paese": "Marocco",
+  "nota": "Tutte le città con esattamente 40 attrazioni ciascuna per lo stato: Marocco.",
+  "citta": [
+    {
+      "nome": "Marrakech",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Piazza Jemaa el-Fnaa",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Marrakech. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 31.6209,
+            "longitudine": -7.9755
+          }
+        },
+        {
+          "nome": "Giardini Majorelle",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Marrakech. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 31.6217,
+            "longitudine": -7.9708
+          }
+        },
+        {
+          "nome": "Palazzo Bahia",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Marrakech. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 31.6346,
+            "longitudine": -7.9812
+          }
+        },
+        {
+          "nome": "Moschea della Koutoubia",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Marrakech. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 31.6355,
+            "longitudine": -7.9913
+          }
+        },
+        {
+          "nome": "Tombe Saadiane",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di Marrakech. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 31.6427,
+            "longitudine": -7.9687
+          }
+        },
+        {
+          "nome": "I Souk",
+          "descrizione_estesa": "Mercato Locale tra i più iconici ed ammirati di Marrakech. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 31.6433,
+            "longitudine": -7.9738
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Marrakech (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Marrakech. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6173,
+            "longitudine": -7.9737
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Marrakech (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Marrakech. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6274,
+            "longitudine": -7.9837
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Marrakech (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Marrakech. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.621,
+            "longitudine": -7.9833
+          }
+        },
+        {
+          "nome": "Piazza Principale di Marrakech (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Marrakech. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6333,
+            "longitudine": -7.9764
+          }
+        },
+        {
+          "nome": "Museo Storico di Marrakech (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Marrakech. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6201,
+            "longitudine": -7.9876
+          }
+        },
+        {
+          "nome": "Parco Naturale di Marrakech (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Marrakech. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6179,
+            "longitudine": -7.994
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Marrakech (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Marrakech. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6309,
+            "longitudine": -7.9935
+          }
+        },
+        {
+          "nome": "Residenza Storica di Marrakech (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Marrakech. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.636,
+            "longitudine": -7.9711
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Marrakech (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Marrakech. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6232,
+            "longitudine": -7.9687
+          }
+        },
+        {
+          "nome": "Mercato Locale di Marrakech (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Marrakech. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6372,
+            "longitudine": -7.987
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Marrakech (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Marrakech. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6287,
+            "longitudine": -7.9827
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Marrakech (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Marrakech. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6329,
+            "longitudine": -7.9833
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Marrakech (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Marrakech. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6373,
+            "longitudine": -7.9932
+          }
+        },
+        {
+          "nome": "Piazza Principale di Marrakech (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Marrakech. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6278,
+            "longitudine": -7.9788
+          }
+        },
+        {
+          "nome": "Museo Storico di Marrakech (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Marrakech. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6443,
+            "longitudine": -7.9854
+          }
+        },
+        {
+          "nome": "Parco Naturale di Marrakech (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Marrakech. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6373,
+            "longitudine": -7.9801
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Marrakech (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Marrakech. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6297,
+            "longitudine": -7.9813
+          }
+        },
+        {
+          "nome": "Residenza Storica di Marrakech (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Marrakech. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6286,
+            "longitudine": -7.9847
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Marrakech (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Marrakech. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6227,
+            "longitudine": -7.9828
+          }
+        },
+        {
+          "nome": "Mercato Locale di Marrakech (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Marrakech. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6222,
+            "longitudine": -7.975
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Marrakech (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Marrakech. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6209,
+            "longitudine": -7.9895
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Marrakech (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Marrakech. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6151,
+            "longitudine": -7.9941
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Marrakech (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Marrakech. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6342,
+            "longitudine": -7.9941
+          }
+        },
+        {
+          "nome": "Piazza Principale di Marrakech (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Marrakech. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6202,
+            "longitudine": -7.9793
+          }
+        },
+        {
+          "nome": "Museo Storico di Marrakech (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Marrakech. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6237,
+            "longitudine": -7.9782
+          }
+        },
+        {
+          "nome": "Parco Naturale di Marrakech (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Marrakech. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6156,
+            "longitudine": -7.9725
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Marrakech (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Marrakech. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6185,
+            "longitudine": -7.9697
+          }
+        },
+        {
+          "nome": "Residenza Storica di Marrakech (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Marrakech. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6405,
+            "longitudine": -7.9795
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Marrakech (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Marrakech. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6152,
+            "longitudine": -7.9807
+          }
+        },
+        {
+          "nome": "Mercato Locale di Marrakech (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Marrakech. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6387,
+            "longitudine": -7.9766
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Marrakech (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Marrakech. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6188,
+            "longitudine": -7.9894
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Marrakech (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Marrakech. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.62,
+            "longitudine": -7.981
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Marrakech (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Marrakech. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6175,
+            "longitudine": -7.9912
+          }
+        },
+        {
+          "nome": "Piazza Principale di Marrakech (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Marrakech. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 31.6427,
+            "longitudine": -7.9913
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Casablanca",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Moschea di Hassan II",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Casablanca. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 33.5604,
+            "longitudine": -7.5999
+          }
+        },
+        {
+          "nome": "La Corniche",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Casablanca. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 33.5719,
+            "longitudine": -7.5903
+          }
+        },
+        {
+          "nome": "Quartiere di Habbous",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Casablanca. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 33.5718,
+            "longitudine": -7.5991
+          }
+        },
+        {
+          "nome": "Piazza Mohammed V",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Casablanca. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": 33.5652,
+            "longitudine": -7.5909
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Casablanca (Sito 5)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Casablanca. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5634,
+            "longitudine": -7.5966
+          }
+        },
+        {
+          "nome": "Mercato Locale di Casablanca (Sito 6)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Casablanca. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5702,
+            "longitudine": -7.5778
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Casablanca (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Casablanca. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5795,
+            "longitudine": -7.58
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Casablanca (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Casablanca. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5722,
+            "longitudine": -7.5947
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Casablanca (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Casablanca. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5741,
+            "longitudine": -7.5863
+          }
+        },
+        {
+          "nome": "Piazza Principale di Casablanca (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Casablanca. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5617,
+            "longitudine": -7.5841
+          }
+        },
+        {
+          "nome": "Museo Storico di Casablanca (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Casablanca. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5766,
+            "longitudine": -7.5967
+          }
+        },
+        {
+          "nome": "Parco Naturale di Casablanca (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Casablanca. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5742,
+            "longitudine": -7.5995
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Casablanca (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Casablanca. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.583,
+            "longitudine": -7.5908
+          }
+        },
+        {
+          "nome": "Residenza Storica di Casablanca (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Casablanca. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5588,
+            "longitudine": -7.5854
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Casablanca (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Casablanca. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5784,
+            "longitudine": -7.6024
+          }
+        },
+        {
+          "nome": "Mercato Locale di Casablanca (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Casablanca. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.567,
+            "longitudine": -7.584
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Casablanca (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Casablanca. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5785,
+            "longitudine": -7.5787
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Casablanca (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Casablanca. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.584,
+            "longitudine": -7.5811
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Casablanca (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Casablanca. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5637,
+            "longitudine": -7.6024
+          }
+        },
+        {
+          "nome": "Piazza Principale di Casablanca (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Casablanca. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5863,
+            "longitudine": -7.581
+          }
+        },
+        {
+          "nome": "Museo Storico di Casablanca (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Casablanca. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5677,
+            "longitudine": -7.5969
+          }
+        },
+        {
+          "nome": "Parco Naturale di Casablanca (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Casablanca. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5747,
+            "longitudine": -7.5815
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Casablanca (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Casablanca. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5767,
+            "longitudine": -7.5783
+          }
+        },
+        {
+          "nome": "Residenza Storica di Casablanca (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Casablanca. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5741,
+            "longitudine": -7.5948
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Casablanca (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Casablanca. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5661,
+            "longitudine": -7.5815
+          }
+        },
+        {
+          "nome": "Mercato Locale di Casablanca (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Casablanca. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5773,
+            "longitudine": -7.5914
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Casablanca (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Casablanca. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.573,
+            "longitudine": -7.5779
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Casablanca (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Casablanca. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5589,
+            "longitudine": -7.591
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Casablanca (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Casablanca. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5729,
+            "longitudine": -7.587
+          }
+        },
+        {
+          "nome": "Piazza Principale di Casablanca (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Casablanca. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5734,
+            "longitudine": -7.5862
+          }
+        },
+        {
+          "nome": "Museo Storico di Casablanca (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Casablanca. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5611,
+            "longitudine": -7.5811
+          }
+        },
+        {
+          "nome": "Parco Naturale di Casablanca (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Casablanca. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.577,
+            "longitudine": -7.5965
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Casablanca (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Casablanca. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5641,
+            "longitudine": -7.584
+          }
+        },
+        {
+          "nome": "Residenza Storica di Casablanca (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Casablanca. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5727,
+            "longitudine": -7.5792
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Casablanca (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Casablanca. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5795,
+            "longitudine": -7.594
+          }
+        },
+        {
+          "nome": "Mercato Locale di Casablanca (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Casablanca. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5762,
+            "longitudine": -7.5753
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Casablanca (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Casablanca. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.584,
+            "longitudine": -7.5957
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Casablanca (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Casablanca. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5704,
+            "longitudine": -7.5964
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Casablanca (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Casablanca. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5746,
+            "longitudine": -7.5765
+          }
+        },
+        {
+          "nome": "Piazza Principale di Casablanca (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Casablanca. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": 33.5826,
+            "longitudine": -7.582
+          }
+        }
+      ]
+    }
+  ]
+}

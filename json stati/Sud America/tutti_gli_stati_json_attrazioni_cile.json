@@ -1,0 +1,333 @@
+{
+  "versione": "6.0-definitiva",
+  "paese": "Cile",
+  "nota": "Tutte le città con esattamente 40 attrazioni ciascuna per lo stato: Cile.",
+  "citta": [
+    {
+      "nome": "Santiago",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Cerro Santa Lucía",
+          "descrizione_estesa": "Museo Storico tra i più iconici ed ammirati di Santiago. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -33.4346,
+            "longitudine": -70.6821
+          }
+        },
+        {
+          "nome": "Plaza de Armas",
+          "descrizione_estesa": "Parco Naturale tra i più iconici ed ammirati di Santiago. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -33.4449,
+            "longitudine": -70.6791
+          }
+        },
+        {
+          "nome": "Cerro San Cristóbal",
+          "descrizione_estesa": "Quartiere Caratteristico tra i più iconici ed ammirati di Santiago. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -33.4445,
+            "longitudine": -70.6743
+          }
+        },
+        {
+          "nome": "La Chascona",
+          "descrizione_estesa": "Residenza Storica tra i più iconici ed ammirati di Santiago. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -33.4581,
+            "longitudine": -70.6773
+          }
+        },
+        {
+          "nome": "Palazzo della Moneda",
+          "descrizione_estesa": "Terrazza Panoramica tra i più iconici ed ammirati di Santiago. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -33.4383,
+            "longitudine": -70.6837
+          }
+        },
+        {
+          "nome": "Sky Costanera",
+          "descrizione_estesa": "Mercato Locale tra i più iconici ed ammirati di Santiago. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Una tappa d'obbligo ricca di fascino per comprendere a fondo l'identità del luogo.",
+          "coordinate": {
+            "latitudine": -33.4383,
+            "longitudine": -70.6682
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Santiago (Sito 7)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Santiago. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4499,
+            "longitudine": -70.6593
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Santiago (Sito 8)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Santiago. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4474,
+            "longitudine": -70.6639
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Santiago (Sito 9)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Santiago. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4503,
+            "longitudine": -70.6794
+          }
+        },
+        {
+          "nome": "Piazza Principale di Santiago (Sito 10)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Santiago. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4602,
+            "longitudine": -70.6663
+          }
+        },
+        {
+          "nome": "Museo Storico di Santiago (Sito 11)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Santiago. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.455,
+            "longitudine": -70.664
+          }
+        },
+        {
+          "nome": "Parco Naturale di Santiago (Sito 12)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Santiago. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4519,
+            "longitudine": -70.661
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Santiago (Sito 13)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Santiago. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.435,
+            "longitudine": -70.6674
+          }
+        },
+        {
+          "nome": "Residenza Storica di Santiago (Sito 14)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Santiago. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4625,
+            "longitudine": -70.6756
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Santiago (Sito 15)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Santiago. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4426,
+            "longitudine": -70.6826
+          }
+        },
+        {
+          "nome": "Mercato Locale di Santiago (Sito 16)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Santiago. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.438,
+            "longitudine": -70.6837
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Santiago (Sito 17)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Santiago. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4504,
+            "longitudine": -70.6661
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Santiago (Sito 18)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Santiago. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4456,
+            "longitudine": -70.6708
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Santiago (Sito 19)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Santiago. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4367,
+            "longitudine": -70.6583
+          }
+        },
+        {
+          "nome": "Piazza Principale di Santiago (Sito 20)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Santiago. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4347,
+            "longitudine": -70.6629
+          }
+        },
+        {
+          "nome": "Museo Storico di Santiago (Sito 21)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Santiago. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.454,
+            "longitudine": -70.6696
+          }
+        },
+        {
+          "nome": "Parco Naturale di Santiago (Sito 22)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Santiago. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4548,
+            "longitudine": -70.6607
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Santiago (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Santiago. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4495,
+            "longitudine": -70.6741
+          }
+        },
+        {
+          "nome": "Residenza Storica di Santiago (Sito 24)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Santiago. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4491,
+            "longitudine": -70.6805
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Santiago (Sito 25)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Santiago. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4537,
+            "longitudine": -70.6661
+          }
+        },
+        {
+          "nome": "Mercato Locale di Santiago (Sito 26)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Santiago. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4617,
+            "longitudine": -70.6669
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Santiago (Sito 27)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Santiago. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4495,
+            "longitudine": -70.6702
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Santiago (Sito 28)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Santiago. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4518,
+            "longitudine": -70.6596
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Santiago (Sito 29)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Santiago. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4442,
+            "longitudine": -70.6642
+          }
+        },
+        {
+          "nome": "Piazza Principale di Santiago (Sito 30)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Santiago. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4363,
+            "longitudine": -70.662
+          }
+        },
+        {
+          "nome": "Museo Storico di Santiago (Sito 31)",
+          "descrizione_estesa": "Splendido museo storico situato in una vivace area strategica di Santiago. Un'istituzione culturale di rilievo che custodisce importanti collezioni storiche, reperti d'epoca ed esposizioni tematiche curatissime. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4524,
+            "longitudine": -70.6607
+          }
+        },
+        {
+          "nome": "Parco Naturale di Santiago (Sito 32)",
+          "descrizione_estesa": "Splendido parco naturale situato in una vivace area strategica di Santiago. Un'ampia area protetta o spazio verde urbano dove rilassarsi, fare sport e godersi il paesaggio naturale circostante. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4445,
+            "longitudine": -70.684
+          }
+        },
+        {
+          "nome": "Quartiere Caratteristico di Santiago (Sito 33)",
+          "descrizione_estesa": "Splendido quartiere caratteristico situato in una vivace area strategica di Santiago. Una zona cittadina celebre per la sua atmosfera autentica, le vie animate, la storia locale e l'architettura tipica. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4349,
+            "longitudine": -70.6639
+          }
+        },
+        {
+          "nome": "Residenza Storica di Santiago (Sito 34)",
+          "descrizione_estesa": "Splendido residenza storica situato in una vivace area strategica di Santiago. Un imponente edificio d'epoca, un tempo dimora di importanti personalità locali, ricco di splendidi dettagli architettonici. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4349,
+            "longitudine": -70.6786
+          }
+        },
+        {
+          "nome": "Terrazza Panoramica di Santiago (Sito 35)",
+          "descrizione_estesa": "Splendido terrazza panoramica situato in una vivace area strategica di Santiago. Un eccezionale punto di osservazione sopraelevato che regala una vista mozzafiato e indimenticabile sull'intero panorama metropolitano. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4444,
+            "longitudine": -70.6696
+          }
+        },
+        {
+          "nome": "Mercato Locale di Santiago (Sito 36)",
+          "descrizione_estesa": "Splendido mercato locale situato in una vivace area strategica di Santiago. Un brulicante centro di commercio cittadino ricco di colori, profumi e bancarelle con prodotti tipici della tradizione locale. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.441,
+            "longitudine": -70.6826
+          }
+        },
+        {
+          "nome": "Edificio di Culto di Santiago (Sito 37)",
+          "descrizione_estesa": "Splendido edificio di culto situato in una vivace area strategica di Santiago. Un importante monumento religioso dall'alto valore artistico, spirituale e storico, meta fondamentale per i visitatori. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4398,
+            "longitudine": -70.6585
+          }
+        },
+        {
+          "nome": "Teatro e Polo Culturale di Santiago (Sito 38)",
+          "descrizione_estesa": "Splendido teatro e polo culturale situato in una vivace area strategica di Santiago. Uno spazio storico o moderno dedicato alle arti sceniche, ai concerti e alle più importanti manifestazioni cittadine. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4359,
+            "longitudine": -70.6668
+          }
+        },
+        {
+          "nome": "Giardino e Oasi Verde di Santiago (Sito 39)",
+          "descrizione_estesa": "Splendido giardino e oasi verde situato in una vivace area strategica di Santiago. Un angolo di pace botanico sapientemente curato, perfetto per scoprire varietà floreali uniche e rilassarsi nel verde. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.45,
+            "longitudine": -70.6792
+          }
+        },
+        {
+          "nome": "Piazza Principale di Santiago (Sito 40)",
+          "descrizione_estesa": "Splendido piazza principale situato in una vivace area strategica di Santiago. Il fulcro della vita cittadina, circondato da monumenti insigni, palazzi di rilievo e storici luoghi di ritrovo pedonali. Molto frequentato sia dai residenti che dai turisti.",
+          "coordinate": {
+            "latitudine": -33.4475,
+            "longitudine": -70.6673
+          }
+        }
+      ]
+    }
+  ]
+}
