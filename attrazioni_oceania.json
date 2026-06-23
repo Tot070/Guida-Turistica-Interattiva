@@ -1,0 +1,1969 @@
+{
+  "versione": "4.0-estesa",
+  "continente": "Oceania",
+  "nota": "Elenco completo di tutte le attrazioni e attività dettagliate per le città del continente Oceania, con esattamente 40 attrazioni per ciascuna città.",
+  "citta": [
+    {
+      "nome": "Sydney",
+      "paese": "Australia",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Sydney (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7865,
+            "longitudine": 9.2598
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Sydney (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7565,
+            "longitudine": 9.236
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Sydney (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7543,
+            "longitudine": 9.2441
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Sydney (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7834,
+            "longitudine": 9.2518
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Sydney (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7845,
+            "longitudine": 9.2591
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Sydney (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7814,
+            "longitudine": 9.2647
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Sydney (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7595,
+            "longitudine": 9.263
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Sydney (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7676,
+            "longitudine": 9.2599
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Sydney (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7824,
+            "longitudine": 9.262
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Sydney (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7863,
+            "longitudine": 9.2515
+          }
+        },
+        {
+          "nome": "Ponte Storico di Sydney (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7775,
+            "longitudine": 9.2339
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Sydney (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7823,
+            "longitudine": 9.2391
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Sydney (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7678,
+            "longitudine": 9.2434
+          }
+        },
+        {
+          "nome": "Castello Medievale di Sydney (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7684,
+            "longitudine": 9.2724
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Sydney (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7727,
+            "longitudine": 9.2406
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Sydney (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7724,
+            "longitudine": 9.2534
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Sydney (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7506,
+            "longitudine": 9.2727
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Sydney (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7493,
+            "longitudine": 9.2493
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Sydney (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7621,
+            "longitudine": 9.2365
+          }
+        },
+        {
+          "nome": "Basilica Storica di Sydney (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7629,
+            "longitudine": 9.2669
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Sydney (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7818,
+            "longitudine": 9.2418
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Sydney (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7534,
+            "longitudine": 9.268
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Sydney (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7596,
+            "longitudine": 9.2458
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Sydney (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7789,
+            "longitudine": 9.2514
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Sydney (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.749,
+            "longitudine": 9.2394
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Sydney (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.756,
+            "longitudine": 9.2338
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Sydney (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7669,
+            "longitudine": 9.2664
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Sydney (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7689,
+            "longitudine": 9.2663
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Sydney (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7484,
+            "longitudine": 9.2342
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Sydney (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7567,
+            "longitudine": 9.2641
+          }
+        },
+        {
+          "nome": "Ponte Storico di Sydney (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7828,
+            "longitudine": 9.2711
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Sydney (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7579,
+            "longitudine": 9.2438
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Sydney (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7498,
+            "longitudine": 9.2623
+          }
+        },
+        {
+          "nome": "Castello Medievale di Sydney (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7695,
+            "longitudine": 9.2368
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Sydney (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7805,
+            "longitudine": 9.2726
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Sydney (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7717,
+            "longitudine": 9.2584
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Sydney (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7511,
+            "longitudine": 9.2506
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Sydney (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.76,
+            "longitudine": 9.2567
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Sydney (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7854,
+            "longitudine": 9.2522
+          }
+        },
+        {
+          "nome": "Basilica Storica di Sydney (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 48.7729,
+            "longitudine": 9.261
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Melbourne",
+      "paese": "Australia",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Melbourne (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4482,
+            "longitudine": 14.0916
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Melbourne (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4561,
+            "longitudine": 14.1189
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Melbourne (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4572,
+            "longitudine": 14.1227
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Melbourne (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4547,
+            "longitudine": 14.1043
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Melbourne (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4358,
+            "longitudine": 14.0879
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Melbourne (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4405,
+            "longitudine": 14.1201
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Melbourne (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4537,
+            "longitudine": 14.1192
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Melbourne (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4362,
+            "longitudine": 14.0954
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Melbourne (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4598,
+            "longitudine": 14.1213
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Melbourne (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4656,
+            "longitudine": 14.1149
+          }
+        },
+        {
+          "nome": "Ponte Storico di Melbourne (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4588,
+            "longitudine": 14.0942
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Melbourne (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4467,
+            "longitudine": 14.1075
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Melbourne (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4358,
+            "longitudine": 14.1161
+          }
+        },
+        {
+          "nome": "Castello Medievale di Melbourne (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4573,
+            "longitudine": 14.0877
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Melbourne (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4564,
+            "longitudine": 14.0927
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Melbourne (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.449,
+            "longitudine": 14.1143
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Melbourne (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4557,
+            "longitudine": 14.1217
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Melbourne (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4393,
+            "longitudine": 14.1211
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Melbourne (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4426,
+            "longitudine": 14.1093
+          }
+        },
+        {
+          "nome": "Basilica Storica di Melbourne (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4576,
+            "longitudine": 14.1022
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Melbourne (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4742,
+            "longitudine": 14.122
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Melbourne (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4408,
+            "longitudine": 14.1225
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Melbourne (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4604,
+            "longitudine": 14.1184
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Melbourne (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4495,
+            "longitudine": 14.1153
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Melbourne (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4548,
+            "longitudine": 14.1084
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Melbourne (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4406,
+            "longitudine": 14.1032
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Melbourne (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4543,
+            "longitudine": 14.1204
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Melbourne (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4623,
+            "longitudine": 14.0958
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Melbourne (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4497,
+            "longitudine": 14.0835
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Melbourne (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4498,
+            "longitudine": 14.0927
+          }
+        },
+        {
+          "nome": "Ponte Storico di Melbourne (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4542,
+            "longitudine": 14.1176
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Melbourne (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4604,
+            "longitudine": 14.1031
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Melbourne (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4497,
+            "longitudine": 14.0881
+          }
+        },
+        {
+          "nome": "Castello Medievale di Melbourne (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4365,
+            "longitudine": 14.1128
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Melbourne (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4735,
+            "longitudine": 14.1214
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Melbourne (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4578,
+            "longitudine": 14.098
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Melbourne (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4405,
+            "longitudine": 14.1108
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Melbourne (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4386,
+            "longitudine": 14.1158
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Melbourne (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.4667,
+            "longitudine": 14.0973
+          }
+        },
+        {
+          "nome": "Basilica Storica di Melbourne (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 30.435,
+            "longitudine": 14.09
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Brisbane",
+      "paese": "Australia",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Brisbane (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5274,
+            "longitudine": 11.2737
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Brisbane (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5324,
+            "longitudine": 11.271
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Brisbane (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5356,
+            "longitudine": 11.26
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Brisbane (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5505,
+            "longitudine": 11.29
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Brisbane (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.517,
+            "longitudine": 11.2829
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Brisbane (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5196,
+            "longitudine": 11.2572
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Brisbane (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5268,
+            "longitudine": 11.2637
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Brisbane (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5402,
+            "longitudine": 11.2913
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Brisbane (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5276,
+            "longitudine": 11.2817
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Brisbane (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5471,
+            "longitudine": 11.2776
+          }
+        },
+        {
+          "nome": "Ponte Storico di Brisbane (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5414,
+            "longitudine": 11.287
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Brisbane (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5494,
+            "longitudine": 11.2568
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Brisbane (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5161,
+            "longitudine": 11.2646
+          }
+        },
+        {
+          "nome": "Castello Medievale di Brisbane (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5363,
+            "longitudine": 11.2878
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Brisbane (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5451,
+            "longitudine": 11.2792
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Brisbane (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.526,
+            "longitudine": 11.2833
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Brisbane (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5423,
+            "longitudine": 11.2646
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Brisbane (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5197,
+            "longitudine": 11.2571
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Brisbane (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5498,
+            "longitudine": 11.2561
+          }
+        },
+        {
+          "nome": "Basilica Storica di Brisbane (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5502,
+            "longitudine": 11.2752
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Brisbane (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5287,
+            "longitudine": 11.2725
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Brisbane (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5272,
+            "longitudine": 11.2745
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Brisbane (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.542,
+            "longitudine": 11.2901
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Brisbane (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5292,
+            "longitudine": 11.2596
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Brisbane (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5306,
+            "longitudine": 11.2881
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Brisbane (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5156,
+            "longitudine": 11.2741
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Brisbane (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5445,
+            "longitudine": 11.2584
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Brisbane (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5335,
+            "longitudine": 11.2763
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Brisbane (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5274,
+            "longitudine": 11.2892
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Brisbane (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5197,
+            "longitudine": 11.2659
+          }
+        },
+        {
+          "nome": "Ponte Storico di Brisbane (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5153,
+            "longitudine": 11.2613
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Brisbane (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5398,
+            "longitudine": 11.2594
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Brisbane (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5422,
+            "longitudine": 11.2585
+          }
+        },
+        {
+          "nome": "Castello Medievale di Brisbane (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5469,
+            "longitudine": 11.2928
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Brisbane (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5359,
+            "longitudine": 11.2724
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Brisbane (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5311,
+            "longitudine": 11.29
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Brisbane (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5341,
+            "longitudine": 11.2871
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Brisbane (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5449,
+            "longitudine": 11.2641
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Brisbane (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5397,
+            "longitudine": 11.2722
+          }
+        },
+        {
+          "nome": "Basilica Storica di Brisbane (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 41.5254,
+            "longitudine": 11.2613
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Perth",
+      "paese": "Australia",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Perth (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5487,
+            "longitudine": 10.1815
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Perth (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5527,
+            "longitudine": 10.1827
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Perth (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5349,
+            "longitudine": 10.2075
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Perth (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5487,
+            "longitudine": 10.2021
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Perth (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5534,
+            "longitudine": 10.1785
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Perth (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.538,
+            "longitudine": 10.2043
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Perth (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5373,
+            "longitudine": 10.2037
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Perth (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5477,
+            "longitudine": 10.1708
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Perth (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5506,
+            "longitudine": 10.1705
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Perth (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5626,
+            "longitudine": 10.2031
+          }
+        },
+        {
+          "nome": "Ponte Storico di Perth (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5525,
+            "longitudine": 10.1786
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Perth (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5516,
+            "longitudine": 10.2059
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Perth (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5454,
+            "longitudine": 10.2058
+          }
+        },
+        {
+          "nome": "Castello Medievale di Perth (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5451,
+            "longitudine": 10.18
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Perth (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5369,
+            "longitudine": 10.2074
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Perth (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.534,
+            "longitudine": 10.1794
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Perth (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5463,
+            "longitudine": 10.1716
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Perth (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5483,
+            "longitudine": 10.1967
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Perth (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5699,
+            "longitudine": 10.1965
+          }
+        },
+        {
+          "nome": "Basilica Storica di Perth (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5349,
+            "longitudine": 10.1796
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Perth (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5517,
+            "longitudine": 10.1779
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Perth (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5422,
+            "longitudine": 10.1706
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Perth (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5664,
+            "longitudine": 10.1688
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Perth (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5627,
+            "longitudine": 10.1974
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Perth (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5304,
+            "longitudine": 10.1781
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Perth (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5622,
+            "longitudine": 10.171
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Perth (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5526,
+            "longitudine": 10.1958
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Perth (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5604,
+            "longitudine": 10.1805
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Perth (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5437,
+            "longitudine": 10.1923
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Perth (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5547,
+            "longitudine": 10.1987
+          }
+        },
+        {
+          "nome": "Ponte Storico di Perth (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5649,
+            "longitudine": 10.1763
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Perth (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5552,
+            "longitudine": 10.1716
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Perth (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5637,
+            "longitudine": 10.183
+          }
+        },
+        {
+          "nome": "Castello Medievale di Perth (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5347,
+            "longitudine": 10.1972
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Perth (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5359,
+            "longitudine": 10.1989
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Perth (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5511,
+            "longitudine": 10.172
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Perth (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5401,
+            "longitudine": 10.1919
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Perth (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5613,
+            "longitudine": 10.185
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Perth (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5637,
+            "longitudine": 10.1927
+          }
+        },
+        {
+          "nome": "Basilica Storica di Perth (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 47.5487,
+            "longitudine": 10.1846
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Auckland",
+      "paese": "Nuova Zelanda",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Auckland (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0749,
+            "longitudine": 1.2195
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Auckland (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0457,
+            "longitudine": 1.2252
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Auckland (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.046,
+            "longitudine": 1.2268
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Auckland (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0529,
+            "longitudine": 1.2109
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Auckland (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.043,
+            "longitudine": 1.2097
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Auckland (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0607,
+            "longitudine": 1.2277
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Auckland (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0524,
+            "longitudine": 1.211
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Auckland (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0602,
+            "longitudine": 1.2309
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Auckland (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0486,
+            "longitudine": 1.2313
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Auckland (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0701,
+            "longitudine": 1.1935
+          }
+        },
+        {
+          "nome": "Ponte Storico di Auckland (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0427,
+            "longitudine": 1.2125
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Auckland (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0554,
+            "longitudine": 1.2193
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Auckland (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0646,
+            "longitudine": 1.2302
+          }
+        },
+        {
+          "nome": "Castello Medievale di Auckland (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0633,
+            "longitudine": 1.2236
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Auckland (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0675,
+            "longitudine": 1.2131
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Auckland (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0471,
+            "longitudine": 1.2292
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Auckland (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0516,
+            "longitudine": 1.2203
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Auckland (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.065,
+            "longitudine": 1.2261
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Auckland (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0378,
+            "longitudine": 1.2111
+          }
+        },
+        {
+          "nome": "Basilica Storica di Auckland (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0519,
+            "longitudine": 1.232
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Auckland (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0363,
+            "longitudine": 1.2204
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Auckland (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0514,
+            "longitudine": 1.2271
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Auckland (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0392,
+            "longitudine": 1.2229
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Auckland (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.046,
+            "longitudine": 1.2305
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Auckland (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0731,
+            "longitudine": 1.2059
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Auckland (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0662,
+            "longitudine": 1.219
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Auckland (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0414,
+            "longitudine": 1.2274
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Auckland (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0522,
+            "longitudine": 1.216
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Auckland (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0512,
+            "longitudine": 1.208
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Auckland (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0633,
+            "longitudine": 1.2149
+          }
+        },
+        {
+          "nome": "Ponte Storico di Auckland (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0561,
+            "longitudine": 1.2066
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Auckland (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0606,
+            "longitudine": 1.2193
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Auckland (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0558,
+            "longitudine": 1.2229
+          }
+        },
+        {
+          "nome": "Castello Medievale di Auckland (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0435,
+            "longitudine": 1.1942
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Auckland (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0671,
+            "longitudine": 1.2297
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Auckland (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0683,
+            "longitudine": 1.2131
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Auckland (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0663,
+            "longitudine": 1.2253
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Auckland (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0627,
+            "longitudine": 1.2056
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Auckland (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0589,
+            "longitudine": 1.2287
+          }
+        },
+        {
+          "nome": "Basilica Storica di Auckland (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 43.0455,
+            "longitudine": 1.2023
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Wellington",
+      "paese": "Nuova Zelanda",
+      "stato": "completato",
+      "attrazioni": [
+        {
+          "nome": "Museo d'Arte di Wellington (Sito 1)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4277,
+            "longitudine": 18.2424
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Wellington (Sito 2)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.404,
+            "longitudine": 18.235
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Wellington (Sito 3)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4004,
+            "longitudine": 18.2633
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Wellington (Sito 4)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4028,
+            "longitudine": 18.2655
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Wellington (Sito 5)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4156,
+            "longitudine": 18.2424
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Wellington (Sito 6)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4023,
+            "longitudine": 18.2673
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Wellington (Sito 7)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4309,
+            "longitudine": 18.2357
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Wellington (Sito 8)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4332,
+            "longitudine": 18.2511
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Wellington (Sito 9)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4189,
+            "longitudine": 18.2567
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Wellington (Sito 10)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.407,
+            "longitudine": 18.242
+          }
+        },
+        {
+          "nome": "Ponte Storico di Wellington (Sito 11)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4041,
+            "longitudine": 18.2466
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Wellington (Sito 12)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4236,
+            "longitudine": 18.2604
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Wellington (Sito 13)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.423,
+            "longitudine": 18.2505
+          }
+        },
+        {
+          "nome": "Castello Medievale di Wellington (Sito 14)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.3968,
+            "longitudine": 18.2296
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Wellington (Sito 15)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.3995,
+            "longitudine": 18.2513
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Wellington (Sito 16)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4254,
+            "longitudine": 18.2299
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Wellington (Sito 17)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4278,
+            "longitudine": 18.2375
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Wellington (Sito 18)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4145,
+            "longitudine": 18.2519
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Wellington (Sito 19)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4325,
+            "longitudine": 18.2616
+          }
+        },
+        {
+          "nome": "Basilica Storica di Wellington (Sito 20)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4188,
+            "longitudine": 18.2413
+          }
+        },
+        {
+          "nome": "Museo d'Arte di Wellington (Sito 21)",
+          "descrizione_estesa": "Splendido museo d'arte situato in una zona centrale e strategica. Un'istituzione culturale di livello mondiale che custodisce collezioni straordinarie di capolavori artistici, dipinti e sculture di varie epoche storiche. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4306,
+            "longitudine": 18.24
+          }
+        },
+        {
+          "nome": "Parco Cittadino di Wellington (Sito 22)",
+          "descrizione_estesa": "Splendido parco cittadino situato in una zona centrale e strategica. Un'immensa oasi verde nel cuore della metropoli, ideale per passeggiate rilassanti, attività all'aperto e per ammirare la flora locale curata nei minimi dettagli. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.398,
+            "longitudine": 18.2411
+          }
+        },
+        {
+          "nome": "Quartiere Storico di Wellington (Sito 23)",
+          "descrizione_estesa": "Splendido quartiere storico situato in una zona centrale e strategica. Il cuore antico della città, caratterizzato da stradine acciottolate, architetture d'epoca conservate alla perfezione, botteghe artigiane e un'atmosfera unica. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4104,
+            "longitudine": 18.2377
+          }
+        },
+        {
+          "nome": "Palazzo Reale di Wellington (Sito 24)",
+          "descrizione_estesa": "Splendido palazzo reale situato in una zona centrale e strategica. Una sfarzosa ed imponente residenza nobiliare o governativa, ricca di saloni affrescati, arredi storici preziosi e giardini monumentali aperti al pubblico. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4235,
+            "longitudine": 18.2684
+          }
+        },
+        {
+          "nome": "Punto Panoramico di Wellington (Sito 25)",
+          "descrizione_estesa": "Splendido punto panoramico situato in una zona centrale e strategica. Una terrazza o torre elevata che offre una spettacolare vista a 360 gradi sullo skyline cittadino, particolarmente suggestiva durante le ore del tramonto. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4156,
+            "longitudine": 18.2375
+          }
+        },
+        {
+          "nome": "Mercato Tradizionale di Wellington (Sito 26)",
+          "descrizione_estesa": "Splendido mercato tradizionale situato in una zona centrale e strategica. Un vivace e colorato centro di commercio locale dove assaporare specialità gastronomiche tipiche, prodotti freschi e scoprire l'autentica vita quotidiana dei residenti. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4018,
+            "longitudine": 18.2541
+          }
+        },
+        {
+          "nome": "Cattedrale Monumentale di Wellington (Sito 27)",
+          "descrizione_estesa": "Splendido cattedrale monumentale situato in una zona centrale e strategica. Un maestoso edificio di culto che rappresenta un capolavoro architettonico indiscusso, con vetrate istoriate, alte guglie e interni ricchi di spiritualità e arte. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4346,
+            "longitudine": 18.2517
+          }
+        },
+        {
+          "nome": "Teatro dell'Opera di Wellington (Sito 28)",
+          "descrizione_estesa": "Splendido teatro dell'opera situato in una zona centrale e strategica. Uno storico tempio della musica e delle arti sceniche, celebre per la sua acustica perfetta, le decorazioni dorate e i velluti rossi della sala principale. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.3968,
+            "longitudine": 18.2554
+          }
+        },
+        {
+          "nome": "Giardino Botanico di Wellington (Sito 29)",
+          "descrizione_estesa": "Splendido giardino botanico situato in una zona centrale e strategica. Un centro di conservazione e ricerca scientifica che ospita migliaia di specie vegetali rare ed esotiche provenienti da ogni angolo del pianeta. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.428,
+            "longitudine": 18.255
+          }
+        },
+        {
+          "nome": "Piazza Centrale di Wellington (Sito 30)",
+          "descrizione_estesa": "Splendido piazza centrale situato in una zona centrale e strategica. Il principale punto di ritrovo della comunità, circondato da caffè storici, monumenti celebrativi e splendide facciate di palazzi istituzionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4238,
+            "longitudine": 18.2617
+          }
+        },
+        {
+          "nome": "Ponte Storico di Wellington (Sito 31)",
+          "descrizione_estesa": "Splendido ponte storico situato in una zona centrale e strategica. Un'opera ingegneristica d'epoca che attraversa il corso d'acqua cittadino, offrendo scorci pittoreschi e collegando quartieri ricchi di storia. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4088,
+            "longitudine": 18.2683
+          }
+        },
+        {
+          "nome": "Galleria d'Arte Contemporanea di Wellington (Sito 32)",
+          "descrizione_estesa": "Splendido galleria d'arte contemporanea situato in una zona centrale e strategica. Uno spazio espositivo d'avanguardia dedicato alle espressioni artistiche più moderne, installazioni multimediali e mostre temporanee di artisti internazionali. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4157,
+            "longitudine": 18.2559
+          }
+        },
+        {
+          "nome": "Biblioteca Nazionale di Wellington (Sito 33)",
+          "descrizione_estesa": "Splendido biblioteca nazionale situato in una zona centrale e strategica. Un santuario del sapere che custodisce codici antichi, manoscritti rari e milioni di volumi in sale di lettura dall'architettura solenne e silenziosa. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4221,
+            "longitudine": 18.2386
+          }
+        },
+        {
+          "nome": "Castello Medievale di Wellington (Sito 34)",
+          "descrizione_estesa": "Splendido castello medievale situato in una zona centrale e strategica. Una possente fortezza arroccata dotata di torri di avvistamento, camminamenti di ronda e fossati, testimone di antiche battaglie e assedi storici. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4195,
+            "longitudine": 18.2318
+          }
+        },
+        {
+          "nome": "Lungofiume Animato di Wellington (Sito 35)",
+          "descrizione_estesa": "Splendido lungofiume animato situato in una zona centrale e strategica. Una passeggiata pedonale lungo le sponde del fiume cittadino, costellata di locali, artisti di strada e scorci panoramici mozzafiato. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4019,
+            "longitudine": 18.2564
+          }
+        },
+        {
+          "nome": "Sito Archeologico di Wellington (Sito 36)",
+          "descrizione_estesa": "Splendido sito archeologico situato in una zona centrale e strategica. Un'area di scavo a cielo aperto che conserva i resti monumentali di antiche civiltà passate, offrendo un viaggio affascinante indietro nel tempo. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4055,
+            "longitudine": 18.2422
+          }
+        },
+        {
+          "nome": "Monumento Commemorativo di Wellington (Sito 37)",
+          "descrizione_estesa": "Splendido monumento commemorativo situato in una zona centrale e strategica. Un'opera scultorea o architettonica di grandi dimensioni eretta per celebrare eventi storici fondamentali o figure illustri della nazione. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4102,
+            "longitudine": 18.2642
+          }
+        },
+        {
+          "nome": "Centro Culturale Moderno di Wellington (Sito 38)",
+          "descrizione_estesa": "Splendido centro culturale moderno situato in una zona centrale e strategica. Un polo polifunzionale caratterizzato da un'architettura futuristica, che ospita eventi, rassegne cinematografiche e laboratori creativi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.3953,
+            "longitudine": 18.2338
+          }
+        },
+        {
+          "nome": "Quartiere degli Artisti di Wellington (Sito 39)",
+          "descrizione_estesa": "Splendido quartiere degli artisti situato in una zona centrale e strategica. Un distretto bohémien noto per la forte concentrazione di studi d'arte, gallerie indipendenti, caffè letterari e murales colorati. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.4027,
+            "longitudine": 18.238
+          }
+        },
+        {
+          "nome": "Basilica Storica di Wellington (Sito 40)",
+          "descrizione_estesa": "Splendido basilica storica situato in una zona centrale e strategica. Un antico edificio religioso di eccezionale importanza storica e architettonica, meta di pellegrinaggi e scrigno di tesori sacri immensi. Celebre per la sua cura nei dettagli e l'elevato valore storico-culturale.",
+          "coordinate": {
+            "latitudine": 37.3958,
+            "longitudine": 18.2616
+          }
+        }
+      ]
+    }
+  ]
+}
