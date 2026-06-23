@@ -1,0 +1,162 @@
+/* ═══════════════════════════════════════════════════════════════════
+   SmartTour · responsive.css
+   Breakpoints: mobile (<640), tablet (640-1024), desktop (>1024)
+   Approccio: mobile-first — stili base = mobile, poi si allarga
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* ── Mobile base (<640px) già coperta da style.css ────────────────── */
+
+/* ── Tablet (≥640px) ────────────────────────────────────────────────── */
+@media (min-width: 640px) {
+
+  /* Header: tutto su una riga */
+  .header-inner {
+    gap: var(--sp-5);
+  }
+
+  /* Controls a una riga */
+  .controls-panel {
+    flex-wrap: nowrap;
+  }
+
+  /* Griglia POI: 2 colonne fisse */
+  .poi-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* AI panel: larghezza completa su tablet */
+  .ai-panel {
+    width: min(var(--ai-w), 100vw);
+  }
+}
+
+/* ── Desktop (≥1024px) ─────────────────────────────────────────────── */
+@media (min-width: 1024px) {
+
+  /* Griglia POI: 3 colonne */
+  .poi-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  /* Con AI panel aperto: main si restringe */
+  body.ai-open .app-main {
+    padding-right: calc(var(--ai-w) + var(--sp-6));
+    transition: padding-right var(--tr-slow);
+  }
+
+  body.ai-open .controls-panel {
+    transition: none;
+  }
+}
+
+/* ── Large desktop (≥1280px) ───────────────────────────────────────── */
+@media (min-width: 1280px) {
+  .poi-grid {
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  }
+}
+
+/* ── Mobile stretto (<480px) ──────────────────────────────────────── */
+@media (max-width: 479px) {
+
+  :root {
+    --header-h: 56px;
+  }
+
+  .header-inner {
+    padding: 0 var(--sp-3);
+    gap:     var(--sp-2);
+  }
+
+  .brand-name { font-size: var(--fs-base); }
+  .brand-version { display: none; }
+
+  /* Nav: solo continente/città impilati */
+  .destination-nav {
+    flex-direction: column;
+    flex: 1;
+    gap: var(--sp-1);
+  }
+
+  .destination-nav select {
+    font-size: var(--fs-xs);
+    padding:   var(--sp-1) var(--sp-2);
+    padding-right: var(--sp-6);
+  }
+
+  .btn-ai-toggle span + span { display: none; }
+  .btn-ai-toggle {
+    padding:    var(--sp-2);
+    min-width:  36px;
+    justify-content: center;
+  }
+
+  /* Controls impilate */
+  .controls-panel {
+    flex-direction: column;
+    align-items:    stretch;
+  }
+
+  .control-group { min-width: unset; }
+
+  .control-group input[type="number"] { width: 100%; }
+
+  .control-actions {
+    margin-left: 0;
+    flex-direction: row;
+  }
+
+  .btn-primary, .btn-secondary {
+    flex: 1;
+    justify-content: center;
+  }
+
+  /* City info stacked */
+  .city-info-inner {
+    flex-direction: column;
+  }
+
+  /* POI: colonna singola */
+  .poi-grid {
+    grid-template-columns: 1fr;
+  }
+
+  /* AI panel fullscreen */
+  .ai-panel {
+    width:  100vw;
+    left:   0;
+    right:  0;
+  }
+
+  /* Modal fullscreen */
+  .modal-box {
+    max-height: 100dvh;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+  }
+
+  .modal-overlay {
+    align-items: flex-end;
+    padding: 0;
+  }
+}
+
+/* ── Preferenza reduced motion ─────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration:   0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration:  0.01ms !important;
+    scroll-behavior:      auto !important;
+  }
+}
+
+/* ── Dark mode (preparazione futura V2) ──────────────────────────── */
+@media (prefers-color-scheme: dark) {
+  /* Placeholder — dark mode sarà implementata con Node.js
+     che servirà il tema dal server e lo salverà in sessione */
+}
