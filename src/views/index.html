@@ -64,7 +64,12 @@
         Assistente AI
       </button>
 
-      
+      <div class="account-menu-wrap" id="accountMenuWrapper">
+        <button class="btn-header-account" id="accountToggle" type="button" aria-expanded="false" aria-controls="accountMenu">
+          Accedi
+        </button>
+        <div class="account-menu" id="accountMenu" hidden></div>
+      </div>
 
     </div>
   </header>
@@ -102,6 +107,18 @@
         </button>
       </div>
     </div>
+
+    <section class="offers-section" aria-label="Offerte speciali">
+      <div class="section-head">
+        <div>
+          <h2>Offerte speciali</h2>
+          <p>Le proposte cambiano ogni 24 ore e restano salvate nel tuo account.</p>
+        </div>
+      </div>
+      <div class="offers-list" id="offersList"></div>
+    </section>
+
+    <section class="account-panel" id="accountPanel" aria-label="Account"></section>
 
     <!-- Intestazione città (appare dopo la selezione) -->
     <section class="city-header" id="cityHeader" aria-live="polite" hidden>

@@ -20,18 +20,23 @@
   </header>
 
   <main class="main">
-    <section style="padding:28px;">
-      <h1>Viaggi in offerta</h1>
-      <p>Qui saranno elencate le offerte speciali. Questa pagina è fornita come punto di partenza per future integrazioni.</p>
-      <p>
-        <a href="/" class="btn-outline">Torna alla mappa</a>
-      </p>
-
-      <div class="offers-list" aria-live="polite">
-        <!-- Placeholder per offerte dinamiche -->
+    <section class="offers-section offers-section--page" aria-label="Offerte speciali">
+      <div class="section-head">
+        <div>
+          <h1>Viaggi in offerta</h1>
+          <p>Le offerte cambiano ogni 24 ore e possono essere prenotate direttamente dal tuo account.</p>
+        </div>
       </div>
+      <div class="offers-list" id="offersList" aria-live="polite"></div>
     </section>
+
+    <section class="account-panel" id="accountPanel" aria-label="Account"></section>
   </main>
+
+  <script src="/javascript/config.js" defer></script>
+  <script src="/javascript/security.js" defer></script>
+  <script src="/javascript/app.js" defer></script>
+  <script src="/javascript/main.js" defer></script>
 
 </body>
 </html>

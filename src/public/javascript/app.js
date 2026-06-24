@@ -23,6 +23,8 @@ const App = (() => {
     activeFilter: 'all',  // filtro categoria corrente
     routeActive:  false,  // se è attivo un itinerario generato
     isLoading:    false,
+    searchTerm:   '',     // termine di ricerca corrente
+    basePool:     [],     // pool di partenza per la ricerca
   };
 
   /* ── Getter read-only dello stato (i moduli esterni non mutano state) */
@@ -134,11 +136,15 @@ const App = (() => {
     _state.city         = _state.continent.citta.find(c => c.id === id) ?? null;
     _state.activeFilter = 'all';
     _state.routeActive  = false;
+    _state.searchTerm   = '';
+    _state.basePool     = _state.city?.poi ?? [];
 
     if (!_state.city) return;
 
-    document.getElementById('categoryFilter').value = 'all';
-    document.getElementById('timeInput').value      = Config.DEFAULT_HOURS;
+    const categoryFilter = document.getElementById('categoryFilter');
+    const timeInput = document.getElementById('timeInput');
+    if (categoryFilter) categoryFilter.value = 'all';
+    if (timeInput) timeInput.value = Config.DEFAULT_HOURS;
 
     _renderCityInfo();
     _setVisible(_state.city.poi);
@@ -149,8 +155,8 @@ const App = (() => {
 
   function _renderCityInfo() {
     const c       = _state.city;
-    const section = document.getElementById('cityInfo');
-    section.hidden = false;
+    const section = document.getElementById('cityInfo') || document.getElementById('cityHeader');
+    if (section) section.hidden = false;
 
     // Uso textContent per sicurezza — dati interni ma good practice
     document.getElementById('cityName').textContent = `${c.nome}, ${c.paese}`;
@@ -175,6 +181,31 @@ const App = (() => {
   function _setVisible(pois) {
     _state.visiblePOIs = Array.isArray(pois) ? pois : [];
     _updateCount();
+  }
+
+  function _matchesSearch(poi, query) {
+    if (!query) return true;
+    const haystack = [poi.nome, poi.categoria, poi.descrizione, poi.citta || '']
+      .join(' ')
+      .toLowerCase();
+    return haystack.includes(query);
+  }
+
+  function searchPOIs(term) {
+    if (!_state.city) return;
+    const query = String(term ?? '').trim().toLowerCase();
+    _state.searchTerm = query;
+
+    const source = Array.isArray(_state.basePool) && _state.basePool.length
+      ? _state.basePool
+      : _state.city.poi;
+
+    const filtered = query
+      ? source.filter(poi => _matchesSearch(poi, query))
+      : [...source];
+
+    _setVisible(filtered);
+    renderPOIs(filtered);
   }
 
   function _updateCount(label) {
@@ -277,12 +308,18 @@ const App = (() => {
     _state.activeFilter = category;
     _state.routeActive  = false;
 
-    const filtered = category === 'all'
+    const base = category === 'all'
       ? _state.city.poi
       : _state.city.poi.filter(p => p.categoria === category);
 
+    _state.basePool = base;
+    const query = _state.searchTerm.trim().toLowerCase();
+    const filtered = query
+      ? base.filter(poi => _matchesSearch(poi, query))
+      : base;
+
     _setVisible(filtered);
-    renderPOIs(_state.visiblePOIs);
+    renderPOIs(filtered);
   }
 
   /* ══ Generazione itinerario ═══════════════════════════════════════ */
@@ -321,8 +358,13 @@ const App = (() => {
 
     // Marca le card nell'itinerario
     _state.routeActive = true;
-    _setVisible(route);
-    renderPOIs(route);
+    _state.basePool = route;
+    const query = _state.searchTerm.trim().toLowerCase();
+    const filteredRoute = query
+      ? route.filter(poi => _matchesSearch(poi, query))
+      : route;
+    _setVisible(filteredRoute);
+    renderPOIs(filteredRoute);
 
     // Aggiunge classe visiva in-route (dopo il render)
     document.querySelectorAll('.poi-card').forEach(card => {
@@ -389,8 +431,12 @@ const App = (() => {
     if (!_state.city) return;
     _state.activeFilter = 'all';
     _state.routeActive  = false;
-    document.getElementById('categoryFilter').value = 'all';
-    document.getElementById('timeInput').value      = Config.DEFAULT_HOURS;
+    _state.searchTerm   = '';
+    _state.basePool     = _state.city.poi;
+    const categoryFilter = document.getElementById('categoryFilter');
+    const timeInput = document.getElementById('timeInput');
+    if (categoryFilter) categoryFilter.value = 'all';
+    if (timeInput) timeInput.value = Config.DEFAULT_HOURS;
     _setVisible(_state.city.poi);
     renderPOIs(_state.visiblePOIs);
   }
@@ -403,6 +449,7 @@ const App = (() => {
     loadCity,
     renderPOIs,
     filterPOI,
+    searchPOIs,
     generateRoute,
     showTrivia,
     closeTrivia,

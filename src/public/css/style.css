@@ -285,6 +285,37 @@ input, select, textarea { font-family: inherit; font-size: inherit; }
 .btn-header-ai:hover  { background: var(--gold-lt); }
 .btn-header-ai:active { transform: scale(.97); }
 
+.btn-header-account {
+  padding:       9px 16px;
+  background:    rgba(255,255,255,.12);
+  color:         var(--txt-inv);
+  border:        1px solid rgba(255,255,255,.14);
+  border-radius: var(--r-sm);
+  font-size:     .875rem;
+  font-weight:   600;
+  display:       flex;
+  align-items:   center;
+  gap:           6px;
+  flex-shrink:   0;
+}
+
+.account-menu-wrap {
+  position: relative;
+}
+
+.account-menu {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  width: min(280px, 90vw);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r-lg);
+  box-shadow: var(--sh);
+  padding: 12px;
+  z-index: 120;
+}
+
 /* ═══ MAIN ════════════════════════════════════════════════════════════ */
 .main {
   max-width:  var(--max-w);
@@ -410,6 +441,36 @@ input, select, textarea { font-family: inherit; font-size: inherit; }
 }
 
 .btn-sm { padding: 6px 12px; font-size: .78rem; }
+
+/* ── Offerte e account ───────────────────────────────────────────── */
+.offers-section,
+.account-panel {
+  margin-bottom: 24px;
+}
+
+.section-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.section-head h2,
+.section-head h1 {
+  font-size: 1.2rem;
+  margin-bottom: 4px;
+}
+
+.section-head p {
+  color: var(--txt-muted);
+  font-size: .92rem;
+}
+
+.offers-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
 
 /* ── Intestazione città ───────────────────────────────────────────── */
 .city-header {
