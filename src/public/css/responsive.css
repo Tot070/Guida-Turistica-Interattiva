@@ -1,162 +1,131 @@
 /* ═══════════════════════════════════════════════════════════════════
    SmartTour · responsive.css
-   Breakpoints: mobile (<640), tablet (640-1024), desktop (>1024)
-   Approccio: mobile-first — stili base = mobile, poi si allarga
+   Mobile-first: base = mobile, poi si espande verso desktop
+   Breakpoints: 480 · 640 · 1024 · 1280
    ═══════════════════════════════════════════════════════════════════ */
 
-/* ── Mobile base (<640px) già coperta da style.css ────────────────── */
+/* ── Mobile stretto (<480px) — override ─────────────────────────────── */
+@media (max-width: 479px) {
 
-/* ── Tablet (≥640px) ────────────────────────────────────────────────── */
+  :root { --header-h: 56px; --gutter: 16px; }
+
+  /* Header compatto */
+  .header-inner { gap: 10px; padding: 0 14px; }
+
+  /* Brand: solo il marchio */
+  .brand-sub   { display: none; }
+  .brand-name  { font-size: .9rem; }
+  .brand-mark  { width: 32px; height: 32px; font-size: .72rem; }
+
+  /* Selettori impilati */
+  .dest-nav {
+    flex-direction: column;
+    gap:            4px;
+    flex:           1;
+    max-width:      unset;
+  }
+
+  .dest-sep { display: none; }
+
+  .sel-wrap select {
+    font-size: .8rem;
+    padding:   7px 28px 7px 10px;
+  }
+
+  /* Pulsante AI: solo testo abbreviato */
+  .btn-header-ai { font-size: .78rem; padding: 7px 12px; }
+
+  /* Main */
+  .main { padding: 16px 14px 48px; }
+
+  /* Toolbar impilata */
+  .toolbar {
+    flex-direction: column;
+    align-items:    stretch;
+    gap:            10px;
+  }
+
+  .search-field { max-width: none; }
+
+  .toolbar-right { justify-content: space-between; }
+
+  /* City header compatto */
+  .city-header { padding: 20px 18px; }
+  .city-name   { font-size: 1.3rem; }
+  .city-header-inner { flex-direction: column; gap: 14px; }
+
+  /* Griglia POI: colonna singola */
+  .poi-grid { grid-template-columns: 1fr; }
+
+  /* Modal fullscreen da sotto */
+  .overlay   { padding: 0; align-items: flex-end; }
+  .modal {
+    max-width:     100vw;
+    max-height:    92dvh;
+    border-radius: var(--r-xl) var(--r-xl) 0 0;
+  }
+  .modal-head { padding: 20px 20px 16px; }
+  .modal-body { padding: 18px 20px; }
+  .modal-foot { padding: 14px 20px 20px; }
+
+  /* AI panel fullscreen */
+  .ai-panel { width: 100vw; left: 0; }
+}
+
+/* ── Mobile normale (≥480px) ──────────────────────────────────────── */
+@media (min-width: 480px) {
+  .poi-grid { grid-template-columns: 1fr; }
+}
+
+/* ── Tablet (≥640px) ─────────────────────────────────────────────── */
 @media (min-width: 640px) {
 
-  /* Header: tutto su una riga */
-  .header-inner {
-    gap: var(--sp-5);
-  }
-
-  /* Controls a una riga */
-  .controls-panel {
-    flex-wrap: nowrap;
-  }
-
-  /* Griglia POI: 2 colonne fisse */
   .poi-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  /* AI panel: larghezza completa su tablet */
-  .ai-panel {
-    width: min(var(--ai-w), 100vw);
-  }
+  .toolbar { flex-wrap: nowrap; }
+
+  .city-header-inner { flex-direction: row; }
 }
 
-/* ── Desktop (≥1024px) ─────────────────────────────────────────────── */
+/* ── Desktop (≥1024px) ───────────────────────────────────────────── */
 @media (min-width: 1024px) {
 
-  /* Griglia POI: 3 colonne */
   .poi-grid {
     grid-template-columns: repeat(3, 1fr);
   }
 
   /* Con AI panel aperto: main si restringe */
-  body.ai-open .app-main {
-    padding-right: calc(var(--ai-w) + var(--sp-6));
-    transition: padding-right var(--tr-slow);
-  }
-
-  body.ai-open .controls-panel {
-    transition: none;
+  body.ai-open .main {
+    padding-right: calc(var(--ai-w) + var(--gutter));
+    transition: padding-right var(--slow) var(--ease);
   }
 }
 
-/* ── Large desktop (≥1280px) ───────────────────────────────────────── */
+/* ── Large desktop (≥1280px) ─────────────────────────────────────── */
 @media (min-width: 1280px) {
   .poi-grid {
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
   }
 }
 
-/* ── Mobile stretto (<480px) ──────────────────────────────────────── */
-@media (max-width: 479px) {
-
-  :root {
-    --header-h: 56px;
-  }
-
-  .header-inner {
-    padding: 0 var(--sp-3);
-    gap:     var(--sp-2);
-  }
-
-  .brand-name { font-size: var(--fs-base); }
-  .brand-version { display: none; }
-
-  /* Nav: solo continente/città impilati */
-  .destination-nav {
-    flex-direction: column;
-    flex: 1;
-    gap: var(--sp-1);
-  }
-
-  .destination-nav select {
-    font-size: var(--fs-xs);
-    padding:   var(--sp-1) var(--sp-2);
-    padding-right: var(--sp-6);
-  }
-
-  .btn-ai-toggle span + span { display: none; }
-  .btn-ai-toggle {
-    padding:    var(--sp-2);
-    min-width:  36px;
-    justify-content: center;
-  }
-
-  /* Controls impilate */
-  .controls-panel {
-    flex-direction: column;
-    align-items:    stretch;
-  }
-
-  .control-group { min-width: unset; }
-
-  .control-group input[type="number"] { width: 100%; }
-
-  .control-actions {
-    margin-left: 0;
-    flex-direction: row;
-  }
-
-  .btn-primary, .btn-secondary {
-    flex: 1;
-    justify-content: center;
-  }
-
-  /* City info stacked */
-  .city-info-inner {
-    flex-direction: column;
-  }
-
-  /* POI: colonna singola */
-  .poi-grid {
-    grid-template-columns: 1fr;
-  }
-
-  /* AI panel fullscreen */
-  .ai-panel {
-    width:  100vw;
-    left:   0;
-    right:  0;
-  }
-
-  /* Modal fullscreen */
-  .modal-box {
-    max-height: 100dvh;
-    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: 0;
-  }
-
-  .modal-overlay {
-    align-items: flex-end;
-    padding: 0;
-  }
-}
-
-/* ── Preferenza reduced motion ─────────────────────────────────────── */
+/* ── Reduced motion ──────────────────────────────────────────────── */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
-    animation-duration:   0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration:  0.01ms !important;
-    scroll-behavior:      auto !important;
+    animation-duration:        0.01ms !important;
+    animation-iteration-count: 1      !important;
+    transition-duration:       0.01ms !important;
+    scroll-behavior:           auto   !important;
   }
 }
 
-/* ── Dark mode (preparazione futura V2) ──────────────────────────── */
-@media (prefers-color-scheme: dark) {
-  /* Placeholder — dark mode sarà implementata con Node.js
-     che servirà il tema dal server e lo salverà in sessione */
+/* ── Print ───────────────────────────────────────────────────────── */
+@media print {
+  .header, .toolbar, .ai-panel, .toast-wrap,
+  .overlay, .btn-header-ai { display: none !important; }
+
+  .main { padding: 0; max-width: 100%; }
+  .poi-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .poi-card { break-inside: avoid; box-shadow: none; border: 1px solid #ccc; }
 }
