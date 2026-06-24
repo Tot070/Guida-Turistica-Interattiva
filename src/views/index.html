@@ -23,6 +23,7 @@
   <!-- Percorsi relativi alla root di Express (public/) -->
   <link rel="stylesheet" href="/css/style.css">
   <link rel="stylesheet" href="/css/components.css">
+  <link rel="stylesheet" href="/css/featured-trips.css">
   <link rel="stylesheet" href="/css/responsive.css">
 </head>
 <body>
@@ -40,19 +41,39 @@
         </div>
       </a>
 
-      <!-- Selettori destinazione -->
+      <!-- Menu Hamburger (mobile) -->
+      <button class="menu-toggle" id="menuToggle" aria-label="Apri menu" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <!-- Nav Desktop -->
+      <nav class="nav-desktop" aria-label="Navigazione principale">
+        <a href="/" class="nav-link active">🏠 Home</a>
+        <a href="/viaggi-in-offerta.html" class="nav-link">✈️ Viaggia con Noi</a>
+      </nav>
+
+      <!-- Selettori destinazione (menu ad albero) -->
       <nav class="dest-nav" aria-label="Selezione destinazione">
         <div class="sel-wrap">
           <label for="continentSelect" class="sr-only">Continente</label>
           <select id="continentSelect" aria-label="Seleziona continente">
-            <option value="">Continente</option>
+            <option value="">🌍 Continente</option>
+          </select>
+        </div>
+        <span class="dest-sep" aria-hidden="true"></span>
+        <div class="sel-wrap">
+          <label for="countrySelect" class="sr-only">Stato</label>
+          <select id="countrySelect" disabled aria-label="Seleziona stato">
+            <option value="">🏳️ Stato</option>
           </select>
         </div>
         <span class="dest-sep" aria-hidden="true"></span>
         <div class="sel-wrap">
           <label for="citySelect" class="sr-only">Destinazione</label>
           <select id="citySelect" disabled aria-label="Seleziona destinazione">
-            <option value="">Destinazione</option>
+            <option value="">🏙️ Città</option>
           </select>
         </div>
       </nav>
@@ -108,6 +129,7 @@
       </div>
     </div>
 
+<<<<<<< Updated upstream
     <section class="offers-section" aria-label="Offerte speciali">
       <div class="section-head">
         <div>
@@ -120,6 +142,19 @@
 
     <section class="account-panel" id="accountPanel" aria-label="Account"></section>
 
+=======
+    <!-- Sezione Viaggi in Offerta -->
+    <section class="featured-trips" id="featuredTrips" aria-label="Viaggi in offerta">
+      <div class="featured-trips-head">
+        <h2>✈️ Viaggi in Offerta</h2>
+        <button class="btn-outline btn-sm" id="closeFeatured" aria-label="Chiudi viaggi in offerta">Nascondi</button>
+      </div>
+      <div class="featured-trips-grid" id="featuredTripsGrid" role="list">
+        <!-- Popolato da JavaScript -->
+      </div>
+    </section>
+
+>>>>>>> Stashed changes
     <!-- Intestazione città (appare dopo la selezione) -->
     <section class="city-header" id="cityHeader" aria-live="polite" hidden>
       <div class="city-header-inner">

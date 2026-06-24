@@ -1,0 +1,586 @@
+/* ═══════════════════════════════════════════════════════════════════
+   SmartTour · travel-page.css
+   Stili per la pagina "Viaggia con Noi"
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* ── Menu Hamburger ─────────────────────────────────────────────── */
+.menu-toggle {
+  display:       none;
+  flex-direction: column;
+  gap:           5px;
+  background:    transparent;
+  border:        none;
+  cursor:        pointer;
+  padding:       0;
+}
+
+.menu-toggle span {
+  width:       24px;
+  height:      2px;
+  background:  rgba(255,255,255,.9);
+  border-radius: 1px;
+  transition:  all var(--base) var(--ease);
+}
+
+.menu-toggle[aria-expanded="true"] span:nth-child(1) {
+  transform: rotate(45deg) translateY(9px);
+}
+
+.menu-toggle[aria-expanded="true"] span:nth-child(2) {
+  opacity: 0;
+}
+
+.menu-toggle[aria-expanded="true"] span:nth-child(3) {
+  transform: rotate(-45deg) translateY(-9px);
+}
+
+/* ── Nav Desktop ────────────────────────────────────────────────── */
+.nav-desktop {
+  display:       flex;
+  align-items:   center;
+  gap:           16px;
+  flex:          1;
+  margin-left:   32px;
+}
+
+.nav-link {
+  color:         rgba(255,255,255,.75);
+  padding:       8px 12px;
+  border-radius: var(--r-sm);
+  font-size:     .95rem;
+  transition:    background var(--fast) var(--ease),
+                 color var(--fast) var(--ease);
+  text-decoration: none;
+  border:        none;
+  cursor:        pointer;
+  font-family:   inherit;
+  background:    transparent;
+}
+
+.nav-link:hover {
+  background:    rgba(255,255,255,.1);
+  color:         rgba(255,255,255,.95);
+}
+
+.nav-link.active {
+  background:    rgba(255,255,255,.15);
+  color:         var(--txt-inv);
+  font-weight:   600;
+}
+
+.btn-auth {
+  margin-left: auto;
+}
+
+/* ── Nav Mobile ────────────────────────────────────────────────── */
+.nav-mobile {
+  display:        flex;
+  flex-direction: column;
+  gap:            8px;
+  background:     var(--navy-mid);
+  padding:        16px;
+  border-top:     1px solid rgba(255,255,255,.1);
+}
+
+.nav-link-mobile {
+  color:         rgba(255,255,255,.8);
+  padding:       10px 12px;
+  border-radius: var(--r-sm);
+  font-size:     .95rem;
+  transition:    background var(--fast) var(--ease);
+  text-decoration: none;
+  display:       block;
+}
+
+.nav-link-mobile:hover {
+  background:    rgba(255,255,255,.1);
+  color:         var(--txt-inv);
+}
+
+.nav-link-mobile.active {
+  background:    rgba(255,255,255,.15);
+  color:         var(--txt-inv);
+  font-weight:   600;
+}
+
+/* ── Hero Section ───────────────────────────────────────────────── */
+.travel-hero {
+  display:       grid;
+  grid-template-columns: 1fr 1fr;
+  gap:           40px;
+  align-items:   center;
+  margin-bottom: 40px;
+}
+
+.travel-hero-content h1 {
+  font-size:     2.5rem;
+  font-weight:   800;
+  color:         var(--navy-dk);
+  margin-bottom: 12px;
+  line-height:   1.2;
+  background:    linear-gradient(135deg, var(--navy), var(--gold));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.travel-hero-content p {
+  font-size:     1.1rem;
+  color:         var(--txt-mid);
+  margin:        0;
+  line-height:   1.6;
+}
+
+.travel-hero-image {
+  height:        300px;
+  box-shadow:    var(--sh);
+  background-size: cover;
+  background-position: center;
+  background-image: linear-gradient(135deg, var(--navy-mid), var(--gold));
+  position: relative;
+  overflow: hidden;
+}
+
+.travel-hero-image::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="20" cy="30" r="8" fill="rgba(255,255,255,.1)"/><circle cx="80" cy="60" r="15" fill="rgba(255,255,255,.08)"/><circle cx="50" cy="80" r="5" fill="rgba(255,255,255,.1)"/></svg>');
+  opacity: 0.5;
+}
+
+/* ── Filtri Sezione ────────────────────────────────────────────── */
+.filters-section {
+  background:    linear-gradient(135deg, var(--surface) 0%, var(--surface-alt) 100%);
+  border:        1px solid var(--border);
+  border-radius: var(--r-lg);
+  padding:       24px 28px;
+  margin-bottom: 32px;
+  box-shadow:    var(--sh-sm);
+}
+
+.filters-container {
+  display:       grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap:           16px;
+  margin-bottom: 20px;
+}
+
+.filter-group {
+  display:       flex;
+  flex-direction: column;
+  gap:           8px;
+}
+
+.filter-group label {
+  font-size:    .85rem;
+  font-weight:  600;
+  color:        var(--txt);
+}
+
+.filter-group select,
+.filter-group input {
+  padding:      10px 12px;
+  background:   var(--surface);
+  border:       1px solid var(--border);
+  border-radius: var(--r-sm);
+  font-size:    .9rem;
+  color:        var(--txt);
+  transition:    border-color var(--fast) var(--ease),
+                 box-shadow var(--fast) var(--ease);
+}
+
+.filter-group select:focus,
+.filter-group input:focus {
+  outline: none;
+  border-color: var(--navy);
+  box-shadow: 0 0 0 3px rgba(28,48,80,.1);
+}
+
+.filter-group input[type="range"] {
+  padding: 0;
+  height: 6px;
+  cursor: pointer;
+  accent-color: var(--navy);
+}
+
+.filter-group output {
+  font-size:   .8rem;
+  color:       var(--txt-mid);
+  font-weight: 600;
+}
+
+/* ── Coupon Box ────────────────────────────────────────────────── */
+.coupon-box {
+  display:    flex;
+  gap:        12px;
+  align-items: center;
+  padding-top: 20px;
+  border-top:  1px solid var(--border);
+}
+
+.coupon-box input {
+  flex:        1;
+  max-width:   300px;
+  padding:     10px 12px;
+  background:  var(--surface);
+  border:      1px solid var(--border);
+  border-radius: var(--r-sm);
+  font-size:   .9rem;
+  transition:  border-color var(--fast) var(--ease);
+}
+
+.coupon-box input:focus {
+  outline: none;
+  border-color: var(--navy);
+}
+
+.sconto-info {
+  font-size:   .8rem;
+  color:       var(--ok);
+  font-weight: 600;
+  min-height:  20px;
+}
+
+/* ── Offerte Sezione ────────────────────────────────────────────– */
+.offers-section h2,
+.discounts-info h2 {
+  font-size:     1.5rem;
+  margin-bottom: 24px;
+  color:         var(--navy-dk);
+}
+
+.offers-grid {
+  display:               grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap:                   24px;
+}
+
+/* ── Card Offerta ──────────────────────────────────────────────── */
+.offer-card {
+  background:    var(--surface);
+  border:        1px solid var(--border);
+  border-radius: var(--r-lg);
+  overflow:      hidden;
+  transition:    transform var(--base) var(--ease),
+                 box-shadow var(--base) var(--ease),
+                 border-color var(--base) var(--ease);
+  cursor:        pointer;
+}
+
+.offer-card:hover {
+  transform:     translateY(-6px);
+  box-shadow:    var(--sh-lg);
+  border-color:  var(--navy-lt);
+}
+
+.offer-card-image {
+  width:        100%;
+  height:       200px;
+  background:   linear-gradient(135deg, var(--navy-mid), var(--gold));
+  display:      flex;
+  align-items:  center;
+  justify-content: center;
+  font-size:    3rem;
+  position:     relative;
+  overflow:     hidden;
+}
+
+.offer-card-image::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path d="M10 50 Q 25 30 40 50 T 70 50" stroke="rgba(255,255,255,.1)" fill="none" stroke-width="2"/></svg>');
+  opacity: 0.3;
+}
+
+.offer-card-body {
+  padding: 20px;
+}
+
+.offer-card-destination {
+  font-size:     1rem;
+  font-weight:   700;
+  color:         var(--navy-dk);
+  margin-bottom: 4px;
+}
+
+.offer-card-description {
+  font-size:     .85rem;
+  color:         var(--txt-mid);
+  margin-bottom: 12px;
+}
+
+.offer-card-prices {
+  display:     flex;
+  align-items: center;
+  gap:         12px;
+  margin-bottom: 12px;
+}
+
+.prezzo-originale {
+  font-size:        .8rem;
+  color:            var(--txt-muted);
+  text-decoration:  line-through;
+}
+
+.prezzo-scontato {
+  font-size:   1.4rem;
+  font-weight: 700;
+  color:       var(--navy-dk);
+}
+
+.badge-sconto {
+  background:  linear-gradient(135deg, var(--ok), #2d8659);
+  color:       white;
+  padding:     4px 8px;
+  border-radius: var(--r-full);
+  font-size:   .75rem;
+  font-weight: 600;
+}
+
+.offer-card-meta {
+  font-size:   .8rem;
+  color:       var(--txt-muted);
+  display:     flex;
+  gap:         16px;
+  margin-bottom: 12px;
+}
+
+.offer-card-footer {
+  display:     flex;
+  gap:         8px;
+  padding-top: 12px;
+  border-top:  1px solid var(--border-lt);
+}
+
+.offer-card-footer button {
+  flex: 1;
+  padding: 8px;
+  font-size: .8rem;
+}
+
+/* ── Sconti Aggiuntivi ─────────────────────────────────────────── */
+.discounts-grid {
+  display:               grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap:                   16px;
+}
+
+.discount-card {
+  background:    linear-gradient(135deg, var(--info-bg), rgba(23,71,113,.05));
+  border:        1px solid var(--border);
+  border-radius: var(--r-lg);
+  padding:       20px;
+  text-align:    center;
+  transition:    transform var(--base) var(--ease),
+                 box-shadow var(--base) var(--ease);
+}
+
+.discount-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--sh-sm);
+}
+
+.discount-card h3 {
+  font-size:     1rem;
+  margin-bottom: 8px;
+  color:         var(--navy);
+}
+
+.discount-percentage {
+  font-size:     2rem;
+  font-weight:   800;
+  color:         var(--ok);
+  margin:        8px 0;
+}
+
+.discount-code {
+  background:    var(--surface);
+  padding:       8px 12px;
+  border-radius: var(--r-sm);
+  font-family:   var(--font-mono);
+  font-size:     .8rem;
+  font-weight:   600;
+  color:         var(--navy);
+  word-break:    break-all;
+  border:        1px dashed var(--border);
+}
+
+/* ── Auth Modal ────────────────────────────────────────────────– */
+.modal-auth {
+  max-width: 500px;
+}
+
+.auth-form {
+  display:       flex;
+  flex-direction: column;
+  gap:           16px;
+}
+
+.form-group {
+  display:       flex;
+  flex-direction: column;
+  gap:           6px;
+}
+
+.form-group label {
+  font-size:   .9rem;
+  font-weight: 600;
+  color:       var(--txt);
+}
+
+.form-group input {
+  padding:       10px 12px;
+  background:    var(--surface-alt);
+  border:        1px solid var(--border);
+  border-radius: var(--r-sm);
+  font-size:     .9rem;
+  color:         var(--txt);
+  transition:    border-color var(--fast) var(--ease);
+}
+
+.form-group input:focus {
+  outline:       none;
+  border-color:  var(--navy);
+  box-shadow:    0 0 0 3px rgba(28,48,80,.1);
+}
+
+.auth-divider {
+  text-align:  center;
+  color:       var(--txt-muted);
+  margin:      12px 0;
+  font-size:   .85rem;
+}
+
+.btn-block {
+  width: 100%;
+}
+
+/* ── Offer Detail Modal ────────────────────────────────────────── */
+.modal-large {
+  max-width: 800px;
+}
+
+.offer-detail {
+  display:        grid;
+  grid-template-columns: 1fr 1fr;
+  gap:            32px;
+  align-items:    start;
+}
+
+.offer-detail-image {
+  width:         100%;
+  height:        300px;
+  background:    linear-gradient(135deg, var(--navy-mid), var(--gold));
+  border-radius: var(--r-lg);
+}
+
+.offer-detail-prices {
+  display:    flex;
+  align-items: center;
+  gap:        12px;
+  margin-bottom: 16px;
+  flex-wrap:  wrap;
+}
+
+.offer-detail-includes h3 {
+  font-size:     1rem;
+  margin-bottom: 12px;
+}
+
+.offer-detail-includes ul {
+  list-style: none;
+  padding:    0;
+}
+
+.offer-detail-includes li {
+  padding:    6px 0;
+  padding-left: 24px;
+  position:   relative;
+  font-size:  .9rem;
+}
+
+.offer-detail-includes li::before {
+  content:   '✓';
+  position:  absolute;
+  left:      0;
+  color:     var(--ok);
+  font-weight: 700;
+}
+
+/* ── Responsive ────────────────────────────────────────────────── */
+@media (max-width: 1024px) {
+  .travel-hero {
+    grid-template-columns: 1fr;
+  }
+
+  .travel-hero-content h1 {
+    font-size: 2rem;
+  }
+
+  .offer-detail {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .nav-desktop {
+    display: none;
+  }
+
+  .menu-toggle {
+    display:     flex;
+    margin-left: auto;
+    margin-right: 16px;
+  }
+
+  .travel-hero-content h1 {
+    font-size: 1.6rem;
+  }
+
+  .travel-hero-image {
+    height: 200px;
+  }
+
+  .filters-container {
+    grid-template-columns: 1fr;
+  }
+
+  .offers-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .coupon-box {
+    flex-direction: column;
+  }
+
+  .coupon-box input {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .travel-hero-content h1 {
+    font-size: 1.4rem;
+  }
+
+  .discounts-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .offer-detail {
+    gap: 16px;
+  }
+
+  .filters-container {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+}

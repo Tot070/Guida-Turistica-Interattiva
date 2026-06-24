@@ -79,8 +79,9 @@ const App = (() => {
   /** Conta totali per il toast di avvio */
   function _countTotals() {
     const c = _state.db.continenti.reduce((acc, cont) => {
-      acc.cities += cont.citta.length;
-      acc.poi    += cont.citta.reduce((s, city) => s + city.poi.length, 0);
+      acc.cities += cont.stati.reduce((sum, stato) => sum + stato.citta.length, 0);
+      acc.poi += cont.stati.reduce((sum, stato) => 
+        sum + stato.citta.reduce((s, city) => s + city.poi.length, 0), 0);
       return acc;
     }, { cities: 0, poi: 0 });
     return `${c.cities} città · ${c.poi} POI`;
@@ -100,7 +101,7 @@ const App = (() => {
   }
 
   /**
-   * Carica le città di un continente nel secondo <select>.
+   * Carica gli stati di un continente nel <select> degli stati.
    * @param {string} continentId
    */
   function loadContinent(continentId) {
@@ -108,18 +109,49 @@ const App = (() => {
     if (!id) return;
     _state.continent = _state.db?.continenti.find(c => c.id === id) ?? null;
 
-    const sel = document.getElementById('citySelect');
-    sel.innerHTML = '<option value="">🏙 Città…</option>';
+    const selCountry = document.getElementById('countrySelect');
+    const selCity = document.getElementById('citySelect');
+    
+    selCountry.innerHTML = '<option value="">🏳️ Stato…</option>';
+    selCity.innerHTML = '<option value="">🏙️ Città…</option>';
 
     if (!_state.continent) {
+      selCountry.disabled = true;
+      selCity.disabled = true;
+      return;
+    }
+
+    _state.continent.stati.forEach(stato => {
+      const opt = document.createElement('option');
+      opt.value       = Security.Validator.identifier(stato.id) ?? '';
+      opt.textContent = stato.nome;
+      selCountry.appendChild(opt);
+    });
+    selCountry.disabled = false;
+    selCity.disabled = true;
+  }
+
+  /**
+   * Carica le città di uno stato nel <select> delle città.
+   * @param {string} countryId
+   */
+  function loadCountry(countryId) {
+    const id = Security.Validator.identifier(countryId);
+    if (!id || !_state.continent) return;
+
+    const stato = _state.continent.stati.find(s => s.id === id);
+    const sel = document.getElementById('citySelect');
+    sel.innerHTML = '<option value="">🏙️ Città…</option>';
+
+    if (!stato) {
       sel.disabled = true;
       return;
     }
 
-    _state.continent.citta.forEach(city => {
+    stato.citta.forEach(city => {
       const opt = document.createElement('option');
       opt.value       = Security.Validator.identifier(city.id) ?? '';
-      opt.textContent = `${city.nome} (${city.paese})`;
+      opt.textContent = city.nome;
       sel.appendChild(opt);
     });
     sel.disabled = false;
@@ -133,7 +165,14 @@ const App = (() => {
     const id = Security.Validator.identifier(cityId);
     if (!id || !_state.continent) return;
 
-    _state.city         = _state.continent.citta.find(c => c.id === id) ?? null;
+    // Cerca la città negli stati del continente
+    let city = null;
+    for (const stato of _state.continent.stati) {
+      city = stato.citta.find(c => c.id === id);
+      if (city) break;
+    }
+    
+    _state.city         = city ?? null;
     _state.activeFilter = 'all';
     _state.routeActive  = false;
     _state.searchTerm   = '';
@@ -441,11 +480,76 @@ const App = (() => {
     renderPOIs(_state.visiblePOIs);
   }
 
+  /* ══ Viaggi in Offerta ═════════════════════════════════════════════ */
+  
+  /** Mostra i viaggi in offerta (seleziona città casuali da visualizzare) */
+  function showFeaturedTrips() {
+    const grid = document.getElementById('featuredTripsGrid');
+    grid.innerHTML = '';
+
+    if (!_state.db || !_state.db.continenti) return;
+
+    // Seleziona 6 città casuali da tutto il database
+    const allCities = [];
+    _state.db.continenti.forEach(cont => {
+      cont.stati.forEach(stato => {
+        stato.citta.forEach(city => {
+          allCities.push({ ...city, continente: cont.nome, stato: stato.nome });
+        });
+      });
+    });
+
+    // Shuffle e prendi i primi 6
+    const featured = allCities
+      .sort(() => Math.random() - 0.5)
+      .slice(0, Math.min(6, allCities.length));
+
+    const frag = document.createDocumentFragment();
+    featured.forEach(city => {
+      const card = document.createElement('div');
+      card.className = 'featured-trip-card';
+      card.role = 'listitem';
+      
+      const poiCount = city.poi ? city.poi.length : 0;
+      const icon = city.poi && city.poi.length > 0 ? CAT_ICONS[city.poi[0].categoria] || '📍' : '🏙️';
+      
+      card.innerHTML = `
+        <div class="featured-trip-img">${icon}</div>
+        <div class="featured-trip-info">
+          <h3>${Security.Validator.string(city.nome, 100) || 'Città'}</h3>
+          <p class="featured-trip-meta">${Security.Validator.string(city.stato, 100) || ''}</p>
+          <p class="featured-trip-count">${poiCount} punti di interesse</p>
+        </div>
+      `;
+      
+      card.addEventListener('click', () => {
+        // Seleziona continente, stato e città dai select
+        document.getElementById('continentSelect').value = (city.continente?.toLowerCase().replace(/\s+/g, '_')) || '';
+        App.loadContinent(document.getElementById('continentSelect').value);
+        
+        setTimeout(() => {
+          document.getElementById('countrySelect').value = (city.stato?.toLowerCase().replace(/\s+/g, '_')) || '';
+          App.loadCountry(document.getElementById('countrySelect').value);
+          
+          setTimeout(() => {
+            document.getElementById('citySelect').value = city.id || '';
+            App.loadCity(document.getElementById('citySelect').value);
+          }, 100);
+        }, 100);
+      });
+      
+      frag.appendChild(card);
+    });
+
+    grid.appendChild(frag);
+  }
+
   /* ══ API pubblica ════════════════════════════════════════════════ */
   return Object.freeze({
     State,
     loadDatabase,
     loadContinent,
+    loadCountry,
     loadCity,
     renderPOIs,
     filterPOI,
@@ -455,6 +559,7 @@ const App = (() => {
     closeTrivia,
     showToast,
     reset,
+    showFeaturedTrips,
   });
 
 })();

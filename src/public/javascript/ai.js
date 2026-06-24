@@ -232,25 +232,29 @@ ${cityCtx}`;
   async function _callProxy() {
     /* Il server Node.js (Express) esporrà:
        POST /api/chat
-       Body: { system: string, messages: [{role, content}] }
-       Header aggiunto dal server: Authorization con la chiave API
+       Body: { system: string, messages: [{role, content}], model, max_tokens }
+       Il server legge la chiave da process.env.ANTHROPIC_API_KEY
+       Restituisce la risposta standard di Anthropic.
        Il client non vede mai la chiave. */
     const res = await fetch(Config.API_PROXY_ENDPOINT, {
       method:  'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        system:   _buildSystemPrompt(),
-        messages: _history,
+        system:     _buildSystemPrompt(),
+        messages:   _history,
+        model:      Config.AI_MODEL,
+        max_tokens: Config.AI_MAX_TOKENS,
       }),
     });
 
     if (!res.ok) {
       const err = await res.json().catch(() => ({}));
-      throw new Error(err.message ?? `Proxy error HTTP ${res.status}`);
+      throw new Error(err.error?.message ?? err.message ?? `Proxy error HTTP ${res.status}`);
     }
 
     const data = await res.json();
-    return data.reply ?? '(risposta vuota)';
+    // La risposta da Anthropic ha il formato: {content: [{type, text}], ...}
+    return data.content?.[0]?.text ?? '(risposta vuota)';
   }
 
   /* ══ Reset conversazione ══════════════════════════════════════════ */

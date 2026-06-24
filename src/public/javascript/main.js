@@ -377,13 +377,50 @@
       const verEl = $('appVersion');
       if (verEl && typeof Config !== 'undefined') verEl.textContent = `v${Config.VERSION}`;
 
+<<<<<<< Updated upstream
       if (typeof App !== 'undefined') await App.loadDatabase();
 
+=======
+      // Carica database e popolamento select
+      if (typeof App !== 'undefined') {
+        await App.loadDatabase();
+        App.showFeaturedTrips();  // Mostra viaggi in offerta dopo il caricamento
+      }
+
+      // Bind selects (menu ad albero)
+>>>>>>> Stashed changes
       const continentSel = $('continentSelect');
+      const countrySel   = $('countrySelect');
       const citySel      = $('citySelect');
+      
       if (continentSel) continentSel.addEventListener('change', (e) => App.loadContinent(e.target.value));
+      if (countrySel) countrySel.addEventListener('change', (e) => App.loadCountry(e.target.value));
       if (citySel) citySel.addEventListener('change', (e) => App.loadCity(e.target.value));
 
+<<<<<<< Updated upstream
+=======
+      // Menu Hamburger
+      const menuToggle = $('menuToggle');
+      const navMobile = $('navMobile');
+      if (menuToggle && navMobile) {
+        menuToggle.addEventListener('click', () => {
+          const isOpen = navMobile.hidden === false;
+          navMobile.hidden = isOpen;
+          menuToggle.setAttribute('aria-expanded', String(!isOpen));
+        });
+      }
+
+      // Bottone Nascondi per i viaggi in offerta
+      const closeFeatured = $('closeFeatured');
+      if (closeFeatured) {
+        closeFeatured.addEventListener('click', () => {
+          const section = $('featuredTrips');
+          if (section) section.hidden = true;
+        });
+      }
+
+      // Buttons
+>>>>>>> Stashed changes
       const genBtn = $('generateBtn');
       const resetBtn = $('resetBtn');
       if (genBtn) genBtn.addEventListener('click', () => {

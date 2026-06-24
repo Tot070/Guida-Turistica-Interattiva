@@ -21,14 +21,14 @@ const Config = Object.freeze({
   /* ── Endpoints ────────────────────────────────────────────────── */
   // USE_PROXY: false  → sviluppo locale (chiave in window.__ST_KEY)
   // USE_PROXY: true   → produzione con Node.js proxy (raccomandato)
-  USE_PROXY:           false,
-  API_PROXY_ENDPOINT:  '/api/chat',                         // Node.js (prossima versione)
+  USE_PROXY:           true,  // ← ATTIVATO: usa Node.js proxy per sicurezza API
+  API_PROXY_ENDPOINT:  '/api/chat',
   AI_DIRECT_ENDPOINT:  'https://api.anthropic.com/v1/messages',
 
   // Modello AI — Sonnet per il giusto bilanciamento velocità/qualità
-  AI_MODEL:      'claude-sonnet-4-6',
+  AI_MODEL:      'claude-3-5-sonnet-20241022',
   AI_MAX_TOKENS: 1024,
-  AI_VERSION:    '2023-06-01',
+  AI_VERSION:    '2024-06-01',
 
   /* ── NOTA CHIAVE API ──────────────────────────────────────────────
      NON inserire API key in questo file.
@@ -40,7 +40,7 @@ const Config = Object.freeze({
   ─────────────────────────────────────────────────────────────────── */
 
   /* ── Dati ─────────────────────────────────────────────────────── */
-  DATA_PATH: './data/cities.json',
+  DATA_PATH: './data/data.json',  // nuovo file generato da build-data.js
 
   /* ── Rate limiting client-side ────────────────────────────────── */
   // Ulteriore protezione oltre al limite server-side che Node.js gestirà
